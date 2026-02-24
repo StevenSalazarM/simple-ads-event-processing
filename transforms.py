@@ -139,7 +139,7 @@ class CalculateMedianSpendFn(beam.DoFn):
         country_code, user_spends = element
         spends_list = sorted(list(user_spends))
         
-        if not spends_list:
+        if not spends_list or len(spends_list) == 0:
             return
             
         n = len(spends_list)

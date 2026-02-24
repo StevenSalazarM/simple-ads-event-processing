@@ -39,6 +39,7 @@ def run(options, impressions_path, clicks_path):
             impressions_split = (
                 pipeline 
                 | 'Create Impressions' >> beam.Create(impressions_data)
+                | 'Filter only impressions with id' >> beam.Filter(lambda x: 'id' in x)
                 | 'Map Imp ID' >> beam.Map(lambda x: (x['id'], x))
                 | 'Group Imp by ID' >> beam.GroupByKey()
                 | 'Split Imp Duplicates' >> beam.ParDo(DetectAndSplitDuplicatesFn()).with_outputs('duplicates', 'invalid', main='clean')
@@ -52,6 +53,7 @@ def run(options, impressions_path, clicks_path):
             clicks_split = (
                 pipeline 
                 | 'Create Clicks' >> beam.Create(clicks_data)
+                | 'Filter only clicks with id' >> beam.Filter(lambda x: 'id' in x)
                 | 'Map Click ID' >> beam.Map(lambda x: (x['id'], x))
                 | 'Group Clicks by ID' >> beam.GroupByKey()
                 | 'Split Click Duplicates' >> beam.ParDo(DetectAndSplitDuplicatesFn()).with_outputs('duplicates', 'invalid', main='clean')

@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "record": [
+    {
+      "id": null,
+      "user_id": "8c0f023e-451c-4336-a620-eb66e4a0d3c9",
+      "app_id": 2,
+      "country_code": "US",
+      "advertiser_id": 20
+    }
+  ],
+  "error": "Invalid or missing ID"
+}
