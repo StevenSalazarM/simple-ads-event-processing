@@ -1,0 +1,7268 @@
+[
+  {
+    "id": "ca68ca05-a207-4a66-b1d0-93ce9dbe8a8d",
+    "user_id": "e1173a98-ba39-4818-87c2-7e12537947af",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "1337c971-b6c4-4e9d-9a93-83e0860fb513",
+    "user_id": "c17e3706-d0d5-4c5e-9986-fcb6d779699c",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "ea7c57cd-a8c9-4cee-ac75-61a479c98e26",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 1
+  },
+  {
+    "id": "9ad7a12a-e214-4e8f-ad7e-49158a038e48",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "494ca27e-542e-4e74-b1c2-c14fbd955f82",
+    "user_id": "a2f77409-c73d-4ef4-aa9b-5b6c5413dceb",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 13
+  },
+  {
+    "id": "d904b37a-67b9-4ff4-bdb4-b73e380f6490",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "79321f68-37cf-446b-841f-595e2b782fed",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 6
+  },
+  {
+    "id": "ce80b5a8-0f47-4993-a24e-328bdc98a373",
+    "user_id": "c422d81f-4841-44dc-aadf-0dc7726470bb",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "3146ac33-c4c6-4c80-865e-56d8f6b70484",
+    "user_id": "cc9e5035-3fe6-46dc-9e15-ae5be48cbdc2",
+    "app_id": 3,
+    "country_code": "JP",
+    "advertiser_id": 2
+  },
+  {
+    "id": "33f006e4-ed46-47d1-ae05-21543d2d7f76",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 5,
+    "country_code": "JP",
+    "advertiser_id": 11
+  },
+  {
+    "id": "bd1376d8-2756-4e4a-bce0-2276a0e62f0d",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "cab29832-b8cb-48b2-8ef1-95ee62b06b56",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 3
+  },
+  {
+    "id": "dbae1a90-c28e-46e5-9ddd-e4449bfa98f4",
+    "user_id": "d6764b57-740c-4839-a776-0c43ede8ee59",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "4d55efa0-f189-4e2a-be52-cb660df4e89e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 18
+  },
+  {
+    "id": "f42cb798-a7ff-4187-96a5-8206f176f8cf",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 9
+  },
+  {
+    "id": "cdab70a6-3b98-47f9-90e8-f0598ac870f7",
+    "user_id": "1865a240-e810-402b-85d9-b4ca789c937c",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 7
+  },
+  {
+    "id": "dd87a0b2-bb53-432d-bb0c-e5f2044523ca",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "21d32c5d-8607-42a5-b72c-3eeaebb96b83",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "00c0b810-caf6-4a83-b824-8b8a0c545a27",
+    "user_id": "baca7c06-9ddf-43aa-b7ea-e8c9a6f277da",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 18
+  },
+  {
+    "id": "cf649c2d-1938-4365-849d-5d64c13ed66c",
+    "user_id": "4f91e5cf-d52b-4a78-a022-3e2efdabf057",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 10
+  },
+  {
+    "id": "009bee0a-31fa-450d-951e-068deb2f15b4",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "8b7c114c-a4ba-48f4-9a65-1db1e8b8e0d0",
+    "user_id": "f42fa82e-46cd-401b-931d-e2459eb6bffe",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 11
+  },
+  {
+    "id": "59082426-8fac-4561-a256-ee03bacc6549",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "42930aab-1fe3-417a-b6b1-90267eaf30fd",
+    "user_id": "b048dfdd-8852-4fdd-98cd-d4ef259dd20a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "8c069ce5-b885-4b82-ab9b-0551194b927c",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "94cc5738-54bf-4a24-a7bd-e368f139b2ec",
+    "user_id": "39998155-3730-4bf2-a4ca-bf07d8e44efc",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "7e339492-17b7-40ba-ae64-510c26d58323",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "f528cc57-357b-4b05-af90-802ab221656a",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "9f4447fa-c033-47ed-9b39-9ac938ebbb06",
+    "user_id": "8acba074-374e-4d4f-9aa0-ae297c0f9c35",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "66a20648-aa28-468b-9dac-402f12febc87",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 17
+  },
+  {
+    "id": "d6d6166c-f445-4c93-86d5-389882203d9c",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "429eb27a-9eba-4b47-aa0d-de0e3ae8a0dd",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "d00320b9-ef99-40f1-9490-4c6287297a3f",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "0d10f5ab-96ce-46ef-ab0a-dce743665d84",
+    "user_id": "18ef5a02-c8e3-4910-94fb-3b0994f75e95",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 17
+  },
+  {
+    "id": "844b28f2-6d66-4536-9669-f7212cba9349",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "844b28f2-6d66-4536-9669-f7212cba9349",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "844b28f2-6d66-4536-9669-f7212cba9349",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "844b28f2-6d66-4536-9669-f7212cba9349",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "7349d0bd-2fa9-46a3-8983-163d18d55ceb",
+    "user_id": "8d430f90-c21c-4746-9c1b-782c9eb11082",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 9
+  },
+  {
+    "id": "acc40933-962b-469f-b314-7759d1c63a61",
+    "user_id": "bfe97791-9bea-49e5-bf96-8d170dcb467a",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "44db9498-f2d7-46e8-82c3-41897b18e055",
+    "user_id": "458d40a5-e489-44eb-971e-2752b3d2a569",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "74e9059c-cd42-4857-9f12-2f2c3f9bee33",
+    "user_id": "cc9e5035-3fe6-46dc-9e15-ae5be48cbdc2",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "6cab3c2f-47fb-459d-b74d-95938e39a677",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "44b18c22-2ba4-40be-953a-1199619b23ed",
+    "user_id": "8668e9d6-81ef-43e2-9e76-03ccac7fc068",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "30f116bd-61d9-4689-94aa-e7bb3a4003f6",
+    "user_id": "387c9c3c-ead3-458f-893c-c72ef9735989",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "2d4acaae-8d0c-41c1-aba7-b2394febda40",
+    "user_id": "b77ca2d7-3c9d-4faf-bdb3-0086d5838c6c",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 8
+  },
+  {
+    "id": "3aed6f97-fd8c-4c1e-9bbc-7e0582752e04",
+    "user_id": "59ca6741-d315-404c-b602-3f8f0bbcf477",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 15
+  },
+  {
+    "id": "4940df1d-e383-4e3a-adce-7f3a919f414e",
+    "user_id": "8acba074-374e-4d4f-9aa0-ae297c0f9c35",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "3cb1e8c0-d71e-4bc2-a1a6-a52cf2bd73b1",
+    "user_id": "5eec82d9-62d1-4d8c-a7e9-d24928e68d4e",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 4
+  },
+  {
+    "id": "e7eae681-7263-42e2-97fd-f6e939c57a25",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "50933a63-ba81-4c15-ae76-b6262280f362",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 17
+  },
+  {
+    "id": "836d4b8e-8ebd-45eb-beca-630bd8139e94",
+    "user_id": "1e5a7705-94a2-453e-8155-570e8b4614b7",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "7ba35068-b085-4cd6-bf02-673360736519",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "5f989b7f-46d4-4625-bab3-b0d659428c35",
+    "user_id": "ce038141-226d-43bb-8847-df835b09fd44",
+    "app_id": 1,
+    "country_code": null,
+    "advertiser_id": 13
+  },
+  {
+    "id": "6a463382-da9a-4a8e-8ccb-05bce10b34db",
+    "user_id": "c296b48e-cac9-4d28-b084-f66b803b5fd7",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "ad1bcdb8-b4b1-4ed0-af32-fc256128e400",
+    "user_id": "dfbb134f-aebe-4268-8f27-342d92d49104",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "3c900863-115c-43c7-bb25-605fa4472be2",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "2c697b11-9a4d-4b53-8fa9-579cae75acc5",
+    "user_id": "c9934d41-1ca8-441d-90d1-c5d727b2b9ce",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 13
+  },
+  {
+    "id": "2c697b11-9a4d-4b53-8fa9-579cae75acc5",
+    "user_id": "c9934d41-1ca8-441d-90d1-c5d727b2b9ce",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 13
+  },
+  {
+    "id": "2c697b11-9a4d-4b53-8fa9-579cae75acc5",
+    "user_id": "c9934d41-1ca8-441d-90d1-c5d727b2b9ce",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 13
+  },
+  {
+    "id": "bafb3bda-0227-487d-b2c0-0a9438ec5033",
+    "user_id": "4aab70a4-2aa7-4a24-b3dc-4678790db621",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 17
+  },
+  {
+    "id": "be0f9d90-7293-4e4e-9f46-fa489ab5d07e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 18
+  },
+  {
+    "id": "e9de4f5d-6a86-42a8-a57a-8e4f1626bc77",
+    "user_id": "8a995f86-4e86-46a5-ab79-096ab83009a0",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "4166f477-ff84-449f-9a97-e341dbe8c821",
+    "user_id": "6e7b6550-c943-4a11-8b3d-d20b08c2b98c",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "7f4d7b35-c49c-4bc6-9b6e-69f12b21529b",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 3
+  },
+  {
+    "id": "c077cd03-64a8-4b7f-8332-e165e01fc5df",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 14
+  },
+  {
+    "id": "5e854906-3bd6-4053-82b6-228953abd862",
+    "user_id": "e758de15-05a9-4956-9dbb-d6746691f7b9",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 19
+  },
+  {
+    "id": "8bc7813e-6a05-4ff1-acdc-b96ecb620502",
+    "user_id": "f675b735-9de9-43ad-aa76-0709e6016638",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 18
+  },
+  {
+    "id": "138a3fae-19cc-4040-a941-f4c3666933af",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 13
+  },
+  {
+    "id": "a90e3e42-1cc2-47d1-bece-f28f48d3db0e",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 1
+  },
+  {
+    "id": "192ec33d-03d1-46be-9490-b7ce7d492539",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "3b19d7d4-6f6d-454e-9630-90a2e9ff2665",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "b0f9ff82-7736-4358-847f-0b8d7225f2ed",
+    "user_id": "b34b405e-c0db-4f47-b2d7-2b6c5815eff3",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "1e03e592-b9c6-4629-af0b-91dcc7aaad08",
+    "user_id": "1e5a7705-94a2-453e-8155-570e8b4614b7",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "db267298-934d-4a05-bf51-ee84d1bcb975",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "AU",
+    "advertiser_id": 4
+  },
+  {
+    "id": "ef05e138-16c5-45ab-9a58-eab8c889215b",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "52674877-069b-4c14-81d8-619074cc0770",
+    "user_id": "40339cc5-88cd-4886-b9a6-6df6d4ef609d",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "d6aaf8fd-7b92-43b3-954e-caa97aa0ee81",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 16
+  },
+  {
+    "id": "4c05990a-9a25-4726-8b83-6e93fda3092f",
+    "user_id": "fdaab062-ee9b-4025-9b37-3c98771535f2",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 9
+  },
+  {
+    "id": "8605c6f2-bcde-4496-90c0-4947d846a823",
+    "user_id": "7adc3652-5e7b-40e6-9cd9-a85daba14853",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "cb739828-db54-4828-a16d-f84f23fcfae3",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 1
+  },
+  {
+    "id": "a9431490-684e-46bf-ae47-5fb8bbb24151",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 9
+  },
+  {
+    "id": "70550889-2a42-4d84-b796-9f808efaada5",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "0d1dbece-34c8-4a54-b272-8ce58cc7448d",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "5e217b24-a470-4aed-8d86-88db298c5698",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "f1c71036-6421-4ac5-b7aa-e295f9fcdbf8",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "f1124fa1-e406-4f1a-8393-148c706afa0e",
+    "user_id": "f559bdc0-8ceb-4227-8728-8d6c59aa94ce",
+    "app_id": 5,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "fb42a34d-903e-4ca1-b8a1-2958133667ef",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 5
+  },
+  {
+    "id": "72028d7f-8bfd-416b-93bd-12cc8e90ec39",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "ce8f7400-2432-47f1-8eb7-694bc96e4ed9",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 5
+  },
+  {
+    "id": "705c0292-6a17-4904-a6b7-fed7a58db867",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 20
+  },
+  {
+    "id": "66ab727c-d9ea-4a37-a1a7-74dcd0bdfb0e",
+    "user_id": "e7b990c5-9379-4f72-96ef-5c66923998eb",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "9156f3a2-a11d-4097-a99e-19fa62e912db",
+    "user_id": null,
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "38342c47-7c12-431b-96c8-635da5d57e22",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "6dfcedaf-595e-44dd-bcb3-7129be22d076",
+    "user_id": "d3261606-32af-4145-a632-2cdb715c65cc",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 7
+  },
+  {
+    "id": "8d9de0f9-0c4d-4d29-8cd9-e577fd1fd076",
+    "user_id": "c37dd16f-2026-460a-af31-36a63b4adb34",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "1c85e57e-d548-48ed-97fa-24d28892a22c",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 9
+  },
+  {
+    "id": "069beba5-d763-45d7-b486-8ae318623f48",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "ff24b04f-8896-4edd-8c8d-ba8949ced234",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "92147b95-e6ce-48cc-af6a-ee4a4ebaf512",
+    "user_id": "ce380052-8bf4-4b45-9e64-4e0d612573aa",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "a581698a-4774-4590-84e7-b201f40e3a20",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "cd400104-0896-4ed2-8baf-d76c128dc977",
+    "user_id": null,
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "2c5fe14f-f26a-47ee-b232-8ae8962ce2b2",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 20
+  },
+  {
+    "id": "ba508ad6-89fb-4a7a-8e80-33eb43b80877",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "2b68453b-0d5c-4ed5-b552-ea92b010c41a",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "2d34f640-1beb-4998-94a8-dee8fa5126f6",
+    "user_id": "c422d81f-4841-44dc-aadf-0dc7726470bb",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 10
+  },
+  {
+    "id": "6608f679-86d1-42b7-adfe-b366c58510d4",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "a0d5b7a6-a50e-4b07-8434-081cd486494e",
+    "user_id": "dc1ce0cf-3009-45e9-9481-05f283cec502",
+    "app_id": 1,
+    "country_code": null,
+    "advertiser_id": 17
+  },
+  {
+    "id": "faec1ccb-fed3-44b6-a742-aa769225e478",
+    "user_id": "c296b48e-cac9-4d28-b084-f66b803b5fd7",
+    "app_id": 3,
+    "country_code": "JP",
+    "advertiser_id": 15
+  },
+  {
+    "id": "24892b43-726e-439f-9ebf-510a77acf003",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "13303b2c-3d45-40f0-a138-882557e59d32",
+    "user_id": "da31e963-8854-40ae-9513-5ac4c3e68b28",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 13
+  },
+  {
+    "id": "0964a9ac-90a7-4d0b-a444-43d68c9bbb77",
+    "user_id": "d4cc9845-8bde-47da-831a-850e6c624cdb",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 11
+  },
+  {
+    "id": "2119ad56-ebb3-461e-9123-c5fddb47a17e",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 5
+  },
+  {
+    "id": "d649f2b2-2186-437d-8aea-5e6cebcc46d8",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "2d7bc926-67e2-4c0e-b276-3021c2105cf7",
+    "user_id": "d88e4b0b-c063-4e99-9807-7a3ba7822ed0",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "7f7f9d39-d87c-4250-9293-e2b6bc02cd75",
+    "user_id": "458d40a5-e489-44eb-971e-2752b3d2a569",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "02401f0e-e6c7-44fe-9e45-6a6ed6aa39a6",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 19
+  },
+  {
+    "id": "4580bd02-8a06-4c68-80f1-7e8e6482a415",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 19
+  },
+  {
+    "id": "3a9ef692-e854-43a5-9f04-b78ac28b675f",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "IN",
+    "advertiser_id": 18
+  },
+  {
+    "id": "357adf16-e28f-4a4d-8394-40abec213090",
+    "user_id": "e1173a98-ba39-4818-87c2-7e12537947af",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "d192088b-d6ac-4933-80bf-407511924a8e",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 10
+  },
+  {
+    "id": "d192088b-d6ac-4933-80bf-407511924a8e",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 10
+  },
+  {
+    "id": "d192088b-d6ac-4933-80bf-407511924a8e",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 10
+  },
+  {
+    "id": "8db44cc4-d7ac-4126-9d59-3002a0f3c2c4",
+    "user_id": "d20e282a-4ec3-4ea4-bb9b-2a39737acae0",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "d001fd0a-41ef-4bca-b980-17bc53dd74b7",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "cf87696d-3b81-4712-b90a-d7fbf62eaee0",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 3
+  },
+  {
+    "id": "d7e3f9b5-f162-4b6c-aaec-d0d5accbe264",
+    "user_id": "03423dbc-3426-43e7-a283-3d9f468e1c29",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 17
+  },
+  {
+    "id": "c914bc9b-fc95-4ad8-aa9d-2b7012ac0ccd",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 11
+  },
+  {
+    "id": "95fb4e5e-5457-4421-ae28-ef48f9361aef",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 13
+  },
+  {
+    "id": "837eef63-7eeb-4961-b379-8914b5eba9c9",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 9
+  },
+  {
+    "id": "a2cfad30-58c1-464f-b387-bdddd94e47a7",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 18
+  },
+  {
+    "id": "1f473004-0b8a-4f27-a4d4-f652089de792",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 4
+  },
+  {
+    "id": "d91b5354-6773-4c9f-8c02-a3f106aec2e2",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "38388e9a-4039-465b-95c0-3f003fa18013",
+    "user_id": "c17e3706-d0d5-4c5e-9986-fcb6d779699c",
+    "app_id": 3,
+    "country_code": "IN",
+    "advertiser_id": 4
+  },
+  {
+    "id": "469c3f76-950a-470a-8b2d-f6528cf13281",
+    "user_id": "9384761f-385a-4460-a6b1-ccea02fe518e",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "5107ee10-14e0-4163-8744-16054ab8a33d",
+    "user_id": "c3b04204-096e-4916-abd6-180844abe921",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 7
+  },
+  {
+    "id": "a9143e7f-6ac6-477c-9edb-92db8dfc1711",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 2
+  },
+  {
+    "id": "83c0c630-0d1c-4e0a-ab93-30ddf1496550",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "55091f0c-1efe-43ae-8615-a50469cc7218",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 5
+  },
+  {
+    "id": "09770e66-cc5e-4795-bf7e-d9d829e7b8e3",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "d194a1f4-c14f-42a4-a438-689a4f472828",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 12
+  },
+  {
+    "id": "d2b2748a-928b-4a94-b62a-120cc2f19b43",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "JP",
+    "advertiser_id": 17
+  },
+  {
+    "id": "0daf4b76-0be4-4df9-bdb5-fd9363aef37f",
+    "user_id": "5b129563-9d83-40a2-87e6-dda627444778",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "6f5efc75-7524-462d-a002-5ff387bd8a42",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "553d43fa-3ce0-41dc-b3fd-252eda3692d0",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "eb7f7b4f-d019-4e8a-ad07-257825727786",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 4
+  },
+  {
+    "id": "af614ca2-fd44-490d-8e4a-43d515ac57f5",
+    "user_id": "38d48b28-5974-47bf-9243-53503a92f1ed",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "4f359ed6-9500-4719-936e-e36edc5b5da8",
+    "user_id": "cc9e5035-3fe6-46dc-9e15-ae5be48cbdc2",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "bd46e71b-6687-4b92-8181-195fb8f9e61f",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "cefbbcc0-73df-45fe-ab7e-ff7bdd46bb7c",
+    "user_id": "c535fed5-d9fa-4f70-a6b7-cc098512b397",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "2718ccf8-155f-4974-9597-aca7908a234d",
+    "user_id": "9b50f45a-3831-4b11-88b7-b90897901ccf",
+    "app_id": 5,
+    "country_code": "BR",
+    "advertiser_id": 20
+  },
+  {
+    "id": "78d8c2c7-f227-40a8-91f5-7bd2137dd645",
+    "user_id": "cd2d6c6e-3d8d-4e76-8cac-71bf6ffa7b6e",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "02acab13-85da-4c73-8f62-3e9361f045b3",
+    "user_id": "b048dfdd-8852-4fdd-98cd-d4ef259dd20a",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 1
+  },
+  {
+    "id": "56ad8675-0d5c-4f8b-9fb8-78bcf7685729",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "3f248eb9-fb0c-4e4a-947e-d6886c74d649",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "015210b3-4784-4712-a86a-5dd28da11c3f",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "ba35fca4-c3a0-4c54-9cc0-af1790640e24",
+    "user_id": "f559bdc0-8ceb-4227-8728-8d6c59aa94ce",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "3412f6a8-6a05-4034-9762-3cdc1fd023b4",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "793137f6-80f5-4c40-b3d1-ae7a3a2e2c07",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "c65e3a66-3c4f-4adc-bf1a-ac4d2e65f1be",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "966c7d75-6008-44f0-8db1-7d2d761ae28f",
+    "user_id": "10fe97ca-b5f8-4827-85dc-aa4b69c03026",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "95756f24-39e5-46d9-aaaf-419186042bce",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "748ab846-1036-4892-b3ee-e6d62d7ba45d",
+    "user_id": "767dd3ff-2618-4437-be98-e10301bd8faa",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 5
+  },
+  {
+    "id": "6237376e-d2e3-4968-bb94-96c9e61fa28e",
+    "user_id": "2ad3da65-cc46-45c4-9c5a-a468dff0554f",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "51c6e5ff-61ce-4cbc-9b15-ad06028538e0",
+    "user_id": "313ae351-0aee-4141-b79d-6b8109faab62",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 11
+  },
+  {
+    "id": "8cdb697e-caa1-4486-900d-1ae0434881fb",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "139d5132-b43f-48e0-91a4-a36984951321",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 3
+  },
+  {
+    "id": "d6977279-e730-4943-896b-64790c972403",
+    "user_id": "93e3a382-1c11-41d9-8bb4-8f023ef93210",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 19
+  },
+  {
+    "id": "8112cf4c-82e8-4a7c-9429-938f1da9ba33",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 11
+  },
+  {
+    "id": "17d4bcf3-2b3b-44cd-8273-a89439e9ac1a",
+    "user_id": "fdaab062-ee9b-4025-9b37-3c98771535f2",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 20
+  },
+  {
+    "id": "606216a0-e289-4744-8e9b-89edd85a2c79",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 11
+  },
+  {
+    "id": "30b947d5-5a59-4cf4-8a7a-77d822f6e371",
+    "user_id": "f9b7d535-39e9-44d8-b269-7d6f0deba9de",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 5
+  },
+  {
+    "id": "878856ff-2a6e-415a-bd64-47a610784036",
+    "user_id": "bd10d50f-abd3-4975-96c8-5089a00c54f7",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "5c190d50-601f-4017-bbc4-ee69367a3246",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 17
+  },
+  {
+    "id": "48036b94-cbb2-4a8d-b8ba-2976c5f735fd",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "015b383e-ef24-40f9-b878-45e8224f0660",
+    "user_id": "49bb013a-a61b-4c8a-9b81-4f84c6a6e7fa",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 17
+  },
+  {
+    "id": "35edea3c-36a4-4575-8911-9b899e57b3f7",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 20
+  },
+  {
+    "id": "b13ad655-5c46-4eaa-989e-0f1426997f9e",
+    "user_id": "fb118ba8-2900-4ff0-9074-a97c5376b65d",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "b598ec59-7080-4531-8d7d-49f0808575c5",
+    "user_id": "e188f6bc-ddce-4a9a-badf-979d72bcd75a",
+    "app_id": 3,
+    "country_code": "IN",
+    "advertiser_id": 7
+  },
+  {
+    "id": "f7094e43-d049-4bdc-ac63-50c6e26c2d56",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 6
+  },
+  {
+    "id": "7f75d084-694b-456e-b1bb-7d60f32ad206",
+    "user_id": "34393eea-2a77-4485-ac0f-247ae168648f",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 4
+  },
+  {
+    "id": "d2a9f131-e432-462a-8721-7ba2792533a1",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 14
+  },
+  {
+    "id": "f2d1e857-a85d-4265-aaec-ee725920ad9f",
+    "user_id": "9b2d6bfa-86f1-4570-bb8f-7753afba855a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 12
+  },
+  {
+    "id": "982522b5-45c7-40d8-a893-5981301ddd0d",
+    "user_id": "33a6c10f-f7f6-42bf-998b-761bb5a2f10a",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 5
+  },
+  {
+    "id": "30e35cc2-add1-4d86-8bca-58e5a99e1f4c",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 1
+  },
+  {
+    "id": "d16d78e0-0061-4367-8681-b642e89920af",
+    "user_id": "5f4172f0-3ffa-449b-8ac4-f893325126f6",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "4a9276ca-8853-4bc6-871f-efb4abaa43b9",
+    "user_id": "352ad7d1-c9e9-4645-a52e-4c1dda4b439a",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 16
+  },
+  {
+    "id": "6229f08d-8032-4d36-921a-c4d4f995457a",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 8
+  },
+  {
+    "id": "2f83f672-30d0-4e56-b2ea-4b093dd1f9b0",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 17
+  },
+  {
+    "id": "1ea1cb61-7d72-4e88-ae2d-7e7e47b6e4c3",
+    "user_id": "7485c772-4f43-404c-9f75-4506462df8ef",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "23c2fea9-4c46-4113-91de-2e6c7bacceb9",
+    "user_id": "dfbb134f-aebe-4268-8f27-342d92d49104",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "2ff9c469-d594-435e-bc20-f11c7cc82a37",
+    "user_id": "33193072-e3c6-4a79-b80a-af9629fec8ec",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "e6e108ca-771f-4cdb-857a-728349401c5b",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "b5a52602-de47-4f45-9f99-86263342d6bf",
+    "user_id": "2416712c-5039-4de7-8a1e-765bf44710ac",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "9f4f6130-0476-4af2-a2ec-5e5882f956ca",
+    "user_id": "87404d01-6395-4e31-a7e5-3c4220e589ce",
+    "app_id": 3,
+    "country_code": "IN",
+    "advertiser_id": 13
+  },
+  {
+    "id": "ec60d2b1-7d6a-49c7-af07-8fcae389c8b1",
+    "user_id": "fb1f60d8-a9bc-47b7-b09c-1be2fafed66f",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "2289a998-7694-4fa4-adb6-c366e6f1e2c8",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 10
+  },
+  {
+    "id": "0fac14ac-25bf-4294-a64d-18bfac24ef24",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 3,
+    "country_code": "IN",
+    "advertiser_id": 20
+  },
+  {
+    "id": "b8dc79d3-8263-40bc-87a7-f0108e9ba63d",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 6
+  },
+  {
+    "id": "8c810baa-50a8-411c-8689-0ff098576165",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 12
+  },
+  {
+    "id": "0f97cf2d-d67f-45d7-a246-550dd679c959",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 3
+  },
+  {
+    "id": "8a23f887-6262-4229-80de-fcbacc73a4ce",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 16
+  },
+  {
+    "id": "d1ac5d94-c583-4ed5-ac6f-21cffdcda1f8",
+    "user_id": "7907a85e-b221-4318-8a92-6010efa3d68b",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "32559e7e-80c4-4aae-a8ed-8f7c06c546d2",
+    "user_id": "9dbcc2a6-ee71-46bd-af58-11216ea4d55c",
+    "app_id": 5,
+    "country_code": "BR",
+    "advertiser_id": 11
+  },
+  {
+    "id": "dde3374c-3b6a-45b6-9fc6-4ee9e08f91dc",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 6
+  },
+  {
+    "id": "3aad617b-9c43-4717-bd45-74ea27b9fd00",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "5d2de6c5-c160-4e21-a143-19f585e56c6b",
+    "user_id": "0c93ada8-33ed-465b-be1a-efafac8bf781",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "a09d5088-c5e2-4cc3-87af-4a0324548a14",
+    "user_id": "6424a611-5bad-428b-b77c-abd66d0a7be0",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 17
+  },
+  {
+    "id": "d23d9f0e-40c6-4b67-b4f7-cb645eae0d94",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "070c6b24-e643-4903-bf51-6f7887050a9a",
+    "user_id": "5712e753-2bd3-45a5-80e4-81b358d0092f",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 17
+  },
+  {
+    "id": "7d5d7078-f0d2-4143-b24f-e50dc2143690",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "38b8abfd-db45-4d6a-be24-49019f62c320",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 11
+  },
+  {
+    "id": "089bcfc9-bb15-46ce-9cbe-33f8de34929a",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 7
+  },
+  {
+    "id": "e62a8a89-bb16-4079-ab30-2d857c8dc870",
+    "user_id": "1865a240-e810-402b-85d9-b4ca789c937c",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 16
+  },
+  {
+    "id": "2d7c0a98-3f88-4702-b920-5a5d7a61da90",
+    "user_id": "4c97515f-4675-41a8-b371-942012d7016b",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "3ad52f81-10f6-4566-bef6-4e0b69671f1a",
+    "user_id": "1de4569b-3983-4123-8b9c-d54304067abe",
+    "app_id": 4,
+    "country_code": "MX",
+    "advertiser_id": 5
+  },
+  {
+    "id": "2a5c5755-2a29-4b7c-89fc-2710b55907c1",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "d2afd817-3e08-441d-bde5-ad5fd2e1af9f",
+    "user_id": "5490de74-8342-4f86-acfe-5578e61843cb",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "d2ad08a7-58f3-4574-8b71-6f7b1eb1f66e",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 3
+  },
+  {
+    "id": "b49024be-ed09-42e7-863a-d48c34d0e299",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "560b5369-2398-4a40-9ffe-bd8d61a1a515",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "875daf84-0acb-497d-b032-9bcbb5cc7700",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 9
+  },
+  {
+    "id": "3e5e7242-22e8-4e12-902b-a4c7ce31be54",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 18
+  },
+  {
+    "id": "8ebcaffb-832a-489a-9b57-4de95fb2b905",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "7237ad64-1e98-4bb4-a9b0-be017312e256",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "48894b85-09b0-43b4-b5e2-41769807a928",
+    "user_id": "aba79c23-4dda-44fd-b67e-ab933280f166",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 10
+  },
+  {
+    "id": "2af0e3a6-a014-46fe-b92e-0c131bb3d45d",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 1
+  },
+  {
+    "id": "22d95b14-e70e-4e2e-af50-d99a556678cf",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "217d1e24-2eaa-420b-9337-b8134b9c5b79",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "d7c54b98-40a8-487e-b0d4-2890f3b49e67",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "bdb46c3a-93db-4a07-b385-28106f479ff8",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 17
+  },
+  {
+    "id": "7760fdcc-89c2-43d2-aa53-aa6df1bb9059",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 3,
+    "country_code": "JP",
+    "advertiser_id": 9
+  },
+  {
+    "id": "b499c8a5-357a-4992-9823-f22e846dfda0",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "41bd681d-bebb-4151-a432-4605e19b066c",
+    "user_id": "18ef5a02-c8e3-4910-94fb-3b0994f75e95",
+    "app_id": 5,
+    "country_code": "FR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "b0a0f7b9-f229-474f-8a36-ff7289a2b741",
+    "user_id": "8509b9ae-5a08-4f90-9757-095e3833f3fe",
+    "app_id": 5,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "206f5174-bfad-4a18-ba40-d9fb9fd03c9a",
+    "user_id": "c535fed5-d9fa-4f70-a6b7-cc098512b397",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "354d7821-373f-4821-8618-08c788397094",
+    "user_id": "50c54bc1-531a-4d2e-8706-e7ca41abb44f",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "612ef36f-ae3b-488d-b7fb-d258f173c1ac",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "0790866a-7179-423f-aa76-05e99485176a",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "5dafa041-0e33-4659-acf4-826f7c2e6139",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 2
+  },
+  {
+    "id": "42b5590b-9e9c-4d8c-9556-89c2e72bd03e",
+    "user_id": "d49d362e-7535-491a-bf98-8d07bd53f5e5",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "e1806496-3340-4a17-992a-a32ddc9d7ed7",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "3ae34a3c-ec2b-4baa-ac7b-64c28e8d2869",
+    "user_id": "65273369-3bc8-46bf-a2b8-c3a67f68f01a",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 7
+  },
+  {
+    "id": "6cffff86-4454-4d3e-a299-1c91e096450f",
+    "user_id": "8a995f86-4e86-46a5-ab79-096ab83009a0",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "950a2387-cee5-4c1a-92da-38aeac2968c5",
+    "user_id": "06f0e5e3-8e66-4bdc-8661-dff6f9d5447d",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "b9d50050-8d1a-49e9-99b1-8bce47fcc2aa",
+    "user_id": "ec9e7567-2bc7-4b63-b479-01a2fc2913ca",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "7ab5d1d5-295b-432f-9650-aaac462e8696",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 2
+  },
+  {
+    "id": "67450ad2-2b36-42c7-ae8c-c43d5942e7a4",
+    "user_id": "5b76fd8d-7020-4af5-8988-47891709e633",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 4
+  },
+  {
+    "id": "548b5df3-98a1-4632-8473-ad76276b7bab",
+    "user_id": "2b5f23ab-2b8a-4848-8f7c-29873be1db25",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "7dd3386d-f811-457a-9c1f-8e14354b631e",
+    "user_id": "c24abcc6-79bd-4b87-b798-80dcbc67788e",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 20
+  },
+  {
+    "id": "c893c8ba-b81a-4daa-8c4f-ec52aed5609e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "187ee0f7-c08e-41d8-895d-332095caab42",
+    "user_id": "148f89ba-9d72-4c57-a7ea-d64a11956da6",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 19
+  },
+  {
+    "id": "8b255485-96ff-4828-9ab1-ca0d1cfcc9e6",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 18
+  },
+  {
+    "id": "f5296374-afb4-4427-8b43-5be3f92dd29a",
+    "user_id": "b1166146-a179-43b8-8198-5693441aa7ff",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 2
+  },
+  {
+    "id": "6077cef3-210f-4c88-b2d9-4a11f9c10bc4",
+    "user_id": "9dae2031-04cf-4249-baa2-550e253f683a",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "4e474687-bffa-43ea-b116-2c0f775a046c",
+    "user_id": "d4a58c05-37e9-41a6-884a-f3c02341433a",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 13
+  },
+  {
+    "id": "3e1c51b6-e8b3-4360-8b9e-7bd178c05c73",
+    "user_id": "de2c0c87-3d41-416f-8e50-8092bafe718c",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 12
+  },
+  {
+    "id": "9ccdb19b-69e3-4a87-8057-62cbd4458053",
+    "user_id": "3dc4be58-761f-48bd-99fc-d18edeb0f3cb",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "3d47fb1c-e4a7-4b3f-a8be-2373b9e5e2cd",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "bd83b667-bff0-49f0-8933-392e98f341bc",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 3,
+    "country_code": "JP",
+    "advertiser_id": 1
+  },
+  {
+    "id": "f5ff2787-31b4-409e-bbb5-4db4e1996fea",
+    "user_id": "d79585e5-0653-4328-a7c2-0b01402f7a3a",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "caa31243-5ea7-43d1-83f2-f09c69d00048",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "4216dfe1-3492-4277-b685-7de91ac16532",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 8
+  },
+  {
+    "id": "806a60d8-a080-4582-b333-b30041e2caa1",
+    "user_id": "dfbb134f-aebe-4268-8f27-342d92d49104",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 18
+  },
+  {
+    "id": "e03b675f-72aa-4a8b-bb63-04525a0ccbdb",
+    "user_id": "d57a6935-de60-46ba-9ade-210a0852c8a7",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 5
+  },
+  {
+    "id": "31cc76aa-fcec-42cd-b400-1e9b16b050a3",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "592530ef-0278-472b-ab15-17dfee72b501",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "29733cf3-e425-46a9-9767-6bdcdfb620ca",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 20
+  },
+  {
+    "id": "049120e1-92cc-4b5f-8df5-4f0dd21f5b76",
+    "user_id": "1e5a7705-94a2-453e-8155-570e8b4614b7",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "bed8818e-32eb-41ce-b63d-e23f7784613c",
+    "user_id": "50c54bc1-531a-4d2e-8706-e7ca41abb44f",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 8
+  },
+  {
+    "id": "2c3029f5-013a-49c8-9923-e444e40ed879",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 12
+  },
+  {
+    "id": "1e08a059-996c-4f5f-a112-0e8394e40e18",
+    "user_id": "8f1c61f7-cbd8-462e-af20-bfc47e5ff03d",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 11
+  },
+  {
+    "id": "d0c2e721-b517-493a-9628-cadfec0f9e82",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "f9b70e51-bf3b-4f35-91fe-aa9f7406ed20",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "257a6b5d-1373-4e9d-9dc7-c950a77e8254",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 6
+  },
+  {
+    "id": "3ff36116-1938-454b-9349-b6291db91e58",
+    "user_id": "3fa80f4f-d3a9-40a6-83b3-a211f0149325",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "39719171-49c4-4133-b685-ed57685c5328",
+    "user_id": "4d1ef13f-a893-4943-becc-b64f38b5b9f4",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 1
+  },
+  {
+    "id": "a4cbdd47-2bd1-499b-b9ae-2c95526ce7de",
+    "user_id": "0cf72896-7b4d-438b-94cd-f5e1b4dc0a97",
+    "app_id": 5,
+    "country_code": "ZZZ",
+    "advertiser_id": 1
+  },
+  {
+    "id": "2e625df0-f3e6-436a-90d7-3d5ccbf91f90",
+    "user_id": "aad70324-f733-4236-a868-d8a7446f0b6b",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 14
+  },
+  {
+    "id": "17eca414-f3f1-4270-b4c0-176956c8d249",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 12
+  },
+  {
+    "id": "9b5cb90a-740d-4896-b8c3-f989fabeb8c4",
+    "user_id": "18ef5a02-c8e3-4910-94fb-3b0994f75e95",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "f628766c-010a-4681-86c3-d6f793154ba9",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "805d4556-41b0-420a-b081-6ad3315c8962",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 5,
+    "country_code": "MX",
+    "advertiser_id": 17
+  },
+  {
+    "id": "165bffe9-e418-411b-a018-a2888c1c4f37",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 9
+  },
+  {
+    "id": "a9e0caf9-d584-4eda-8526-ab7fddc7d4c9",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "37fd2914-0337-498d-aae5-c1eb40e4b5b7",
+    "user_id": "100e5e96-b3c5-4fc1-9a40-fd8b48f4bda1",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "40cd3ccf-d0b0-46b4-8e60-1c39a22fe086",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "05564e02-8de2-4d31-93ee-0e3c142b4d66",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "46ed32b2-ae97-43b7-b427-12d482d4c61b",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "69ff98b0-9ec3-4823-9309-fcdeaa21e6fa",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "69ff98b0-9ec3-4823-9309-fcdeaa21e6fa",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "69ff98b0-9ec3-4823-9309-fcdeaa21e6fa",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "69ff98b0-9ec3-4823-9309-fcdeaa21e6fa",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "615b8848-0d85-4212-99de-241e2c6cf9ae",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "dda0d7f6-9ec9-4a58-aa19-0e6cc828e5f3",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "9e94bc8a-d6d5-44a0-a20a-8443bb5cdf5d",
+    "user_id": "4aab70a4-2aa7-4a24-b3dc-4678790db621",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 8
+  },
+  {
+    "id": "274c3c28-2259-4eeb-99d9-4a73c8c4cb1c",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "faf61e94-b0bd-417d-a56d-062e6f0df8f3",
+    "user_id": "49d39f70-a932-415b-a289-280b57985b55",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "00fe63e1-0373-442a-bdf3-51e2d495b8c8",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 11
+  },
+  {
+    "id": "9ddec4bc-9525-4442-8064-789eb678d624",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 7
+  },
+  {
+    "id": "e4093053-7d84-4c10-a9d3-6a5fb63f7b0e",
+    "user_id": "dfbb134f-aebe-4268-8f27-342d92d49104",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 8
+  },
+  {
+    "id": "ad93960d-7df0-49a0-a3a6-c9fea2e17ede",
+    "user_id": "d935350a-fec2-4f66-95d9-734f8be3cb03",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 6
+  },
+  {
+    "id": "cf369058-502d-4a28-9d6b-786fde5ee38e",
+    "user_id": "fdaab062-ee9b-4025-9b37-3c98771535f2",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "7a3f572d-415f-4e7c-b64d-a3d5d0ed5c1f",
+    "user_id": "458d40a5-e489-44eb-971e-2752b3d2a569",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 14
+  },
+  {
+    "id": "766928c9-6f54-433f-9272-99f7cbd2d138",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 14
+  },
+  {
+    "id": "9c27f844-e3d6-407e-9006-1818c9dba7b8",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "2fbb6109-76af-45db-94ce-c71798606ad4",
+    "user_id": "d4652d6e-2cc5-4157-81f6-bd7bc5677e0d",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "26551360-2e65-4338-8fc0-c2d09384210b",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 19
+  },
+  {
+    "id": "951cbb5b-b856-4d3d-bf58-55675b0e411d",
+    "user_id": "9384761f-385a-4460-a6b1-ccea02fe518e",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 16
+  },
+  {
+    "id": "210ab995-f916-4ab0-a506-13aef1abe28c",
+    "user_id": "526e452b-e47e-4cd7-95fd-72c04f42acbb",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "130dbca1-d081-4533-87ec-0dd01fed0fa3",
+    "user_id": "d132c922-c555-4946-8e3b-297a1d59e147",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "19a6d6c1-4e90-41a0-a4b2-b072664a8d8f",
+    "user_id": "eb220bec-54fd-4d32-85e9-a6eeb6b96553",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 8
+  },
+  {
+    "id": "5d12bc0e-e3e4-45ba-b374-00a1ffad9d6e",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 6
+  },
+  {
+    "id": "54e7924e-28a1-43d5-b600-04347e9ee8eb",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 7
+  },
+  {
+    "id": "24a7e956-b04d-41f3-8057-5fd60ae640af",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "2c2155f8-1046-4359-b02c-5ca8be04c212",
+    "user_id": "187cd140-287b-4768-a79a-a8aa4a258d00",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "ebb67fdb-07f0-44b1-bdf9-e5d85a3ddc25",
+    "user_id": "3a788bb6-749a-4244-b58c-84fc05f7c085",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "65df8427-1174-43fc-a0ac-2dfc363ec511",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "a0ca14c8-4721-4946-a8ba-a617b1ef57f0",
+    "user_id": "458d40a5-e489-44eb-971e-2752b3d2a569",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 6
+  },
+  {
+    "id": "335a8425-c582-4146-bcd2-6898f2b6b978",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 1
+  },
+  {
+    "id": "b45299db-05a2-4782-8dfa-980901186cb3",
+    "user_id": "03d90dab-cf41-439a-bc27-9e959db2794e",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "2f08847c-6ac0-401a-be52-fa42f558e903",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 6
+  },
+  {
+    "id": "a4a69f28-51de-46b0-8748-7e7456db2712",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "9190669f-dff3-4ff5-9a03-0de306590a65",
+    "user_id": "8a995f86-4e86-46a5-ab79-096ab83009a0",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 4
+  },
+  {
+    "id": "247faea6-f736-4c60-afb9-ae22c4691e12",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 3
+  },
+  {
+    "id": "f6b20ca8-c2a3-46ed-85d1-ee44f67f8bd0",
+    "user_id": "4e154ded-173f-46c7-bd33-42aa776aac76",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "24a5a320-9d09-4ec3-84ce-c32b5a77f15c",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 9
+  },
+  {
+    "id": "facc6293-e830-4421-80ab-ec19b92a65c7",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 4
+  },
+  {
+    "id": "40cd343e-3535-411b-aa4d-5b5f4ab95af7",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 5
+  },
+  {
+    "id": "e91b4054-44d2-4fb0-8837-92ab48dac7e1",
+    "user_id": "fb118ba8-2900-4ff0-9074-a97c5376b65d",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 9
+  },
+  {
+    "id": "f872bfd4-e262-49ec-9fca-a99373f2f362",
+    "user_id": "9af8a70f-e7f0-46e0-b5dd-1a3035961d1a",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 12
+  },
+  {
+    "id": "3ddf1546-aa04-4114-a64e-1b5b7928407b",
+    "user_id": "5b129563-9d83-40a2-87e6-dda627444778",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 12
+  },
+  {
+    "id": "908654b6-51d2-4148-9a90-e0736fa33c03",
+    "user_id": "e280171b-7eb0-4441-b08c-c4b2c0c62c8f",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "3fb064b3-80ea-449c-b9b3-d7f6c0688e2e",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "cc597c3c-7363-4194-a50c-e49f803fa121",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 14
+  },
+  {
+    "id": "1db56407-9781-4799-8e6e-3ebf305cadac",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 12
+  },
+  {
+    "id": "0ba700dd-998f-4558-91ac-cce4b2bf15fb",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 8
+  },
+  {
+    "id": "d02d9fa6-bd1e-4571-87db-1c4d59eec48f",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "XX",
+    "advertiser_id": 15
+  },
+  {
+    "id": "0ba46333-0304-455c-974e-785a98fcb327",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 4
+  },
+  {
+    "id": "ab41fc31-5e8e-47e7-abae-2b26b6361d1a",
+    "user_id": "3a788bb6-749a-4244-b58c-84fc05f7c085",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 5
+  },
+  {
+    "id": "f0ce7bee-892e-4de1-bccc-209420eb920e",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 14
+  },
+  {
+    "id": "106e735a-98f2-4df7-8fb5-43ab7f81365f",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 12
+  },
+  {
+    "id": "22b36f74-4160-4993-a6e8-f0ed9607ce63",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 20
+  },
+  {
+    "id": "8bf4d457-5e3f-4858-8294-31f926a78b7e",
+    "user_id": "4fc70334-22ba-41fb-a711-37873e7dd579",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 7
+  },
+  {
+    "id": "d7af35be-4229-451b-971b-0d3bebf0fe67",
+    "user_id": "281bca82-b15b-4c0f-9831-21c830167fc5",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "813f8494-46b8-4348-9a06-423850423c68",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 19
+  },
+  {
+    "id": "f7c4b7aa-bc89-462b-b5ef-4f74a3d9d019",
+    "user_id": "818a8261-22e7-430c-ab44-c8947d671607",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 1
+  },
+  {
+    "id": "d5192b8e-20cc-486d-b5dc-8970572b5217",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "d4030dd6-27f3-420b-9c49-d8a187788d9d",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "6fc48f84-9a35-4c9b-814f-74294478e69d",
+    "user_id": "295af11c-016a-419a-b8a4-ef84b436fa6a",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 10
+  },
+  {
+    "id": "8582a3c9-9a76-4917-99d6-5bc9bd8bde14",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "2a0d5778-58bc-4a26-8812-a38a61e31395",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "21c16db7-9e6d-43e4-988e-7499c0c0ea1a",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 9
+  },
+  {
+    "id": "9aeec7a5-be5f-4f72-bbe1-21f2e3abbeb2",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "bcf102f8-33c4-4e1e-a000-20e94a42ea45",
+    "user_id": "645d3a22-e285-4852-a305-b0ef8532a582",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "83fd01d6-a558-4262-be41-d984df938d33",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "7517bfed-c528-4391-b4fd-d921c2cb40da",
+    "user_id": "ad6f1034-28ac-4459-8f59-735211512ad1",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 14
+  },
+  {
+    "id": "e7249220-98a2-4477-8a38-dbb03cf9e5f8",
+    "user_id": "be15a604-6d30-428a-bbf9-f8e93d09c46d",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "fe6afe1e-785f-483c-bcc6-0f9fcb18dec0",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "4821b7e6-a15f-4637-a8dc-786e95fe6644",
+    "user_id": "18ef5a02-c8e3-4910-94fb-3b0994f75e95",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 15
+  },
+  {
+    "id": "b7e11fc8-7d84-41e2-ab20-b64a3fe5f87c",
+    "user_id": "ddfaebe3-2831-4800-aa8e-d2bf4644fe9a",
+    "app_id": 2,
+    "country_code": "ZZZ",
+    "advertiser_id": 5
+  },
+  {
+    "id": "08a50ebd-9f57-4183-b7e7-3bef82ba6fce",
+    "user_id": "cd2d6c6e-3d8d-4e76-8cac-71bf6ffa7b6e",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "a5314b67-cc10-41bc-8d2e-2af39e16146f",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "210b1ac3-10f8-4078-8fca-c71b45bd5318",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 3
+  },
+  {
+    "id": "6cddc65b-5f70-4003-9750-31aaa67d5991",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 5
+  },
+  {
+    "id": "69b60d30-bef3-4ee7-beb8-d074da429453",
+    "user_id": "bdf2bb92-a81e-4cb9-a8d0-2b797563d535",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "7b3ef7d7-fff6-45c4-a2c3-c1af766e3fb2",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "96b4b20e-0459-4b7b-85a6-5f2ae17d9e03",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "3e938eba-a33c-433a-9200-2dcf5419c01b",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "db9318c0-408f-48b8-b919-eadfc5d98010",
+    "user_id": "0b078b57-7b8b-42e0-8d43-e524bc9bd298",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 15
+  },
+  {
+    "id": "7cec1488-8f8c-4f64-a924-b78362a74f68",
+    "user_id": "aa518257-4192-426b-a345-37b8f08ba584",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "b8da06c4-025f-452b-9d1d-a7f6fc83f2b8",
+    "user_id": "d4a58c05-37e9-41a6-884a-f3c02341433a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "6cf905a6-1e0d-479c-9d2d-aaef0f0d0913",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "BR",
+    "advertiser_id": 11
+  },
+  {
+    "id": "a231b176-0547-45cb-bcd8-52fd8aa80197",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "f72b9271-6602-4068-8e23-cc4a8790c7a1",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "f45f1652-a8e0-4cd1-a245-91587a956c40",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "b139bb05-4a87-420c-896a-f352cbf60125",
+    "user_id": "c24abcc6-79bd-4b87-b798-80dcbc67788e",
+    "app_id": 3,
+    "country_code": "MX",
+    "advertiser_id": 12
+  },
+  {
+    "id": "a1e04a87-04ee-4cd2-a97b-d04660f73ea7",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "5331ad1e-2734-47ac-965e-75bbe18deef4",
+    "user_id": "14b16bbd-f166-4c19-b525-f5404e9c1464",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 8
+  },
+  {
+    "id": "b9f53131-5931-44d6-bcd5-146c3675b345",
+    "user_id": "b1166146-a179-43b8-8198-5693441aa7ff",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "199620b8-f23d-4a71-9691-bd009dff75c0",
+    "user_id": "14b16bbd-f166-4c19-b525-f5404e9c1464",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "f0e88719-c061-4371-8701-34b311aec004",
+    "user_id": "08b2275d-0257-43fb-abf2-8423729f5840",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 19
+  },
+  {
+    "id": "5344dd86-b7be-4e03-96a6-a472d3806399",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "5344dd86-b7be-4e03-96a6-a472d3806399",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "5344dd86-b7be-4e03-96a6-a472d3806399",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "646d0474-9556-414d-ae3e-b91578a11782",
+    "user_id": "ae348e36-67ce-4292-9e69-99f3f65d86e3",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "03d57304-9747-4fc4-babb-36a64285f71e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 3
+  },
+  {
+    "id": "9c256436-8466-400e-bfc6-f1c795b39f34",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "4dc3e24d-c4cc-4eec-b219-21e39725a108",
+    "user_id": "0e216d3c-0e14-4798-ada8-d693e46f3744",
+    "app_id": 3,
+    "country_code": "AU",
+    "advertiser_id": 12
+  },
+  {
+    "id": "dc348d8b-c5a0-4db4-b163-f09ebcfa7b4d",
+    "user_id": "4c97515f-4675-41a8-b371-942012d7016b",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "56f5a23e-a8bf-4785-852e-f8a07c2f0673",
+    "user_id": "bfe97791-9bea-49e5-bf96-8d170dcb467a",
+    "app_id": 5,
+    "country_code": "MX",
+    "advertiser_id": 8
+  },
+  {
+    "id": "47cee8a4-48cf-4d6f-97ca-92ee3e3c9f02",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "9e42d972-2b70-4765-b2a1-bb6201248e1a",
+    "user_id": null,
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 12
+  },
+  {
+    "id": "5d88cea7-d9cb-4328-8ee5-01c5591e6ee5",
+    "user_id": "ddfaebe3-2831-4800-aa8e-d2bf4644fe9a",
+    "app_id": 5,
+    "country_code": "JP",
+    "advertiser_id": 16
+  },
+  {
+    "id": "a2e79768-044f-4d31-84b0-8ccb38c79750",
+    "user_id": "49bb013a-a61b-4c8a-9b81-4f84c6a6e7fa",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 8
+  },
+  {
+    "id": "ea23154d-3412-4469-93d4-d855e40b4868",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "1817f84d-1535-4dd8-8ee4-9b1695f6b231",
+    "user_id": "4ae53d60-2742-4b86-9a74-79332130d021",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 16
+  },
+  {
+    "id": "f8d50ed8-8f4f-4187-a825-c22eca9e89eb",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "cc8788ad-c26e-4044-923f-29940fe2d25e",
+    "user_id": "8acba074-374e-4d4f-9aa0-ae297c0f9c35",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "4785bbb5-ff11-44c9-979a-440aa0196b58",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 20
+  },
+  {
+    "id": "f6234b58-9e8c-44f9-b7bf-278151e09bbe",
+    "user_id": "40a57180-c401-4964-8fd8-90a55c042338",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "8a1977db-a354-4010-9d71-bc9ae4f076d7",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 6
+  },
+  {
+    "id": "06c3070f-9660-4a2d-b92f-32e4e20ea25d",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 4
+  },
+  {
+    "id": "07df3eb9-cdd9-49be-9b2a-d060e3e0da53",
+    "user_id": "c17e3706-d0d5-4c5e-9986-fcb6d779699c",
+    "app_id": 2,
+    "country_code": "JP",
+    "advertiser_id": 17
+  },
+  {
+    "id": "ec1a4fdf-dcef-4113-bd0c-634d519cc858",
+    "user_id": "22d9243b-11fc-4023-be28-3aac18fd943b",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "f03e996e-ec08-4d5f-bc67-7fa016bd178e",
+    "user_id": "352ad7d1-c9e9-4645-a52e-4c1dda4b439a",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 6
+  },
+  {
+    "id": "454b44b1-f873-4ea6-bb37-5f558b33d16e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 7
+  },
+  {
+    "id": "7522aa15-4c1a-40bd-8826-cdceddbb6ffa",
+    "user_id": "0ffeefff-5481-4087-9f42-600baf7f4083",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "530d2259-c100-4493-a7b0-7048e7aef4e8",
+    "user_id": "8bf2f18b-38ee-4ddd-87b2-c85f5af6c58a",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 19
+  },
+  {
+    "id": "12cd6551-fc87-4e0a-b0b3-0c1fc10445ef",
+    "user_id": "c17e3706-d0d5-4c5e-9986-fcb6d779699c",
+    "app_id": 3,
+    "country_code": "AU",
+    "advertiser_id": 4
+  },
+  {
+    "id": "dc87c578-12f5-4d74-8596-4b0dbaeace97",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "1c6310b1-63b1-453b-933d-f6946afad1cc",
+    "user_id": "fe05fa70-ceb3-4e77-818c-0f4d0b0a1e7c",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "a4c9230f-3a24-4ecc-b0d2-7bc6d6104ed0",
+    "user_id": "32b2cc94-9a58-43a3-9bc8-86ab471ff1cd",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "b6ecb527-85ea-4bb2-b302-3e80553e0eb7",
+    "user_id": "6e44e48d-bdf5-4491-8fc3-c964592380e7",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "f4dc9c5d-cf79-4858-b034-597083652ff5",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 14
+  },
+  {
+    "id": "c55b8527-53f1-4e0e-ad6a-8b8e764f092a",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "6db7f78d-5b13-473b-a497-32872bd6aa1b",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "c5ff64e8-9465-4beb-b326-9bf4cdcebd0e",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 4
+  },
+  {
+    "id": "e1e92516-50bd-44ef-86de-7ecf11a05d93",
+    "user_id": "9d85a608-31fc-4763-8dcf-0b708bf63e7a",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 12
+  },
+  {
+    "id": "55856772-5f89-470f-b890-346255d49f7f",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "ea835126-202f-42ca-b71f-f3a49713f44f",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 1
+  },
+  {
+    "id": "c6cadab4-6e82-4c0b-ae14-cb120fc64a5d",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 9
+  },
+  {
+    "id": "36adfe5f-e0b3-4f9f-8953-8e6d0a80dc05",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 13
+  },
+  {
+    "id": "01fb44e3-233f-4c89-a8eb-3d29d5af25d0",
+    "user_id": "31ce03e0-533a-4ef7-aca5-bd4df2f5a608",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 10
+  },
+  {
+    "id": "f0291e9d-1aa3-4e23-b1cc-231d4c6cdd2b",
+    "user_id": "34393eea-2a77-4485-ac0f-247ae168648f",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "fe1409f0-4912-4041-b671-f108ad5fb932",
+    "user_id": "f3135a0a-560d-40b2-a94e-762132fa6f1f",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "6297723a-71e7-4991-805d-51663d4e2d48",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "b540d7f2-1b47-4526-9156-a116c2620e93",
+    "user_id": "9dbcc2a6-ee71-46bd-af58-11216ea4d55c",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 16
+  },
+  {
+    "id": "b54b1fc3-6649-47c9-b68e-179bf7c1208e",
+    "user_id": "2e8d8454-08c3-45ce-8fa6-c61e9dd222c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "8f37d94e-66ec-4f75-89ce-bf7f370709d1",
+    "user_id": "5bdc53f9-7e5a-457a-bc89-2e8257206b6b",
+    "app_id": 5,
+    "country_code": "IN",
+    "advertiser_id": 3
+  },
+  {
+    "id": "406f0bd4-d9cf-423a-a8fd-4da2636ef7cb",
+    "user_id": "5f95c721-3694-45aa-93d3-692052bbe570",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 15
+  },
+  {
+    "id": "1c42aa60-5842-456d-830f-55e12bfe5c98",
+    "user_id": "6af647d6-7e0f-4a28-bdf5-e59e4b4e9652",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 17
+  },
+  {
+    "id": "12f0a4a2-3fb0-4c60-b776-88ea961d9fa4",
+    "user_id": "1d73db5a-26c9-470f-a386-c40e8873e0ad",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 11
+  },
+  {
+    "id": "6d94e46e-07b1-4509-b8c8-32ea38cfa2dc",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 16
+  },
+  {
+    "id": "eff48527-b531-48d7-8770-5298f1443efb",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "54482cfa-5a35-444d-b2ad-11d4c0d88c7d",
+    "user_id": "5745920e-23b1-43e3-804d-27503f6f3edc",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "13a7b43b-b713-4cda-b7d3-baaf5c9ec0d9",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 7
+  },
+  {
+    "id": "e4e7181f-2219-4ede-8347-792007f9e0bb",
+    "user_id": "8795121a-dda7-41ad-8982-7c39f15c2b9c",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "c8654392-d3f8-4d5b-a5dc-347ab2202f80",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "5eadb135-a06b-4551-bdf6-1f4874e7806d",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "6cffba8d-5cfa-437b-ad24-63d8f9b233c3",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "90763a56-052d-47e5-91d9-5a8324e95f9d",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "66d7b6fe-0f15-4b2a-b5d6-cb703f9940e5",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "4c8e1c78-18b5-421f-8eae-4c638309ffdf",
+    "user_id": "bfe97791-9bea-49e5-bf96-8d170dcb467a",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 4
+  },
+  {
+    "id": "8ba95e9a-9221-4900-aa2d-8e1629eacae0",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 17
+  },
+  {
+    "id": "3c6fea52-d79d-4608-97e4-64b1ca9f4556",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 4,
+    "country_code": null,
+    "advertiser_id": 16
+  },
+  {
+    "id": "f3892591-32c3-443a-b58d-7ec9e5eb84b1",
+    "user_id": "e0eaff3e-231e-4795-a08b-fbcb26ef5127",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "753f8163-ef4c-4c87-bf43-4a34c19a8a58",
+    "user_id": "d4a58c05-37e9-41a6-884a-f3c02341433a",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 9
+  },
+  {
+    "id": "e03c21b1-78c3-42b3-b45c-e6eb8981715a",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "655f644e-7b6d-4cca-8e0b-a1c75e17df44",
+    "user_id": "f0e4f992-6f1f-4102-9dee-5d014986efaf",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "d0428f57-d07d-4d86-a24c-e7c0301ec9ed",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "9656c604-38e9-4695-a994-83e1752c5d0b",
+    "user_id": "c422d81f-4841-44dc-aadf-0dc7726470bb",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "2bb7efbe-57f5-4dec-960e-04878daf9a8c",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "2c5238f7-9731-4ee6-ba76-1df9754c7128",
+    "user_id": "953b0d7c-c3d6-4d49-9759-f2cb1f98f03a",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "f1103903-467a-4749-b83f-4e030d684636",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 19
+  },
+  {
+    "id": "afb8a43a-8102-490a-8797-3714ae27d12b",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 14
+  },
+  {
+    "id": "c23db098-53c8-4825-ab6b-4b9bc60c939d",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 20
+  },
+  {
+    "id": "00e31fcf-173c-4a5b-82f9-90b9837348fd",
+    "user_id": "9feab689-c2ec-49de-9a08-9f19f65cc06c",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "e43b6e44-d686-46b9-8629-0f75b6b8d3ea",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 3
+  },
+  {
+    "id": "161da83f-d23b-40b0-84a1-075ac8e015fa",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 1
+  },
+  {
+    "id": "161da83f-d23b-40b0-84a1-075ac8e015fa",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 1
+  },
+  {
+    "id": "161da83f-d23b-40b0-84a1-075ac8e015fa",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 1
+  },
+  {
+    "id": "00341f0f-a6cb-46e5-b987-171daef3ffca",
+    "user_id": "93e3a382-1c11-41d9-8bb4-8f023ef93210",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 17
+  },
+  {
+    "id": "b6797fdb-fd55-4d88-a592-c8dbd03f44f8",
+    "user_id": "7adc3652-5e7b-40e6-9cd9-a85daba14853",
+    "app_id": 4,
+    "country_code": "JP",
+    "advertiser_id": 11
+  },
+  {
+    "id": "d24718fa-67ac-4ecf-a695-96d9c9157a48",
+    "user_id": "66301cc8-bff4-4acc-a5ec-721f3b1cf060",
+    "app_id": 1,
+    "country_code": "XX",
+    "advertiser_id": 8
+  },
+  {
+    "id": "0c15efc6-f778-42f9-ba4c-93ae30190f69",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "085436e2-a27c-48d8-b651-8084732b9ea6",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "fe7dd989-8d27-47ff-8202-c589f3e173da",
+    "user_id": "0e74536d-f890-4f32-9509-122b28939056",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 19
+  },
+  {
+    "id": "d39e080b-1cd2-4b12-b337-a0cae065b261",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "6ebb2559-7f7a-4e20-8e45-14b94149d3cc",
+    "user_id": "78ac832e-3590-4a28-a791-0190e0e99564",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 6
+  },
+  {
+    "id": "a7c9eafa-19c2-4ca4-a7ba-a1f390bdb18c",
+    "user_id": "373c2dc2-e8f2-4d7d-8607-4bc5a96ce5c4",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "25b4a633-7ab4-4d22-a8b9-0db6d94f5357",
+    "user_id": "27f2ebd6-2950-4ffc-9181-6ba509033493",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "e89e0029-f986-45bb-ba42-eef6544bc0ab",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "58c2d36c-29a2-4127-9b8c-3cb7e62ce867",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 3,
+    "country_code": "MX",
+    "advertiser_id": 6
+  },
+  {
+    "id": "d8f0417f-8668-449d-b676-dd83bb82d681",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 14
+  },
+  {
+    "id": "8564a088-2565-41db-81d3-5b7ee3a749a7",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "2933fb3c-12f8-485c-b951-20e5ca1c198e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "0008e4f4-d296-4306-bae7-29772d0426bb",
+    "user_id": "4bea452b-66b2-436d-975f-cce794c7afc9",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 18
+  },
+  {
+    "id": "4d5ad226-ed1f-4ed0-8eb8-c5730072710e",
+    "user_id": "d53dc85f-d391-4021-8b7e-23b0888379d2",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "850d3d02-6c9b-4837-842f-c9de0532985b",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "cc722ee6-32e1-4059-8035-af233779dfcd",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 12
+  },
+  {
+    "id": "2e203f93-fc39-442c-9244-91b564c0d567",
+    "user_id": "6d9fd8cb-e766-4a94-87cf-a89c6cbb830b",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "244cfb99-949d-4609-9199-a88f659ed18e",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "fd53a688-5aae-4752-818d-734220e4f676",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 20
+  },
+  {
+    "id": "89e6fa58-d2a7-4ef7-a1be-f7df6f664961",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 6
+  },
+  {
+    "id": "f5d2c1e8-5ecf-4e4e-960d-d0095d80bc9a",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 11
+  },
+  {
+    "id": "a8bf0b32-ae1d-44f1-aac5-2713e1b36f95",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 1
+  },
+  {
+    "id": "0a76e923-b9b9-4e80-aaf4-85046a8087c9",
+    "user_id": "36b5a56b-4f22-4a7c-9a7d-810afb1def81",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "3cf9084f-aabf-4aa0-8ebc-a0286d7a756a",
+    "user_id": "f9b7d535-39e9-44d8-b269-7d6f0deba9de",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 12
+  },
+  {
+    "id": "bec49620-a93f-48b2-a6ca-c081e86ae98d",
+    "user_id": "03d90dab-cf41-439a-bc27-9e959db2794e",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "bec49620-a93f-48b2-a6ca-c081e86ae98d",
+    "user_id": "03d90dab-cf41-439a-bc27-9e959db2794e",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "bec49620-a93f-48b2-a6ca-c081e86ae98d",
+    "user_id": "03d90dab-cf41-439a-bc27-9e959db2794e",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "31f5e1e2-ac37-448c-9dfb-31dbac736064",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "cf96df40-bef0-40e5-862d-ace829b3016d",
+    "user_id": "50c54bc1-531a-4d2e-8706-e7ca41abb44f",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 3
+  },
+  {
+    "id": "4e227952-390e-4e44-8d91-4aa5d25987e2",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "4b434727-7b5a-44ec-8dbb-a7f651a0102c",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "f0c1d704-8a68-47b4-819f-c82ce7ed3d3a",
+    "user_id": "7958634f-028d-41df-a776-2f99d5db4e42",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 3
+  },
+  {
+    "id": "421b6524-20a7-4c2e-89d9-57d6372b424c",
+    "user_id": "c7561339-26c0-465f-9895-045e72bbe51a",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 13
+  },
+  {
+    "id": "2aa48df3-322b-4881-93be-19e21dedf713",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "504a9c68-6344-4a89-9c00-fe01a4f890e6",
+    "user_id": "9e3b4225-6e96-4159-abaa-35850945427d",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 1
+  },
+  {
+    "id": "504a9c68-6344-4a89-9c00-fe01a4f890e6",
+    "user_id": "9e3b4225-6e96-4159-abaa-35850945427d",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 1
+  },
+  {
+    "id": "504a9c68-6344-4a89-9c00-fe01a4f890e6",
+    "user_id": "9e3b4225-6e96-4159-abaa-35850945427d",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 1
+  },
+  {
+    "id": "504a9c68-6344-4a89-9c00-fe01a4f890e6",
+    "user_id": "9e3b4225-6e96-4159-abaa-35850945427d",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 1
+  },
+  {
+    "id": "3db106f7-6ad8-46ef-9bbf-0bdf3d7bc0b1",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 12
+  },
+  {
+    "id": "68abb89f-d609-4a1d-878d-0496f9472c47",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "a1915807-1f2f-4c71-990c-975ea2f90d01",
+    "user_id": "8f292f58-2147-4dc5-b44f-d1b2ce1bb139",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 18
+  },
+  {
+    "id": "592bc3ed-7bbb-4537-959a-a97fff09be8f",
+    "user_id": "c296b48e-cac9-4d28-b084-f66b803b5fd7",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "359e1ae4-3202-4087-a943-5341b6fa2634",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "c2acc86f-5dfd-4ff9-88c2-7e68cc796ab6",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 14
+  },
+  {
+    "id": "a032dd58-2477-42a9-a3e7-46f806b9a710",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 16
+  },
+  {
+    "id": "3306202b-b998-47d8-86f6-5d6622ddb1de",
+    "user_id": "d6c1f150-80e6-44b1-b0e1-90711bc0314f",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 9
+  },
+  {
+    "id": "30761571-efc2-4c70-b023-9c629b0baea5",
+    "user_id": "100e5e96-b3c5-4fc1-9a40-fd8b48f4bda1",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "048c1433-5c39-4138-9f98-021424011fa8",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 5
+  },
+  {
+    "id": "cc1a6ee1-6feb-451d-9d1f-9d0fc57c33d7",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "94d0bac6-0ac5-49e9-88da-abcbba2fc724",
+    "user_id": "028f837e-458c-4d82-8446-325ccf435b2b",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "b60f1e74-0d70-454f-ad7f-8ca6e41f32cd",
+    "user_id": "bd10d50f-abd3-4975-96c8-5089a00c54f7",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 12
+  },
+  {
+    "id": "6487fe04-808c-4ee2-a958-fb6c820e9f57",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 12
+  },
+  {
+    "id": "3c9e7bf5-3476-4e93-b7a5-097c8a6723fa",
+    "user_id": "c422d81f-4841-44dc-aadf-0dc7726470bb",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 9
+  },
+  {
+    "id": "0c6cccfc-555e-4c39-bd5f-22651d810b75",
+    "user_id": "03d90dab-cf41-439a-bc27-9e959db2794e",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 3
+  },
+  {
+    "id": "2dcf2690-909e-4b6b-8bd4-f1e4378a6707",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "b39a0fb3-107d-494c-987f-caf4c3ef3454",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "ae8a6f40-b01f-462d-bf73-d952993d5b77",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 16
+  },
+  {
+    "id": "e6b343e2-301a-45c6-a9cb-fe88ce45de35",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "41fedab2-9cb5-4d11-b995-f57dd1f6b7b8",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "dcda01be-93b1-46a2-a553-ee5aa1cefcd5",
+    "user_id": "8acba074-374e-4d4f-9aa0-ae297c0f9c35",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "b6c9138d-be24-4c2c-b695-1cb87f109c9e",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 6
+  },
+  {
+    "id": "b29b3e10-5524-413e-afd9-354c095702a6",
+    "user_id": "cf441946-004c-45a6-9a0f-d36eaf98265c",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "df0be8f1-f922-4306-b3bc-76f1c5a1115d",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "667470d1-c4b7-4be9-925e-4059557ba3a3",
+    "user_id": null,
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "98b7a88b-65bd-43ad-babf-6c164bf35216",
+    "user_id": "eb220bec-54fd-4d32-85e9-a6eeb6b96553",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "98c59970-3f42-4cc1-b5e4-d3d53574673f",
+    "user_id": "0824d480-5cdd-4684-b925-98bf48ad7d10",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "6653311e-7a58-47a6-b90a-2493afef62b7",
+    "user_id": "d6c1f150-80e6-44b1-b0e1-90711bc0314f",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 14
+  },
+  {
+    "id": "6653311e-7a58-47a6-b90a-2493afef62b7",
+    "user_id": "d6c1f150-80e6-44b1-b0e1-90711bc0314f",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 14
+  },
+  {
+    "id": "6653311e-7a58-47a6-b90a-2493afef62b7",
+    "user_id": "d6c1f150-80e6-44b1-b0e1-90711bc0314f",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 14
+  },
+  {
+    "id": "daf095c1-5b4d-4afd-bf5b-f66bc62be7ab",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "dee97b28-ad31-478b-9f12-a5846edd7d2e",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 20
+  },
+  {
+    "id": "15a5601a-cc01-4b5c-ace7-2e27939c2994",
+    "user_id": "7bc43bf0-f9aa-4623-a47e-800923bd2018",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 18
+  },
+  {
+    "id": "3faee92f-2743-4460-b87e-88babd696ad6",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 4
+  },
+  {
+    "id": "cab8c2f7-764d-48fc-8bea-cf20b8b7fde3",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "b8663995-4e10-47d8-9561-29fb5cf0b2e6",
+    "user_id": "458d40a5-e489-44eb-971e-2752b3d2a569",
+    "app_id": 4,
+    "country_code": "BR",
+    "advertiser_id": 16
+  },
+  {
+    "id": "511d95a4-a10a-4493-9bec-2346de5927c8",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "9ff9f862-aa19-4dee-85ce-1e414b064112",
+    "user_id": "d331d511-f496-4e20-8334-84f41de8c561",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 15
+  },
+  {
+    "id": "8fb6f037-557a-4e19-b0cd-6c4e51763942",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "6f66d8ed-71d4-4dac-8323-5c6cd2eee0eb",
+    "user_id": "d24127be-5b01-4ba4-ae9c-8420ff3c75b1",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "d6ddf937-576e-4fc2-97f9-4195bd96dbd3",
+    "user_id": "b77ca2d7-3c9d-4faf-bdb3-0086d5838c6c",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "f1f7ec8f-35ea-4682-a483-641a2f5a11bd",
+    "user_id": "d882a47b-db98-434d-91a7-a512f5ad887a",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 15
+  },
+  {
+    "id": "b1a9f580-608c-46cc-bc28-ec966fa90fc3",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "103f37d4-e8c8-48f7-b997-61e4b259e5d3",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 3,
+    "country_code": "MX",
+    "advertiser_id": 19
+  },
+  {
+    "id": "e7e2f45b-4f1a-4e89-bdd9-138cf774485c",
+    "user_id": "d6764b57-740c-4839-a776-0c43ede8ee59",
+    "app_id": 4,
+    "country_code": "JP",
+    "advertiser_id": 16
+  },
+  {
+    "id": "5970291a-f1f1-4edd-9788-c25be86d9ed6",
+    "user_id": "fb118ba8-2900-4ff0-9074-a97c5376b65d",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 12
+  },
+  {
+    "id": "2bdd6575-7172-49bb-81ba-0cf5ffd398e4",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 3
+  },
+  {
+    "id": "69d3683e-ec4a-43a2-b468-f226750b7236",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 7
+  },
+  {
+    "id": "c84cd10b-c40d-4dbb-b515-b690cbe1f954",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "6e2b7482-03dd-4bd2-b2fb-a4f435124ec9",
+    "user_id": "bf28040e-41c3-4fd0-b8f5-3479472a759d",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "58f94b44-39c2-4707-960c-45734581b183",
+    "user_id": "98dd1107-078e-4129-b208-3d237779d1c9",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 9
+  },
+  {
+    "id": "73145d1b-bf46-47bf-bb7f-487e145e80fc",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "b7132651-59fd-4384-8445-80bbaa34450f",
+    "user_id": "38d48b28-5974-47bf-9243-53503a92f1ed",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 17
+  },
+  {
+    "id": "0c72eda5-3935-46d8-aaee-1cbcb8b5b6be",
+    "user_id": "c296b48e-cac9-4d28-b084-f66b803b5fd7",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 9
+  },
+  {
+    "id": "bb0ad9f8-7531-480a-b103-d65bd0e97573",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "f23c81a5-dea2-4176-b176-daf974bd37b8",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 8
+  },
+  {
+    "id": "d2f3048a-6199-4149-b5cd-ace3ce55a0f1",
+    "user_id": "fb3b7412-e09f-47f6-9575-fc80278a86e4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "06c3f9ec-782e-4d13-9c1d-e09b37795199",
+    "user_id": "005aa7ad-bcc7-42b5-be32-3519d9d4ff1d",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "ddff16f6-a76c-4b04-8bcf-49d84ce25a8b",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "b626205d-bf2c-431a-8f71-19190cbf4714",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 9
+  },
+  {
+    "id": "560ec941-dcb4-4fb6-8baa-8c64730d27fd",
+    "user_id": "bfe97791-9bea-49e5-bf96-8d170dcb467a",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 18
+  },
+  {
+    "id": "d16ea0ee-3b56-4ba7-8980-3f07c66b20c8",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 3,
+    "country_code": "IN",
+    "advertiser_id": 13
+  },
+  {
+    "id": "e9ed5f98-4f95-4397-924c-4bf262455c99",
+    "user_id": "34393eea-2a77-4485-ac0f-247ae168648f",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "014eb144-0ec7-4b52-8cc5-604421440c21",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "0cb329ad-f613-4e8e-8ae6-8e289b51bf35",
+    "user_id": "2e419017-6461-4178-9202-d977072944cd",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 15
+  },
+  {
+    "id": "ec203d3b-af9e-42e0-a8c5-024046388485",
+    "user_id": "8acba074-374e-4d4f-9aa0-ae297c0f9c35",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 3
+  },
+  {
+    "id": "3be49bf0-3628-4a4f-8085-69a610cdc6d2",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 17
+  },
+  {
+    "id": "c2bcd846-2168-4308-bbba-ae5e1c2bd062",
+    "user_id": "c535fed5-d9fa-4f70-a6b7-cc098512b397",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "244f7223-1eec-4ddc-87ed-c73b5aab4730",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "4dde3c58-c800-469c-bfd0-237351a4db7b",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 18
+  },
+  {
+    "id": "aa4dd978-7513-4766-bf40-332f929da1d1",
+    "user_id": "18ef5a02-c8e3-4910-94fb-3b0994f75e95",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 10
+  },
+  {
+    "id": "ac3e49f2-2dca-431c-bbf9-6a4d4bb35cf9",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "??",
+    "advertiser_id": 1
+  },
+  {
+    "id": "ac3e49f2-2dca-431c-bbf9-6a4d4bb35cf9",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "??",
+    "advertiser_id": 1
+  },
+  {
+    "id": "ac3e49f2-2dca-431c-bbf9-6a4d4bb35cf9",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "??",
+    "advertiser_id": 1
+  },
+  {
+    "id": "ac3e49f2-2dca-431c-bbf9-6a4d4bb35cf9",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "??",
+    "advertiser_id": 1
+  },
+  {
+    "id": "f6bea61b-5111-4efc-a654-3387d80ce35d",
+    "user_id": "96470c20-9f53-498f-aa45-6a828258038b",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "e0cbf89e-6202-40e1-98b4-deb4097ae7e4",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "1d1bb9b7-977c-4d7a-843d-3f7b61dd41d2",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "e6124c38-7484-487a-80bd-8484bbabe535",
+    "user_id": "d6894314-0f87-43a7-b0f6-e93588089481",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 6
+  },
+  {
+    "id": "f99770fe-76ff-4a98-ab99-edcc111292ac",
+    "user_id": "08b2275d-0257-43fb-abf2-8423729f5840",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "8755e6c4-392a-4084-a7be-d1f82f1cf22a",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 8
+  },
+  {
+    "id": "20d6c1b7-1b55-414d-8951-70c42799859f",
+    "user_id": "d57a6935-de60-46ba-9ade-210a0852c8a7",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "14c27bff-975f-4f00-8900-e5345d6be2b5",
+    "user_id": "767dd3ff-2618-4437-be98-e10301bd8faa",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 7
+  },
+  {
+    "id": "20587e4b-4aab-4ac0-9edc-b1eb60a32d19",
+    "user_id": "ebf1331f-696a-41b7-9b67-2ecb29eba165",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "fff20e5a-3748-43c3-a69c-892f860ccd1d",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "81dbd887-7aca-4586-a0ac-2cbcadac6d1c",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 9
+  },
+  {
+    "id": "be1497ad-6088-43f8-b7f3-34cb005bc46c",
+    "user_id": "fa1d5ca2-341c-4183-b0f0-f070bdf77639",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "d59c3f91-348e-445a-859f-a3818de00948",
+    "user_id": "dfe79bed-3b4a-4e3b-8c3c-7e38c9d90c5f",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "d090a091-1da6-4d15-aada-9701221c82a5",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "23f6a00e-5d9d-4c4b-8a42-5e37c203e09e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 12
+  },
+  {
+    "id": "a4d1600f-0339-47b3-9cfd-2ff3aab5835f",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 16
+  },
+  {
+    "id": "29b4a745-284a-4ced-bcf0-eb6c099a2050",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "cd6facea-f323-4435-aa34-b20490f81831",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "b09762d6-7ee2-43d4-9f9f-3ef17e22f404",
+    "user_id": "1de4569b-3983-4123-8b9c-d54304067abe",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 12
+  },
+  {
+    "id": "5927e941-9813-41d7-9678-2a3d5d3a0462",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "8185a6b0-d7b3-4dd9-9505-94f3c035bf18",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 2
+  },
+  {
+    "id": "0ad62e9b-c465-4ee2-bc85-ff2a37b52487",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "3ecf9732-cb30-4bec-8894-02c549f6b471",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "8d73ea92-2040-4cf9-84ff-842af22373f8",
+    "user_id": "e1173a98-ba39-4818-87c2-7e12537947af",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 14
+  },
+  {
+    "id": "e5613df3-49bd-461b-94e7-95332cf64a30",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 3
+  },
+  {
+    "id": "2a6eee34-be48-482a-ba3e-a31f29865982",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 8
+  },
+  {
+    "id": "01c5a033-d715-4cfe-adc4-31fe964a6f1d",
+    "user_id": "c5044f37-ec11-4816-b048-37c3129f1e03",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 15
+  },
+  {
+    "id": "5810e339-2ec6-405b-8c1f-29b73115c27c",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 18
+  },
+  {
+    "id": "9748b1f8-6622-4e2d-a8ef-eeaa4ea2ce66",
+    "user_id": "5f2baa95-7634-43f0-87ac-29a7c8e49188",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "a430ebef-fe6a-49c1-b24a-42c0d4cb9cf1",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 12
+  },
+  {
+    "id": "cf96c02d-8314-4e79-84da-9a0fe41bbbd5",
+    "user_id": "1b1ed91a-caa4-4593-8d40-051586a7c1d6",
+    "app_id": 2,
+    "country_code": "??",
+    "advertiser_id": 10
+  },
+  {
+    "id": "f7da2769-1bb5-4cbf-8930-c150fb2e521d",
+    "user_id": "a94d8365-3490-4d12-8edb-722a3b43ca7f",
+    "app_id": 4,
+    "country_code": "IN",
+    "advertiser_id": 17
+  },
+  {
+    "id": "736411f0-aaa8-411c-88dc-73bf0bb5bdab",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 19
+  },
+  {
+    "id": "f8ef4a77-5dd5-4c06-ae76-ee1f58aaf47b",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "d7beeb08-e1b2-49ec-9519-e846f264e212",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 10
+  },
+  {
+    "id": "9009ecb0-1637-4c45-8b60-34abbaf501fc",
+    "user_id": "dfa01faa-ec88-4b4c-9d13-23c07e7aab0d",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 14
+  },
+  {
+    "id": "1da383fc-579b-4e4f-94a2-a1aa396c27df",
+    "user_id": "03d90dab-cf41-439a-bc27-9e959db2794e",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "e8613fe3-5438-4c4c-8892-910009b004d4",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "33082d47-7d0a-47a5-b979-2b54964363dd",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "85cf6616-cfd8-4e77-a0c9-bd678a71a398",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "974f9aeb-e6cd-4d36-af9c-5e1624efcfb0",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 17
+  },
+  {
+    "id": "8ab88585-fb39-4f0d-905d-b156d183455f",
+    "user_id": "60ccb1a5-504e-40f1-8ee9-43c6d4abd5e4",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 14
+  },
+  {
+    "id": "acf8062b-1866-4f6c-8d83-43dc2cfa59bb",
+    "user_id": "9af8a70f-e7f0-46e0-b5dd-1a3035961d1a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "b7efc4bf-e03b-49e7-bed4-5a5f756321c2",
+    "user_id": "38d48b28-5974-47bf-9243-53503a92f1ed",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 3
+  },
+  {
+    "id": "1e745ab7-d71d-4a5c-b349-6a619c8ca21e",
+    "user_id": "1cf07329-7c3d-4968-9a1f-1f5c08d207eb",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "7c608319-fcbb-499b-bb1f-735ff9427d96",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "b2c4dfba-9c40-47be-99ff-c6a073cf158c",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 2
+  },
+  {
+    "id": "e275e760-150a-4209-b93e-3965baf5f7b8",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 3
+  },
+  {
+    "id": "2002b145-acd3-4b8a-b5eb-8485e31b9def",
+    "user_id": "54b03e5b-93fe-4ff6-9a4f-413b3a1fd914",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 13
+  },
+  {
+    "id": "3d973483-ca1f-41f8-b667-0f506db0ffe9",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 6
+  },
+  {
+    "id": "b8d75b24-65bf-48e7-a904-e31e40fcbd8e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "721b4d15-87ab-4e5c-95ae-787bff05956e",
+    "user_id": "1865a240-e810-402b-85d9-b4ca789c937c",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 17
+  },
+  {
+    "id": "6b905526-777b-41fc-8a84-29ed7ee58bed",
+    "user_id": "fe656225-4ce0-46d2-86c3-49818461823f",
+    "app_id": 5,
+    "country_code": "AU",
+    "advertiser_id": 9
+  },
+  {
+    "id": "12cedc1e-4f68-466a-ab01-445251bcedff",
+    "user_id": "a2f77409-c73d-4ef4-aa9b-5b6c5413dceb",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 8
+  },
+  {
+    "id": "d608021e-926c-49d3-bfcd-3706eca75b7b",
+    "user_id": "bfe97791-9bea-49e5-bf96-8d170dcb467a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "4dfecf0f-698b-40b5-94d0-7b4724896374",
+    "user_id": "4c97515f-4675-41a8-b371-942012d7016b",
+    "app_id": 4,
+    "country_code": "IN",
+    "advertiser_id": 14
+  },
+  {
+    "id": "f0240164-1fb6-48bb-9439-a855603c4835",
+    "user_id": "2975ac4c-e000-46ac-8449-aa12b94c78d4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 4
+  },
+  {
+    "id": "787a776b-786b-4a26-984a-84840b033656",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 5,
+    "country_code": "AU",
+    "advertiser_id": 10
+  },
+  {
+    "id": "d5ea4ec3-fcce-455a-aa6e-31ec7f25d8f9",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "98b2105e-0e0a-4b37-adaf-1ca465cc6287",
+    "user_id": "5745920e-23b1-43e3-804d-27503f6f3edc",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "71675afe-8c00-4b33-b079-b291ff480dec",
+    "user_id": "bfe97791-9bea-49e5-bf96-8d170dcb467a",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "1e2f1429-71cd-48f7-bd33-4b8e39c82575",
+    "user_id": "1f017943-5f2d-40a1-be84-922cb705075e",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "9633aa28-6237-45f7-81f5-5e5f286f7c1b",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "8caf48cc-5e27-4cd5-abae-7d812676acc5",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 13
+  },
+  {
+    "id": "954a2726-da64-4122-8e7f-30c23b0dec8a",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 2
+  },
+  {
+    "id": "91bad778-afe7-46b4-bbec-03d9dc58e45c",
+    "user_id": "b82cc4d9-3ca2-46c8-aa91-59f28a5d8fb4",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "2646cfe2-1f8d-42b1-9212-8e947f92403c",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "46888fea-752a-4deb-b0c1-e5804891661a",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 15
+  },
+  {
+    "id": "e1dad5c7-07f9-4471-92dd-f6b079bf8be6",
+    "user_id": "9dae2031-04cf-4249-baa2-550e253f683a",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "13ec432a-65dc-4ef4-9091-58c9cf0ac03f",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "3983dea2-9127-4250-b591-ad9684444632",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 17
+  },
+  {
+    "id": "dd54174d-5b2f-4ed4-bafa-8ed4cf628b82",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 5
+  },
+  {
+    "id": "d452feed-5dd1-4762-a43b-f0dfd1d2e18b",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "AU",
+    "advertiser_id": 10
+  },
+  {
+    "id": "4e282066-ad7a-4839-b227-89f0c3d355d2",
+    "user_id": "352ad7d1-c9e9-4645-a52e-4c1dda4b439a",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "459be090-69fb-4c8c-886c-749241a30f22",
+    "user_id": "c17e3706-d0d5-4c5e-9986-fcb6d779699c",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 3
+  },
+  {
+    "id": "70096873-174e-480d-b96b-85d4086d8c57",
+    "user_id": "f42fa82e-46cd-401b-931d-e2459eb6bffe",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "b70a0bd3-4ac9-4600-ac35-2ffa4e5a6084",
+    "user_id": "fa1d5ca2-341c-4183-b0f0-f070bdf77639",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "76382ad1-4395-4752-827d-9cf6a7c03791",
+    "user_id": "5745920e-23b1-43e3-804d-27503f6f3edc",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 18
+  },
+  {
+    "id": "a3ca1400-f4f0-42d6-b5e5-ea672fd31395",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "28e64281-f758-4e53-964d-fcb3d32db6bb",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 11
+  },
+  {
+    "id": "a958bd03-3bbc-47b6-9237-b70a50230862",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 3
+  },
+  {
+    "id": "c6448c4e-b74e-4193-8608-0425e733919c",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "531ca153-39a4-40a9-9773-9545700db90f",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 6
+  },
+  {
+    "id": "efc918a5-211b-4524-8f8f-1902175c2949",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 7
+  },
+  {
+    "id": "36f455d6-9785-46d0-abb5-18c5caf15bcd",
+    "user_id": "18ef5a02-c8e3-4910-94fb-3b0994f75e95",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "a0970c50-8df9-4f00-bc51-67c202b48093",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "ad6ce360-b285-4ce4-9b38-8cb99609301e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "01c9ce15-22bb-4af1-86c8-41109773cf7b",
+    "user_id": "1865a240-e810-402b-85d9-b4ca789c937c",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "d9f2cd70-8ecb-49e7-9001-18dd12edc827",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 18
+  },
+  {
+    "id": "be051c9c-d9c8-40b4-8f22-ebcb9eb79a6b",
+    "user_id": "579450c5-4908-45a3-a7ff-e604abf340c3",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 9
+  },
+  {
+    "id": "1bae729c-a05c-4e56-8fc2-5c2b0f413a6d",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "da667d0e-8315-4de9-920b-96fefcbb33f6",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "606e5af9-e92b-4393-ad30-48ecaae96b83",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "797b41da-fc41-46ed-bd9b-5fed67394152",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 17
+  },
+  {
+    "id": "2cda3e53-86f4-4cca-b2ce-e8d4f3ea27ab",
+    "user_id": "b311885c-2bf2-4971-ac1e-1abaffbb8527",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 7
+  },
+  {
+    "id": "d688f40c-3338-4d55-8402-3ff57210fa9c",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 20
+  },
+  {
+    "id": "aab22dec-0f71-4cb8-a165-ba18da1d01b0",
+    "user_id": "baca7c06-9ddf-43aa-b7ea-e8c9a6f277da",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "e03f75a7-8a18-4147-860a-e502bba4fdcc",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 9
+  },
+  {
+    "id": "384bc429-2f09-41b9-a8aa-6ba2667fac9e",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "bbcfa64d-55df-458c-8492-a8fb1355b466",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 18
+  },
+  {
+    "id": "ba107850-254b-4530-b2cf-85fb966b19d0",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 6
+  },
+  {
+    "id": "30fe88a5-ecbc-455b-a1fb-cc267024bb2b",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "374bfacb-2d87-42d7-ace0-66913a7ae3fc",
+    "user_id": "7958634f-028d-41df-a776-2f99d5db4e42",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "3b0a28cb-5164-4449-bdc7-2825c304e2c8",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "be22bf08-d3c1-42f7-8426-1cad1ddb33b4",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "95e07c18-cdef-465d-b6ce-92d1b32703bd",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 5
+  },
+  {
+    "id": "b1551cc1-ee3f-4f98-812d-263fea421ea1",
+    "user_id": "cc9e5035-3fe6-46dc-9e15-ae5be48cbdc2",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "b4c1bb97-a81a-4198-9906-7b91d0b06acc",
+    "user_id": "bf0600b8-a51d-4c8b-a61a-f854a8176342",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "0f66d7d3-71c6-4a51-9646-d442aca0d69a",
+    "user_id": "f3f86a5b-ceea-40c7-971c-b9d301c98add",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 19
+  },
+  {
+    "id": "4ea8a611-86c7-4db8-8de4-e952bac294fa",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "709022c1-2de7-4a8f-9892-df20d359a526",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 3
+  },
+  {
+    "id": "bfc7dd16-c52a-49ee-8664-e2237fa8d1ec",
+    "user_id": "47e5bb5a-205b-47c6-ae82-30b2e6c1a0c3",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 15
+  },
+  {
+    "id": "3cbe6f5c-f9c2-4b5a-91b7-b5a9a428eeb8",
+    "user_id": "d6764b57-740c-4839-a776-0c43ede8ee59",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 10
+  },
+  {
+    "id": "184480de-b9ce-403e-87cf-f8a477e32b82",
+    "user_id": "3fa80f4f-d3a9-40a6-83b3-a211f0149325",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 17
+  },
+  {
+    "id": "7ec4e467-087b-412d-b5f5-67f60ee3c4cd",
+    "user_id": "28670b09-e02a-43ae-812b-4fae9859f0f4",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 12
+  },
+  {
+    "id": "879f0b75-43ee-40dd-b86a-ca49360bda5d",
+    "user_id": "c17e3706-d0d5-4c5e-9986-fcb6d779699c",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 13
+  },
+  {
+    "id": "1555ca8f-e315-4ca8-8654-c1a323cd0467",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 14
+  },
+  {
+    "id": "5f632d23-f11c-4af6-83a3-81cb218bbd38",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 16
+  },
+  {
+    "id": "271ef256-0ba0-4ee3-afc1-7f7e41cb655b",
+    "user_id": "ae348e36-67ce-4292-9e69-99f3f65d86e3",
+    "app_id": 4,
+    "country_code": "IN",
+    "advertiser_id": 20
+  },
+  {
+    "id": "54287cc0-5f45-460b-bc6b-5a2734d6713b",
+    "user_id": "8b186923-c486-4a27-b492-b03920dc00f7",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "a51a6b3e-b90a-40d7-aec7-8e47528e5d91",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 12
+  },
+  {
+    "id": "39fcfdc6-6fb3-4b8f-97bd-b5a966cb09db",
+    "user_id": "c296b48e-cac9-4d28-b084-f66b803b5fd7",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "e39882fa-0ece-4d30-a73e-60f99c1abc08",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "5ac986db-91bb-4e9d-a198-e551d921b2c0",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "6e5d7f9d-f3f5-41af-9c07-99075cc2ce2f",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "917c349b-59fe-4358-bfc4-934c28cec089",
+    "user_id": "7542b0c3-541d-4c17-8062-1655193d378a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "3ca3b4bc-55a9-409e-919a-7b96d4a98254",
+    "user_id": "b77ca2d7-3c9d-4faf-bdb3-0086d5838c6c",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 5
+  },
+  {
+    "id": "71fc4af0-56e4-48bf-9024-0aee497658a4",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "a69d52f9-a406-42b8-aae9-f57a7786156d",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 8
+  },
+  {
+    "id": "56495fb4-74d4-4f4f-bdeb-ba017d07049a",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 5
+  },
+  {
+    "id": "fc88d8c6-c03e-44a2-bcfe-7a05deb7bd83",
+    "user_id": "8acba074-374e-4d4f-9aa0-ae297c0f9c35",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "58982d0d-919f-44a9-ad66-88b4e93138ea",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "2af92935-065b-4557-93cc-4c99ec2a808d",
+    "user_id": "417390eb-a674-424d-bdfa-3fcffb1647f9",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "f2a0e926-c464-4414-9f8f-2774addb692d",
+    "user_id": "eb220bec-54fd-4d32-85e9-a6eeb6b96553",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 2
+  },
+  {
+    "id": "66ce5157-d9b1-48b5-af23-b7ab677d0cc3",
+    "user_id": "c7561339-26c0-465f-9895-045e72bbe51a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "00142ef7-a71a-4eb1-b82a-7f1c3004ee14",
+    "user_id": "e99be0ff-151a-4909-8d4f-8851d13e8a4a",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "bbb2b4c8-9b0b-45ea-9c34-6f4687333557",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "c1c4f5b4-adac-4c96-995a-f04d8d5a0258",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "9a790c2d-e918-41e3-985a-f23420950996",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "784dac5e-12f8-4f4b-859e-396022173e53",
+    "user_id": "c422d81f-4841-44dc-aadf-0dc7726470bb",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 4
+  },
+  {
+    "id": "3b9e5091-e719-41aa-9ea7-0927252dfcd0",
+    "user_id": "e1173a98-ba39-4818-87c2-7e12537947af",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "78b7c8b4-342d-4883-896b-47bae11e2801",
+    "user_id": "78ac832e-3590-4a28-a791-0190e0e99564",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "41b2e248-9679-4093-923d-6dbb51aba93b",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 20
+  },
+  {
+    "id": "45e21ca3-48b8-4f72-95dc-7c6ca245a707",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "251294c8-7b5f-4b7e-b231-13c7f97c1718",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": null,
+    "advertiser_id": 5
+  },
+  {
+    "id": "b24b21ae-c08f-4cd7-a141-69c078c74377",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 1
+  },
+  {
+    "id": "15beb17a-6ab3-4e72-93b3-00409e5bd533",
+    "user_id": "883d874b-0c46-46f4-af3c-6935861f313d",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "9a601b3a-3b5e-4229-a1c2-98fe03dd5e28",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 11
+  },
+  {
+    "id": "068888c3-36c7-4edd-9b04-fabf3eb4e505",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 3
+  },
+  {
+    "id": "5d42c2d8-f5e5-457d-8021-012c4666b924",
+    "user_id": "cc9e5035-3fe6-46dc-9e15-ae5be48cbdc2",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 10
+  },
+  {
+    "id": "8dea7953-8984-48d1-8e25-d694a68619b8",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "95ed7c9d-1852-46a0-9c29-e77bee129e8c",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 16
+  },
+  {
+    "id": "1d059261-83f5-4777-a02a-096d25d19fbf",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 2
+  },
+  {
+    "id": "1a571a02-b79f-4875-b2cd-63ede0cd1eec",
+    "user_id": "f821ba65-3e8e-43a6-9098-23ca3dadad46",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 19
+  },
+  {
+    "id": "b8613dbc-1579-4d5f-bfec-24bc87f8c162",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 8
+  },
+  {
+    "id": "7cfcb0ce-f79f-4f81-91e1-bb4fb12d9427",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 6
+  },
+  {
+    "id": "e1eddabd-ac2c-4dd5-ad32-6552d3ead45a",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "5d60821a-f5cb-49e3-9ecd-6858fb4c866a",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 5
+  },
+  {
+    "id": "8ab6f311-9cfa-4d3c-b07a-645e3bf0d4d5",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "3bfdd1c7-c7f3-4be9-a4aa-e361e0f9677d",
+    "user_id": "c296b48e-cac9-4d28-b084-f66b803b5fd7",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 20
+  },
+  {
+    "id": "a41a3406-cdcc-47ec-abe0-a01cdcc96aba",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 19
+  },
+  {
+    "id": "7047efa1-d3d7-4458-b6b3-f61356084d27",
+    "user_id": "cd2d6c6e-3d8d-4e76-8cac-71bf6ffa7b6e",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 17
+  },
+  {
+    "id": "8de09aea-af17-47b1-8109-bbf5de0cb573",
+    "user_id": "f559bdc0-8ceb-4227-8728-8d6c59aa94ce",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "8de09aea-af17-47b1-8109-bbf5de0cb573",
+    "user_id": "f559bdc0-8ceb-4227-8728-8d6c59aa94ce",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "8de09aea-af17-47b1-8109-bbf5de0cb573",
+    "user_id": "f559bdc0-8ceb-4227-8728-8d6c59aa94ce",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "207c283f-e960-4fdb-8079-8d87c73f84f8",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 5,
+    "country_code": "MX",
+    "advertiser_id": 20
+  },
+  {
+    "id": "1a1da231-eb5c-4929-9a20-a3c3745dde40",
+    "user_id": "3935c81f-5609-425c-8843-fc20656feefb",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "18adb5e7-b216-4d2b-82ba-a58b5135f122",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 2
+  },
+  {
+    "id": "a05f83ed-90ed-4d90-a1ef-82b30e22772c",
+    "user_id": "dac18653-2dde-4495-8364-2c94bd45877a",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "993a809d-bf27-4323-a4cd-888ab877f63a",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "8409912a-db88-480c-a7e2-d6e81d75989a",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "0829be23-37d7-4725-8d0c-3855d2f28192",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 5
+  },
+  {
+    "id": "093ebbfd-2b1e-41b1-bea4-b0efc4320079",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 9
+  },
+  {
+    "id": "625313a1-a7cb-41e0-8333-3111c182840f",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 6
+  },
+  {
+    "id": "b27f5279-18c6-4d1d-b019-d5db30eb5fa8",
+    "user_id": "e94b7f48-1122-4987-93cb-a44365dcc491",
+    "app_id": 5,
+    "country_code": "IN",
+    "advertiser_id": 19
+  },
+  {
+    "id": "727f4a0b-0585-4160-bc87-fe0403a64256",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 15
+  },
+  {
+    "id": "718720ce-c5b9-41f0-aa2b-f842141ce3d9",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 19
+  },
+  {
+    "id": "82d947fa-bd83-46a1-b4f2-6136aff3e833",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "FR",
+    "advertiser_id": 17
+  },
+  {
+    "id": "e28a785d-08c8-45e7-a1ae-0bab994044f2",
+    "user_id": "acd5ac62-d832-495b-80d8-b3a3e5688d59",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "80a987dd-da6c-47d6-afde-8f7863323f2c",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 1
+  },
+  {
+    "id": "1ebc4d02-390c-4090-9ddc-f74095f1a517",
+    "user_id": "62b0f018-69eb-46bf-8b86-6ef1cbf61add",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 5
+  },
+  {
+    "id": "278ce187-d4fd-49eb-95a7-27bbcb2f1c02",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 2,
+    "country_code": "JP",
+    "advertiser_id": 3
+  },
+  {
+    "id": "bf380f83-6430-4770-bae9-b385f1a3a6c2",
+    "user_id": "18fa2ee3-7cc6-4181-898d-b1a60a0bfc71",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 19
+  },
+  {
+    "id": "57b0f3ad-8ca8-45f7-8521-a5178f4b3d34",
+    "user_id": "dfbb134f-aebe-4268-8f27-342d92d49104",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 12
+  },
+  {
+    "id": "11721987-31d2-44d7-a477-f675e7d8dcf2",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "ad612ba5-332a-4ce9-b80e-55729fa22d12",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "38fc9401-956a-40da-928c-280963534390",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "2634040c-7208-43b1-9b03-339b640771f4",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 18
+  },
+  {
+    "id": "dd3d2961-13cc-4b1a-91c1-17aa2c8213ff",
+    "user_id": "cd2d6c6e-3d8d-4e76-8cac-71bf6ffa7b6e",
+    "app_id": 5,
+    "country_code": "JP",
+    "advertiser_id": 7
+  },
+  {
+    "id": "c1a3d0eb-b35f-4212-81ed-0b38696eff2b",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "467c7bb4-3f7e-4e16-8ecd-0253b2a91a02",
+    "user_id": "2638887c-8d3f-47a6-98eb-95c0d99480fd",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 18
+  },
+  {
+    "id": "466288ad-f1ad-42d4-974d-940286759f03",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "f75d0f88-34a2-400c-8cae-b30beff0661a",
+    "user_id": "c535fed5-d9fa-4f70-a6b7-cc098512b397",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 17
+  },
+  {
+    "id": "aeecbc4a-69ae-4f55-aa24-8800adf24166",
+    "user_id": "dfe79bed-3b4a-4e3b-8c3c-7e38c9d90c5f",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "7bd50d29-4195-4def-bbe6-158ebc011031",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 6
+  },
+  {
+    "id": "8de2f196-8349-4025-a507-329ac2e356e3",
+    "user_id": "cd2d6c6e-3d8d-4e76-8cac-71bf6ffa7b6e",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "a1d8988c-898e-4051-9ba7-bdeb624d6205",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 11
+  },
+  {
+    "id": "e395c9c0-89c0-4d3c-a9a9-3bf2d543361b",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "cee6be01-77f7-4998-83db-3ca875617af3",
+    "user_id": "6f927f49-3487-47c5-b71b-fbe88917dd07",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "ddd8408c-02fb-4b19-a671-a8d2957a4a03",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 15
+  },
+  {
+    "id": "3138adef-8f18-460b-aa8a-672ec6e5a2d1",
+    "user_id": "eb220bec-54fd-4d32-85e9-a6eeb6b96553",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "11d4fe6c-88b8-44cd-9e2c-c13155f7e6f3",
+    "user_id": "34393eea-2a77-4485-ac0f-247ae168648f",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "8c84df18-c973-4336-b9b9-b75680227a96",
+    "user_id": "2e40b048-4d1e-4554-9a2d-3fb3f55cd8f6",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "f2f18960-b24c-4bcd-a60f-001e12727358",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 12
+  },
+  {
+    "id": "554f5ff3-da44-454e-b35d-80f65b87717e",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "53263b36-da17-4d14-a24d-50b57ebeafc8",
+    "user_id": "7542b0c3-541d-4c17-8062-1655193d378a",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 14
+  },
+  {
+    "id": "34c273e1-b343-4974-94ec-54963ff11a76",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 4,
+    "country_code": "MX",
+    "advertiser_id": 3
+  },
+  {
+    "id": "34c273e1-b343-4974-94ec-54963ff11a76",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 4,
+    "country_code": "MX",
+    "advertiser_id": 3
+  },
+  {
+    "id": "34c273e1-b343-4974-94ec-54963ff11a76",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 4,
+    "country_code": "MX",
+    "advertiser_id": 3
+  },
+  {
+    "id": "34c273e1-b343-4974-94ec-54963ff11a76",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 4,
+    "country_code": "MX",
+    "advertiser_id": 3
+  },
+  {
+    "id": "f97eb599-a7a9-4dd5-aacd-eae22748c54b",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 5
+  },
+  {
+    "id": "ecfd63f0-5491-4674-ac51-9fdfd9de51e0",
+    "user_id": "932e5255-a7b2-499b-ad15-a53131f8c914",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "ecfd63f0-5491-4674-ac51-9fdfd9de51e0",
+    "user_id": "932e5255-a7b2-499b-ad15-a53131f8c914",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "ecfd63f0-5491-4674-ac51-9fdfd9de51e0",
+    "user_id": "932e5255-a7b2-499b-ad15-a53131f8c914",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "ecfd63f0-5491-4674-ac51-9fdfd9de51e0",
+    "user_id": "932e5255-a7b2-499b-ad15-a53131f8c914",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "7374bfd5-46f8-4834-b7d8-f7c411347ae3",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "DE",
+    "advertiser_id": 4
+  },
+  {
+    "id": "2d0bafa4-8953-4609-9502-aa4102c87b9a",
+    "user_id": "4c97515f-4675-41a8-b371-942012d7016b",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "03da43ad-5ff7-4ad4-88e0-92bd7de78ed6",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "b34999dd-1dda-4bc8-9b50-1b2f51face65",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 5
+  },
+  {
+    "id": "6228562e-534e-4497-b577-e935340d57a9",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 12
+  },
+  {
+    "id": "0a38a5f7-e2cf-4421-9bc5-e21a66b984ba",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 20
+  },
+  {
+    "id": "1487f038-86f6-4337-8a13-c6ad5afda185",
+    "user_id": "38d48b28-5974-47bf-9243-53503a92f1ed",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 12
+  },
+  {
+    "id": "c553d037-1f26-4d37-a8ce-fb6e6ac1b347",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "0d7729d1-d453-4a55-a8a1-b47806212da7",
+    "user_id": "e13b95ce-522b-4aaa-b63e-da777b2684c4",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 17
+  },
+  {
+    "id": "da8c56bb-75ec-43b4-84a1-5431fd2e99b6",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "dabf8cd3-b716-4798-8a3b-8a96f413e92f",
+    "user_id": "48a3f018-e4af-481c-9e9a-c199bdbb619c",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 11
+  },
+  {
+    "id": "4165ce0b-b69f-427b-bc7b-9e29a77af2d7",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 10
+  },
+  {
+    "id": "58a36565-98c7-425d-8e10-267765c06676",
+    "user_id": "7bc43bf0-f9aa-4623-a47e-800923bd2018",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 14
+  },
+  {
+    "id": "13b1eb2c-470d-4de4-9c87-fd2266bfb397",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "59721f98-d9ea-4ab3-8764-bff0d6c6ed6d",
+    "user_id": "bfe97791-9bea-49e5-bf96-8d170dcb467a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 12
+  },
+  {
+    "id": "433bcf41-c302-4d3e-a4d8-e9abbdb94de1",
+    "user_id": "c296b48e-cac9-4d28-b084-f66b803b5fd7",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 20
+  },
+  {
+    "id": "de168512-ce31-4e49-b141-da94c645072e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "9990f56e-bfbe-4b28-8105-12d4b3e6c8f7",
+    "user_id": "021dda73-d253-4234-8739-1d319f421340",
+    "app_id": 5,
+    "country_code": "JP",
+    "advertiser_id": 16
+  },
+  {
+    "id": "2b49152b-4e5c-466a-a8d3-1e1da3fd8be0",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 7
+  },
+  {
+    "id": "7bf959ba-54aa-404d-ae82-309b71f5b66d",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 12
+  },
+  {
+    "id": "db8ea606-48d0-4f8f-baef-540a7095aca0",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 10
+  },
+  {
+    "id": "60527443-e317-4d72-981c-5bb3086bb015",
+    "user_id": "cf4e9a2e-92de-4f53-9082-e882ad766a89",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 16
+  },
+  {
+    "id": "f54bb320-90f5-4fb4-9e39-a1fb6d248373",
+    "user_id": "d79585e5-0653-4328-a7c2-0b01402f7a3a",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 3
+  },
+  {
+    "id": "bdbfcb57-d12e-49aa-ad65-a226cb71a430",
+    "user_id": "50c54bc1-531a-4d2e-8706-e7ca41abb44f",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 12
+  },
+  {
+    "id": "fd6f71bf-4f11-4b24-8d67-1c9104b9eb29",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 9
+  },
+  {
+    "id": "f15e6102-22b4-44ab-90c4-e15a62df5ed5",
+    "user_id": "597fd10d-28ff-4ae5-a1af-9501c50fab15",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 20
+  },
+  {
+    "id": "0d229543-6771-4980-971f-e7fc1861e548",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "c9e0bb4d-c927-4061-baa1-011cc5c53017",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "MX",
+    "advertiser_id": 13
+  },
+  {
+    "id": "259dc84c-a42a-4633-a8e9-1960e4895a89",
+    "user_id": "2ad3da65-cc46-45c4-9c5a-a468dff0554f",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "0db743e2-f578-49e8-a56b-1173765e0254",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 18
+  },
+  {
+    "id": "d9fdaa38-37d6-499d-98c6-f5c76ec31771",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "JP",
+    "advertiser_id": 15
+  },
+  {
+    "id": "fc4bcf85-222c-43a9-886c-74d8c49d9b1d",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 5
+  },
+  {
+    "id": "83947ded-2d10-4694-b65e-8eb7ba5a7254",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "3fb1ed42-1c03-47d4-a802-cead575c336e",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 12
+  },
+  {
+    "id": "165258e6-073f-47ec-ba62-99c69868258f",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 19
+  },
+  {
+    "id": "39a046a3-ed4c-4e19-adf7-a0f92e4f3908",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "b72fee9d-997f-42a7-990b-ac02423bd5e3",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "6f82192d-1eff-40a4-af51-f37959c90a27",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "0a04fbad-c505-44cb-832e-6e4ffe4b8c61",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "9d95fe9f-09c8-49b8-8904-138cacab9f71",
+    "user_id": "5745920e-23b1-43e3-804d-27503f6f3edc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "30afed84-096a-4d7d-a1b9-c91aa16bf1dd",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "835aa05a-f456-40a7-8c9a-17bb0a3623e3",
+    "user_id": "883d874b-0c46-46f4-af3c-6935861f313d",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "e698b23d-4560-401f-9fbc-3d2d699f204f",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "237e4dd9-254a-4af6-ac55-9837bde0a2ea",
+    "user_id": "1865a240-e810-402b-85d9-b4ca789c937c",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 6
+  },
+  {
+    "id": "cf4a13b4-9bc5-4e42-92db-0de4ea4a2579",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 15
+  },
+  {
+    "id": "ca4feca5-9374-4813-a4f5-5b6b2daa2b63",
+    "user_id": "02861928-3a4e-4e2a-9648-938e50659c0f",
+    "app_id": 5,
+    "country_code": "FR",
+    "advertiser_id": 2
+  },
+  {
+    "id": "79d3ddfe-9045-45ba-a4a8-a9e0e5f11740",
+    "user_id": "38d48b28-5974-47bf-9243-53503a92f1ed",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "90c74c68-fffd-4ae8-9ff3-84ee78b450bf",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "4a071207-0f62-4325-9dc5-dcad8dfda577",
+    "user_id": "fb1f60d8-a9bc-47b7-b09c-1be2fafed66f",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "84384c5e-12c8-4ac8-b578-1d7a89d26fd5",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "d1eb6cea-be93-4595-a206-5e7bcb0b06c4",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "6656d392-aff8-4cb7-9b19-122f2fd3ce34",
+    "user_id": "d79585e5-0653-4328-a7c2-0b01402f7a3a",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 5
+  },
+  {
+    "id": "67800069-3ce4-41e8-8f8c-1748f5dfc981",
+    "user_id": "f0e4f992-6f1f-4102-9dee-5d014986efaf",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 17
+  },
+  {
+    "id": "261ad303-b4c9-483d-9321-c0c0188fe96e",
+    "user_id": "df0e6e20-2fb1-4921-a3c5-8ecd5c0a6f9a",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "491852ee-d382-4991-ad26-ffcee0235e96",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "a86ef424-e929-468d-ad02-ef8f45d42b0a",
+    "user_id": "d937643b-e330-4fb5-a944-0358c6e721d6",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "29581c75-be86-4047-80d5-161f7381235b",
+    "user_id": "66301cc8-bff4-4acc-a5ec-721f3b1cf060",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "dfa99640-2f24-4781-9d29-2e1638bde2af",
+    "user_id": "e74063dd-f223-4bb7-afc4-e78287592c52",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "efb5f84f-5ad5-4079-bd1e-7bcb58b68f24",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "ZZZ",
+    "advertiser_id": 13
+  },
+  {
+    "id": "c9c18034-a767-4a51-9366-70d858d4f5d3",
+    "user_id": "a0e348e6-9a5e-4f19-8567-a5036aef5034",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "d9eac603-6169-4c35-9c33-6b052479d48a",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 16
+  },
+  {
+    "id": "7175ddea-5281-4922-8f6a-924dd19638eb",
+    "user_id": "30f51f0f-aa63-4c6f-bbae-4ff68b0e64aa",
+    "app_id": 4,
+    "country_code": "BR",
+    "advertiser_id": 9
+  },
+  {
+    "id": "2a69d8bd-5255-456f-acaf-9ab7bf5d5b81",
+    "user_id": "b77ca2d7-3c9d-4faf-bdb3-0086d5838c6c",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "9b4bae16-dcfa-4378-acc3-234f687a718b",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "2544c720-9d6f-46a1-acd1-6589db1d416f",
+    "user_id": "baad80f6-0927-4841-9950-4519e0fcf437",
+    "app_id": 3,
+    "country_code": "JP",
+    "advertiser_id": 14
+  },
+  {
+    "id": "60a47fce-1e2d-4a7c-92d6-741ce23a9932",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "6f2e3c61-a002-4fdf-a3e7-3d9d8d1d8a34",
+    "user_id": "842b4bd8-9036-42dc-a2a5-4865cdf43584",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "cd0125a8-9654-41c3-9ce9-7abbd96b1a31",
+    "user_id": "1a0e3ca9-988d-4979-8677-5f762752f943",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 6
+  },
+  {
+    "id": "71541536-c76d-4d5b-bd88-a52270841273",
+    "user_id": "29cc60ab-3ad3-453f-bc0f-2c7b993b3f53",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 1
+  },
+  {
+    "id": "01b75d18-b2a9-4857-8b49-15446e9a2dd6",
+    "user_id": "d79585e5-0653-4328-a7c2-0b01402f7a3a",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 7
+  },
+  {
+    "id": "bf2cffb6-290a-4b50-890b-efbaaf2186cf",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "04690db3-7407-44e1-b3f6-212adbba7bda",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "e10a1427-be85-4686-8123-278b07bf08b8",
+    "user_id": "c422d81f-4841-44dc-aadf-0dc7726470bb",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 11
+  },
+  {
+    "id": "5f1a23c8-15cd-45a7-9b1f-d625872467b1",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "65bbb702-451b-4480-895e-eeb073eb3a8c",
+    "user_id": "13980264-ef73-4e6e-a4e1-d552fbd659f5",
+    "app_id": 5,
+    "country_code": "MX",
+    "advertiser_id": 20
+  },
+  {
+    "id": "bd5ce9e7-a5e0-4bfa-9e81-ba6b98457f33",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 5
+  },
+  {
+    "id": "8b53a020-1e26-4490-9a63-38f676f18537",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 5,
+    "country_code": "JP",
+    "advertiser_id": 5
+  },
+  {
+    "id": "a49904db-e0fa-4d1e-81ad-04a5c6c5ac15",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 5,
+    "country_code": "CA",
+    "advertiser_id": 9
+  },
+  {
+    "id": "c4facfe4-d10b-4384-a47d-c339aeabeedd",
+    "user_id": "5745920e-23b1-43e3-804d-27503f6f3edc",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "72c06b14-1ac5-45d7-a8c4-e02adaa16333",
+    "user_id": "31526546-0241-41c9-b41b-c6ed1e6c188a",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 15
+  },
+  {
+    "id": "3766d6e1-a94b-40c7-b071-d35271ac2d3b",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "d5eb2921-a90a-41d7-b262-b000911e0308",
+    "user_id": "b51fe071-1567-4b0b-9fd7-5b4610d9f800",
+    "app_id": 4,
+    "country_code": "JP",
+    "advertiser_id": 4
+  },
+  {
+    "id": "8e8f4453-93f9-4090-864f-e66785ad2eb6",
+    "user_id": "387c9c3c-ead3-458f-893c-c72ef9735989",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 19
+  },
+  {
+    "id": "ac2f2e71-6442-46a2-808b-2d6fc1863d1b",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "d025d5cf-74e8-4428-a78e-e34d29a4762a",
+    "user_id": "d6764b57-740c-4839-a776-0c43ede8ee59",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 4
+  },
+  {
+    "id": "e43d8d30-8cd1-49db-a60b-285aec9bc463",
+    "user_id": "b048dfdd-8852-4fdd-98cd-d4ef259dd20a",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 20
+  },
+  {
+    "id": "d19a9c2a-d65f-4f40-b578-5886b9a37496",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 5,
+    "country_code": "MX",
+    "advertiser_id": 19
+  },
+  {
+    "id": "9081eb24-5363-48e3-b8da-df88e592f15b",
+    "user_id": "b08619b5-9e3e-4889-81e2-5ba3dc02d15f",
+    "app_id": 3,
+    "country_code": "GB",
+    "advertiser_id": 20
+  },
+  {
+    "id": "8b4d3d48-f09e-468f-8885-6786435721a3",
+    "user_id": "5490de74-8342-4f86-acfe-5578e61843cb",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 6
+  },
+  {
+    "id": "e052f14f-ed84-49bc-8e43-822c02b99c14",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "20680b4c-38ca-48d5-adee-2892273feaf0",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "68df173c-86ef-4662-aa4d-a0b64388deeb",
+    "user_id": "e8973d11-9a35-4b9f-ba2b-ddf6b8a0e4b1",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "c75cde85-683f-4a4b-8652-c9589bdbdf3e",
+    "user_id": "c422d81f-4841-44dc-aadf-0dc7726470bb",
+    "app_id": 3,
+    "country_code": "AU",
+    "advertiser_id": 17
+  },
+  {
+    "id": "20ef7382-5b87-4270-b333-45eb6962d5e2",
+    "user_id": "2524c37c-27ba-4a72-90fc-dd9f86bb6cd3",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "3b32c180-cf8d-4c2e-9071-bc4ead1a06d5",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 2,
+    "country_code": "IN",
+    "advertiser_id": 17
+  },
+  {
+    "id": "0d39e5db-7728-4f7e-b260-34169788efe6",
+    "user_id": "e55035aa-6348-4043-a4a9-b7c2b2401070",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "47fcf303-7e79-42b8-b582-85dfeee5f7b0",
+    "user_id": "03423dbc-3426-43e7-a283-3d9f468e1c29",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "b5487dd4-7966-4e34-b939-ccaa573d6605",
+    "user_id": "1e5a7705-94a2-453e-8155-570e8b4614b7",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "c16fdc96-3250-4bbb-9038-ec8bdae7bdb9",
+    "user_id": "d79585e5-0653-4328-a7c2-0b01402f7a3a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "540f0fe8-47d5-4e2b-aa6f-e2b88c92ff88",
+    "user_id": "1cf07329-7c3d-4968-9a1f-1f5c08d207eb",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 16
+  },
+  {
+    "id": "aa364f91-86a8-4bd2-af0b-5f89d3dc81c8",
+    "user_id": "f7076ceb-256e-47b4-89b1-37a7fb43b82f",
+    "app_id": 3,
+    "country_code": "BR",
+    "advertiser_id": 3
+  },
+  {
+    "id": "ca13582b-7257-4581-b51b-4eb553d8c155",
+    "user_id": "883dc459-3b81-4469-8cb6-a84abe08f0c0",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "a2f5d1ed-84fb-40e4-88a1-54bcfe8fc863",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "ad5c6b30-fbe2-4d2d-a6bd-032813757441",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "0c865668-39b4-4c9b-9368-b094dc6256c7",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 14
+  },
+  {
+    "id": "0a40001a-43a4-4cdb-bfa9-11932f679cc8",
+    "user_id": "cc9e5035-3fe6-46dc-9e15-ae5be48cbdc2",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "b834445f-8672-47b2-b9fa-97aa71d9189d",
+    "user_id": "e934d5fb-ae1d-46f2-863e-3564c786614c",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "09e39fde-b395-4b4c-b267-2985a6816c9a",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 12
+  },
+  {
+    "id": "e0bde9b8-19c4-4ff0-9b22-8cebf0329f81",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 19
+  },
+  {
+    "id": "27aa06d6-3154-4c77-8abc-3de8c3549de8",
+    "user_id": "b048dfdd-8852-4fdd-98cd-d4ef259dd20a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "2f0afdd7-589a-46f8-8375-7a1662b33762",
+    "user_id": "fb5935b9-9201-421d-8d93-028277638229",
+    "app_id": 3,
+    "country_code": "JP",
+    "advertiser_id": 20
+  },
+  {
+    "id": "1f7251ea-6380-4e65-ae02-5522af6a3bf2",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "2836c451-364e-43c6-8dc3-a8551fe60cf3",
+    "user_id": "093809ed-f59e-4a86-8f20-acdd8da29c10",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 6
+  },
+  {
+    "id": "9a0647c3-00ff-4573-8090-4aeaf97e49d7",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "7b805a12-a986-4567-8091-4b33787fa77c",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 5
+  },
+  {
+    "id": "fda59f02-00a5-4125-ba4c-5a4cf209a5bc",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "BR",
+    "advertiser_id": 4
+  },
+  {
+    "id": "99efa1fb-3bb7-4b76-96bf-f55922718490",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 6
+  },
+  {
+    "id": "e3f42bfa-e1ae-4d68-bbf0-f96c7f4c4493",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 4
+  },
+  {
+    "id": "e9ec3bc4-08dd-45ec-8012-4325a4f91985",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 5,
+    "country_code": "FR",
+    "advertiser_id": 1
+  },
+  {
+    "id": "9361c952-3062-4086-960d-b589170ea61d",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 12
+  },
+  {
+    "id": "fe465c57-1620-4a44-b036-0b5078de8763",
+    "user_id": "d3261606-32af-4145-a632-2cdb715c65cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 14
+  },
+  {
+    "id": "6cf40c24-3d9a-44ec-8e63-0d860b33451f",
+    "user_id": "3b5d37eb-4308-4df6-afc9-a3c4c8d7d936",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 17
+  },
+  {
+    "id": "cf31e9d4-d49a-4dec-9d37-b03b68fc7191",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "78cc21e2-97c9-4043-85e2-930d7ece7e0f",
+    "user_id": "8acba074-374e-4d4f-9aa0-ae297c0f9c35",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "d2e47fc5-0b60-429a-8d8e-8e27411c071f",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 17
+  },
+  {
+    "id": "0bf97fe9-8f7c-44ac-89ea-8b15fd07922f",
+    "user_id": "fca5b01c-844b-440b-89ad-0ae400f58004",
+    "app_id": 2,
+    "country_code": "GB",
+    "advertiser_id": 15
+  },
+  {
+    "id": "28c3bb21-078c-47f5-b1c2-d4bdbf9e95c2",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "d4bc7644-9377-4f20-abc3-cf42ac171174",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 10
+  },
+  {
+    "id": "47914a5d-15d9-42aa-a371-7849b38f985c",
+    "user_id": "2cc3c936-c058-4d26-9db0-f4e13c3c4d0c",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "89a6d245-166f-4ce9-a9bf-ae2bd80b0ca6",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 2
+  },
+  {
+    "id": "a066c9fb-af04-4727-906b-af8e29ee798e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "bae3c300-cd11-4d42-a686-518fc933cc63",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "b44df605-a214-4396-b339-d853a0039d8e",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 12
+  },
+  {
+    "id": "ea714a40-f1a4-4593-a6f3-6ce1d240278c",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "8a148793-d9dc-4919-b1da-15f453aa0012",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "afb3d9cc-e4ca-44a1-8c4e-801df60cc0d2",
+    "user_id": "ddfaebe3-2831-4800-aa8e-d2bf4644fe9a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "0b7093ac-8f6e-484c-92ff-de64014167cd",
+    "user_id": "04705b5f-bc55-42d4-94b0-ae346370d215",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "f7b5aa1e-4884-4cb7-bbb1-f96460de09eb",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 12
+  },
+  {
+    "id": "8d9ee2c4-ef41-4cf7-a3c9-5653b8d907fa",
+    "user_id": "bcb40c6e-fc26-446c-b27b-969d695eaa64",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 5
+  },
+  {
+    "id": "33a8e187-aab4-4447-8a46-e9cf0192283b",
+    "user_id": "ac7e6fd0-0924-448e-8d32-9c96fd8bee7a",
+    "app_id": 1,
+    "country_code": "XX",
+    "advertiser_id": 16
+  },
+  {
+    "id": "1863d51f-2819-40c8-91ad-642326a39b15",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "29fb2843-b1e6-4e1b-81e4-1ef63fddff42",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 15
+  },
+  {
+    "id": "7999759d-9fde-4dcb-87ac-1e4e70370af5",
+    "user_id": "352ad7d1-c9e9-4645-a52e-4c1dda4b439a",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 11
+  },
+  {
+    "id": "9d517285-e54a-4bd5-bb6c-26760bb47640",
+    "user_id": "d4a58c05-37e9-41a6-884a-f3c02341433a",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 19
+  },
+  {
+    "id": "74abed9c-ae37-47e4-87bd-a2bcebeeccb3",
+    "user_id": "d4a58c05-37e9-41a6-884a-f3c02341433a",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 18
+  },
+  {
+    "id": "6f6a3a16-6941-4acd-b1f6-b7adb8b541f1",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "02e43575-49ee-418d-854a-c06c7a3c866c",
+    "user_id": "30eac07e-2f30-4f66-b124-40ef5e8e5ebf",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 18
+  },
+  {
+    "id": "e88e399d-a615-4604-8f45-61d8f2599975",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 17
+  },
+  {
+    "id": "05da1d66-6a23-487d-b3df-7ce3440588ef",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "bdef22ea-ebd8-405b-bd45-38caa8414fab",
+    "user_id": "8da82cc6-47e5-49d1-9712-ec32d3979d8d",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "afd7bded-eafd-4aee-b293-e78512f72557",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "eac5849c-2c1e-403e-a5ad-745fe5175c74",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "e36ed953-2f4b-4039-bd21-2552dc1ca526",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 4,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "7a6aaedd-e58f-45c4-96a9-0b66ea928f01",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "8fd42e4b-dc18-425d-9020-121ed847b5ef",
+    "user_id": "689875e0-0569-48f7-9da9-96a07e4b3f67",
+    "app_id": 2,
+    "country_code": null,
+    "advertiser_id": 18
+  },
+  {
+    "id": "4dd2bcf6-ef87-4c15-a9d9-e727b87ac67c",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 16
+  },
+  {
+    "id": "af7d402d-090c-4ab5-9655-28469fcba12f",
+    "user_id": "4d1ef13f-a893-4943-becc-b64f38b5b9f4",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 10
+  },
+  {
+    "id": "0cff3f14-555c-4ac6-ab79-c85743623f4b",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "f55663cf-8b27-4aca-92fd-6b3f977962d8",
+    "user_id": "c24abcc6-79bd-4b87-b798-80dcbc67788e",
+    "app_id": 4,
+    "country_code": "AU",
+    "advertiser_id": 9
+  },
+  {
+    "id": "0d72a2fd-c030-4364-b21f-561b68ef73d9",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 11
+  },
+  {
+    "id": "0d72a2fd-c030-4364-b21f-561b68ef73d9",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 11
+  },
+  {
+    "id": "0d72a2fd-c030-4364-b21f-561b68ef73d9",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 11
+  },
+  {
+    "id": "0d72a2fd-c030-4364-b21f-561b68ef73d9",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 11
+  },
+  {
+    "id": "71551b88-036c-46b7-84fe-802a43d3fa75",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "d53f8c0d-86c8-4dae-a93f-1c7ffdc15bf6",
+    "user_id": "d3261606-32af-4145-a632-2cdb715c65cc",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "053c83fa-8f41-4658-8ee7-0cc136d61358",
+    "user_id": "a137098a-557d-4f90-9e40-d5ea59749ddd",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "053c83fa-8f41-4658-8ee7-0cc136d61358",
+    "user_id": "a137098a-557d-4f90-9e40-d5ea59749ddd",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "053c83fa-8f41-4658-8ee7-0cc136d61358",
+    "user_id": "a137098a-557d-4f90-9e40-d5ea59749ddd",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "053c83fa-8f41-4658-8ee7-0cc136d61358",
+    "user_id": "a137098a-557d-4f90-9e40-d5ea59749ddd",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 13
+  },
+  {
+    "id": "8e259902-b567-43c8-a4bf-641d33badbec",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "86ab6465-98d2-424a-98d5-ef7d5cc61765",
+    "user_id": "b1166146-a179-43b8-8198-5693441aa7ff",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 8
+  },
+  {
+    "id": "9d91c28f-dc91-42f8-981c-790852e2017b",
+    "user_id": "94c01609-54a5-42bb-b2b2-03b886a50581",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "740098b9-f95d-4612-a625-b55ef700d588",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "169e596e-4b30-416b-aa24-5127354a574f",
+    "user_id": "c5044f37-ec11-4816-b048-37c3129f1e03",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 8
+  },
+  {
+    "id": "0953b1b4-e516-4bd5-b257-d3f258c54311",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 20
+  },
+  {
+    "id": "dacb0c1b-5cf4-4b54-a99e-c9fa81e44b22",
+    "user_id": "34393eea-2a77-4485-ac0f-247ae168648f",
+    "app_id": 5,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "e4f8b144-9cb7-4175-947e-7cdf2b143403",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 8
+  },
+  {
+    "id": "00e5d7d0-03ab-4943-8d5c-bb360e4bd897",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 1
+  },
+  {
+    "id": "748ef752-3ddd-4bc6-b96b-89eee53ae5f1",
+    "user_id": "2975ac4c-e000-46ac-8449-aa12b94c78d4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "e391b553-c354-4364-94b0-8536ece3c633",
+    "user_id": "27bac7f2-0ea6-4e9f-9129-14f17358fd13",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "4d460288-6698-42e2-9c95-9ddd44879ecd",
+    "user_id": "500177ab-fb7e-4b17-84a0-c7d6bf70dbe2",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "03c58625-b596-4cf8-b693-aec4af80ae54",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 2
+  },
+  {
+    "id": "b6016a52-0670-4ed5-9694-cc888dcaf4ed",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 20
+  },
+  {
+    "id": "4aed500a-fb0d-49ec-89e7-cf130dcc4f87",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "1a3243bd-4b1b-4fa8-b12f-a99825c63dfb",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 3,
+    "country_code": "JP",
+    "advertiser_id": 20
+  },
+  {
+    "id": "8b7104bc-7832-4689-b359-a7ee45676c18",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "11e5f021-6ac8-48b2-9968-d80864d59177",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "599daf03-e930-4e05-9e0b-a458ef6a8a70",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 17
+  },
+  {
+    "id": "80e668cf-4a30-4e75-8d13-28dcdbdbdc64",
+    "user_id": "767dd3ff-2618-4437-be98-e10301bd8faa",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 11
+  },
+  {
+    "id": "de8d732b-f7e6-4997-a622-c9ecce6aeeab",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "57988786-1376-4e94-aee7-8024bc7fb996",
+    "user_id": "1a4ebe53-793d-4ef6-88ca-f477d39c0295",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 16
+  },
+  {
+    "id": "59c867dd-6adf-4594-b72e-58a1454ee1be",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 5,
+    "country_code": "GB",
+    "advertiser_id": 14
+  },
+  {
+    "id": "38f0f0ef-d743-4231-8701-17f372131de8",
+    "user_id": "71f8298f-5afe-4f11-87bf-eed2fa1e8b42",
+    "app_id": 5,
+    "country_code": "DE",
+    "advertiser_id": 8
+  },
+  {
+    "id": "4e8da9aa-8fda-4f79-816d-f42efb17fd37",
+    "user_id": "65bfc898-b854-4bf7-8768-956ad9deb902",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 13
+  },
+  {
+    "id": "6dfbad39-95bf-4954-9554-3e0180ef6f2d",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 7
+  },
+  {
+    "id": "ecf040f2-14d2-4bbd-8962-2868cf9be880",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 9
+  },
+  {
+    "id": "cf38683c-6937-4a22-a355-5765cf7775a5",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "IN",
+    "advertiser_id": 1
+  },
+  {
+    "id": "3a09d466-9a89-407b-99f7-686fafcab1cc",
+    "user_id": "0280b8e0-455c-45eb-85e4-081f841381cc",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 12
+  },
+  {
+    "id": "b9d16455-68e1-4ab1-a211-a4b92dda3acd",
+    "user_id": "dc9db6b0-e43e-4b6e-8eaf-8203f937f435",
+    "app_id": 4,
+    "country_code": "JP",
+    "advertiser_id": 3
+  },
+  {
+    "id": "ad645187-8795-4f9e-8ce3-01b48eb71351",
+    "user_id": "f4c99321-c950-4751-b0c7-dd3456cab32b",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "4038a237-af0c-4ea6-ba25-977705bea7e0",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 11
+  },
+  {
+    "id": "c662c9e3-3ed2-4910-98fc-f6dd3d890075",
+    "user_id": "c1d9b541-6420-455f-904e-bb70139b5867",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 3
+  },
+  {
+    "id": "788e972e-3e2d-431a-a75a-afadae2406db",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 4,
+    "country_code": "FR",
+    "advertiser_id": 12
+  },
+  {
+    "id": "4c7e5b6b-ffbe-4453-9f69-0e257be1ce18",
+    "user_id": "f3f86a5b-ceea-40c7-971c-b9d301c98add",
+    "app_id": 3,
+    "country_code": "CA",
+    "advertiser_id": 9
+  },
+  {
+    "id": "52237058-c2fc-4357-8e0d-051e8d8eeedd",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 8
+  },
+  {
+    "id": "3ac1455d-9aad-46b8-b093-c765afc47e35",
+    "user_id": "035d1b1c-a454-4af8-ac99-686ff7c74b5d",
+    "app_id": 1,
+    "country_code": "GB",
+    "advertiser_id": 5
+  },
+  {
+    "id": "c4bcf450-5935-4d49-88d1-cfd697b37195",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 15
+  },
+  {
+    "id": "61478908-bf98-40c8-bf2c-adfe688c5db7",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "848ceacc-a1c1-444e-a837-5917b67bbabf",
+    "user_id": "d4a58c05-37e9-41a6-884a-f3c02341433a",
+    "app_id": 3,
+    "country_code": "IN",
+    "advertiser_id": 4
+  },
+  {
+    "id": "69181252-c6fc-42d3-9291-23502204e3e5",
+    "user_id": "fb118ba8-2900-4ff0-9074-a97c5376b65d",
+    "app_id": 1,
+    "country_code": "FR",
+    "advertiser_id": 9
+  },
+  {
+    "id": "5ffc216b-84eb-4c7d-a8ea-b76821efcbf4",
+    "user_id": "66301cc8-bff4-4acc-a5ec-721f3b1cf060",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 10
+  },
+  {
+    "id": "e68f772b-e074-4e82-a7b0-669bb67b2aff",
+    "user_id": "500177ab-fb7e-4b17-84a0-c7d6bf70dbe2",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 17
+  },
+  {
+    "id": "97265589-769d-4342-8998-7813ea7a36dc",
+    "user_id": "d132c922-c555-4946-8e3b-297a1d59e147",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 19
+  },
+  {
+    "id": "cb51ddb3-009c-4459-91d5-0b1530643a8a",
+    "user_id": "93e3a382-1c11-41d9-8bb4-8f023ef93210",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 14
+  },
+  {
+    "id": "4382adfa-9da8-48ac-ad87-11c79bf4e7fd",
+    "user_id": "78fba015-7f14-4816-8b6f-fa7eb4a4e97d",
+    "app_id": 1,
+    "country_code": "AU",
+    "advertiser_id": 1
+  },
+  {
+    "id": "e5874d1a-f13e-4bad-95fa-550debb8298d",
+    "user_id": "ca99cfc5-5242-4daf-a616-b4dd8f5b73ba",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 18
+  },
+  {
+    "id": "a9e81068-2b1c-4ab8-909a-8a1a613ef38b",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 5,
+    "country_code": "MX",
+    "advertiser_id": 19
+  },
+  {
+    "id": "dccd08a3-3114-409f-a37f-36cdbdd7f780",
+    "user_id": "aa75f1a6-37c6-4d08-937e-7f2583a2f56d",
+    "app_id": 1,
+    "country_code": "CA",
+    "advertiser_id": 18
+  },
+  {
+    "id": "fb18a2da-782e-4b10-9d89-c3459895e777",
+    "user_id": "e1173a98-ba39-4818-87c2-7e12537947af",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 18
+  },
+  {
+    "id": "b140859b-310e-4858-87d5-f56aaf6832b4",
+    "user_id": "0450f615-eb99-4e8b-b50a-a36c7a622630",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 7
+  },
+  {
+    "id": "cfe194f0-f895-4398-b6b1-de4612dcc304",
+    "user_id": "e42b650c-6ecc-4dd2-b33f-4129a4da83c4",
+    "app_id": 1,
+    "country_code": "JP",
+    "advertiser_id": 14
+  },
+  {
+    "id": "4b22d6eb-cc6f-448a-b679-ffa7b820c6ba",
+    "user_id": "6b3356c2-37e6-4287-83ed-311cb7c67808",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 7
+  },
+  {
+    "id": "ef809727-5b44-4b36-a85c-0cb94bed2003",
+    "user_id": "baddd349-b896-4cda-a692-9e75fcb329b2",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 19
+  },
+  {
+    "id": "afede458-b55f-4a6a-85d0-4186144ccbed",
+    "user_id": "1ccb4039-1417-4cb2-b824-f8eb926930cc",
+    "app_id": 2,
+    "country_code": "BR",
+    "advertiser_id": 20
+  },
+  {
+    "id": "8fa369c7-8c79-4440-889a-fbc4bcb2fe68",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 2,
+    "country_code": "FR",
+    "advertiser_id": 10
+  },
+  {
+    "id": "57857446-3bee-43a1-90e8-7975c89d2718",
+    "user_id": "93e3a382-1c11-41d9-8bb4-8f023ef93210",
+    "app_id": 1,
+    "country_code": "BR",
+    "advertiser_id": 6
+  },
+  {
+    "id": "03a46e57-a41e-4a8e-bc9a-17289debd83f",
+    "user_id": "f52089a0-04e9-40c8-a3fa-b341e30b2683",
+    "app_id": 3,
+    "country_code": "DE",
+    "advertiser_id": 4
+  },
+  {
+    "id": "521a0eb7-e23d-4f79-8627-b051700c8188",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 3
+  },
+  {
+    "id": "15406745-93d0-489f-a547-f2feb3953af0",
+    "user_id": "9591c147-9001-49a4-9c9e-329bf1034488",
+    "app_id": 2,
+    "country_code": "MX",
+    "advertiser_id": 3
+  },
+  {
+    "id": "5e12e6c6-7165-44f2-bada-c3c3c148c972",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 1
+  },
+  {
+    "id": "f20f6a62-459e-4fbe-b4b6-76fee97791c1",
+    "user_id": "c5044f37-ec11-4816-b048-37c3129f1e03",
+    "app_id": 4,
+    "country_code": "CA",
+    "advertiser_id": 1
+  },
+  {
+    "id": "91eae335-b42f-4ee3-a4a4-a156fee89c23",
+    "user_id": "0814ade6-2a7c-4d1d-ab92-b0e009aefe78",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 8
+  },
+  {
+    "id": "d71915d4-d608-49e5-ad34-ad6f57b1cc7a",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "GB",
+    "advertiser_id": 6
+  },
+  {
+    "id": "5b6717f5-a989-4e69-8315-0f47414369ae",
+    "user_id": "295af11c-016a-419a-b8a4-ef84b436fa6a",
+    "app_id": 3,
+    "country_code": "US",
+    "advertiser_id": 12
+  },
+  {
+    "id": "cd23294d-e2d1-48ea-af70-fd5e0171680e",
+    "user_id": "6f3bdada-8f89-4ab5-9beb-48d0d19ad58a",
+    "app_id": 1,
+    "country_code": "DE",
+    "advertiser_id": 17
+  },
+  {
+    "id": "a8bee510-97c4-4174-a765-af3412f54cf7",
+    "user_id": "768b4d2c-e005-49bd-ab59-d2ecf9c4eaa6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "1d41d8b7-445b-49b8-872d-b5aa6cf799d4",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "MX",
+    "advertiser_id": 11
+  },
+  {
+    "id": "6f6caf67-85cf-4a42-8bf9-2d67ccdb268e",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 4,
+    "country_code": "DE",
+    "advertiser_id": 6
+  },
+  {
+    "id": "5de42c0d-8959-458e-b659-c195123a8cba",
+    "user_id": "1865a240-e810-402b-85d9-b4ca789c937c",
+    "app_id": 2,
+    "country_code": "AU",
+    "advertiser_id": 13
+  },
+  {
+    "id": "de8a9df7-1e20-4ecc-955b-1d5a59e782fe",
+    "user_id": "2f948c08-1ffe-42ac-bd20-abeefaf451c4",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 13
+  },
+  {
+    "id": "e363f009-c684-4497-a588-0a7b351124d5",
+    "user_id": "352ad7d1-c9e9-4645-a52e-4c1dda4b439a",
+    "app_id": 1,
+    "country_code": "IN",
+    "advertiser_id": 14
+  },
+  {
+    "id": "d1cbb8ae-7884-4ee5-bcdf-0fcf89bc37db",
+    "user_id": "a752ceed-a87f-4c2a-b082-811d9c567e68",
+    "app_id": 5,
+    "country_code": "JP",
+    "advertiser_id": 6
+  },
+  {
+    "id": "dec2e8b4-49f5-4821-86e1-bfb395f9bf0f",
+    "user_id": "fe3480e0-0c63-4bcd-8a2b-91c6c283136a",
+    "app_id": 5,
+    "country_code": "FR",
+    "advertiser_id": 5
+  },
+  {
+    "id": "739679ec-12ed-4cbe-8aff-c60958eae2c6",
+    "user_id": "8c0f023e-451c-4336-a620-eb66e4a0d3c9",
+    "app_id": 2,
+    "country_code": "US",
+    "advertiser_id": 20
+  }
+]

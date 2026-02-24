@@ -1,0 +1,3527 @@
+[
+  {
+    "id": "a1890d10-a7a0-40c8-81bd-b33a24e3e370",
+    "impression_id": "15a5601a-cc01-4b5c-ace7-2e27939c2994",
+    "revenue": 3.19
+  },
+  {
+    "id": "0ef2ef8c-ad37-44e7-a98b-68c8b3090229",
+    "impression_id": "b2c4dfba-9c40-47be-99ff-c6a073cf158c",
+    "revenue": 2.32
+  },
+  {
+    "id": "c97eac3e-6de0-48de-ae7e-bd65624de124",
+    "impression_id": "a05f83ed-90ed-4d90-a1ef-82b30e22772c",
+    "revenue": 0.76
+  },
+  {
+    "id": "90ac3a4f-6a3d-4fbf-a610-1b60b73df787",
+    "impression_id": "4d55efa0-f189-4e2a-be52-cb660df4e89e",
+    "revenue": 2.55
+  },
+  {
+    "id": "218f41e7-1efd-4344-9107-623ad9435072",
+    "impression_id": "b9d50050-8d1a-49e9-99b1-8bce47fcc2aa",
+    "revenue": 0.58
+  },
+  {
+    "id": "85bd5f4b-9f82-4b1f-b488-20e6df9b27fb",
+    "impression_id": "8b7c114c-a4ba-48f4-9a65-1db1e8b8e0d0",
+    "revenue": 0.51
+  },
+  {
+    "id": "d12c2581-cbc4-4a0b-a9c8-aee6f448a850",
+    "impression_id": "b70a0bd3-4ac9-4600-ac35-2ffa4e5a6084",
+    "revenue": 2.26
+  },
+  {
+    "id": "727222ef-f4e8-4c72-bc61-555ea91f3f38",
+    "impression_id": "433bcf41-c302-4d3e-a4d8-e9abbdb94de1",
+    "revenue": 0.58
+  },
+  {
+    "id": "537e8ce1-9344-4705-ac59-49fc3312cb4d",
+    "impression_id": "af7d402d-090c-4ab5-9655-28469fcba12f",
+    "revenue": 3.37
+  },
+  {
+    "id": "28c2314e-8a7e-4863-8bbd-1d5a32072696",
+    "impression_id": "469c3f76-950a-470a-8b2d-f6528cf13281",
+    "revenue": 1.43
+  },
+  {
+    "id": "380ae9cd-e1e2-44d5-b446-809c71e74f9b",
+    "impression_id": "24a5a320-9d09-4ec3-84ce-c32b5a77f15c",
+    "revenue": 0.52
+  },
+  {
+    "id": "76e97b35-7f26-4ee5-8fe0-ef01ba561f6b",
+    "impression_id": "7dd3386d-f811-457a-9c1f-8e14354b631e",
+    "revenue": 0.79
+  },
+  {
+    "id": "3f7a42b2-206f-4615-96c2-8803683098c4",
+    "impression_id": "8c84df18-c973-4336-b9b9-b75680227a96",
+    "revenue": 3.07
+  },
+  {
+    "id": "ac01180b-2d62-46c1-b3b1-031341bc285f",
+    "impression_id": "d0428f57-d07d-4d86-a24c-e7c0301ec9ed",
+    "revenue": 2.01
+  },
+  {
+    "id": "d4852e55-8af0-4131-bfc3-053f68b2a5d2",
+    "impression_id": "13b1eb2c-470d-4de4-9c87-fd2266bfb397",
+    "revenue": 1.12
+  },
+  {
+    "id": "af0edc66-45e2-476b-b456-57c1010f03f4",
+    "impression_id": "3e1c51b6-e8b3-4360-8b9e-7bd178c05c73",
+    "revenue": 2.76
+  },
+  {
+    "id": "056c8890-b279-414c-b453-c35267602271",
+    "impression_id": "28e64281-f758-4e53-964d-fcb3d32db6bb",
+    "revenue": 0.91
+  },
+  {
+    "id": "559066c0-0344-4a11-8f0a-6f9570c43e20",
+    "impression_id": "f1124fa1-e406-4f1a-8393-148c706afa0e",
+    "revenue": 1.99
+  },
+  {
+    "id": "7ad10a1f-e0e2-416c-a64f-62da6855a4d6",
+    "impression_id": "5e854906-3bd6-4053-82b6-228953abd862",
+    "revenue": 2.72
+  },
+  {
+    "id": "6e6e9916-b553-46c5-bef6-34d98add5602",
+    "impression_id": "4f359ed6-9500-4719-936e-e36edc5b5da8",
+    "revenue": 1.25
+  },
+  {
+    "id": "ca68a52b-3608-4d40-8839-a72a8670525a",
+    "impression_id": "ea23154d-3412-4469-93d4-d855e40b4868",
+    "revenue": 2.52
+  },
+  {
+    "id": "ae532ee6-8e78-415d-a201-886ad47f293e",
+    "impression_id": "98b7a88b-65bd-43ad-babf-6c164bf35216",
+    "revenue": 1.08
+  },
+  {
+    "id": "62ee0b0d-367f-4e79-b40d-56d56c1958c5",
+    "impression_id": "54e7924e-28a1-43d5-b600-04347e9ee8eb",
+    "revenue": 0.85
+  },
+  {
+    "id": "6c518330-ca03-4550-850e-437fe4e77409",
+    "impression_id": "e62a8a89-bb16-4079-ab30-2d857c8dc870",
+    "revenue": 3.25
+  },
+  {
+    "id": "6f230bb6-bb8f-4b32-9147-ba25992a3d21",
+    "impression_id": "748ab846-1036-4892-b3ee-e6d62d7ba45d",
+    "revenue": 3.26
+  },
+  {
+    "id": "574f95f0-3a4a-46b4-a314-47cf840e4608",
+    "impression_id": "1817f84d-1535-4dd8-8ee4-9b1695f6b231",
+    "revenue": 1.87
+  },
+  {
+    "id": "246d9f01-1b2e-453e-9dec-f2bb84e88108",
+    "impression_id": "2a5c5755-2a29-4b7c-89fc-2710b55907c1",
+    "revenue": 0.04
+  },
+  {
+    "id": "4076be8b-a8c6-4c0f-a070-95e9fc473fa6",
+    "impression_id": "374bfacb-2d87-42d7-ace0-66913a7ae3fc",
+    "revenue": 2.32
+  },
+  {
+    "id": "516f9524-9726-4bda-86d7-25da7193066a",
+    "impression_id": "74e9059c-cd42-4857-9f12-2f2c3f9bee33",
+    "revenue": 0.16
+  },
+  {
+    "id": "61fcaa7d-e8bb-4585-92f8-55e9763265bb",
+    "impression_id": "c893c8ba-b81a-4daa-8c4f-ec52aed5609e",
+    "revenue": 3.16
+  },
+  {
+    "id": "ed113237-122a-4ada-95e7-81d78ef08b12",
+    "impression_id": "de8d732b-f7e6-4997-a622-c9ecce6aeeab",
+    "revenue": 0.19
+  },
+  {
+    "id": "099d82ed-7c9c-41e0-852e-bc9c8fab1182",
+    "impression_id": "c1a3d0eb-b35f-4212-81ed-0b38696eff2b",
+    "revenue": 2.38
+  },
+  {
+    "id": "f7dbc89a-7e28-4b12-8f22-d696de10c561",
+    "impression_id": "c60b0ac3-2bda-40d0-a9c5-45adf03da1e3",
+    "revenue": 1.7
+  },
+  {
+    "id": "d9e69a99-d47a-41b7-a2e0-ef0983819680",
+    "impression_id": "d39e080b-1cd2-4b12-b337-a0cae065b261",
+    "revenue": 3.23
+  },
+  {
+    "id": "6aeaad3f-d4c5-4d21-bba7-3edc4943b680",
+    "impression_id": "f2f18960-b24c-4bcd-a60f-001e12727358",
+    "revenue": 3.27
+  },
+  {
+    "id": "37a9f118-2988-4d83-b5d2-f91650b9b465",
+    "impression_id": "0b7093ac-8f6e-484c-92ff-de64014167cd",
+    "revenue": 1.62
+  },
+  {
+    "id": "3f8f635e-63c5-4515-b39e-175fd8065fdc",
+    "impression_id": "f7c4b7aa-bc89-462b-b5ef-4f74a3d9d019",
+    "revenue": -2.85
+  },
+  {
+    "id": "4a49ab1e-773a-4066-99b5-e5161ba5abe3",
+    "impression_id": "3d49e4ac-522e-4d30-8e71-e40479b8bbe4",
+    "revenue": 1.44
+  },
+  {
+    "id": "9c90e798-9348-495b-a77e-96568feba1e3",
+    "impression_id": "dda0d7f6-9ec9-4a58-aa19-0e6cc828e5f3",
+    "revenue": 1.65
+  },
+  {
+    "id": "383fa371-09ae-48a4-9c31-5db1ec4bd1e1",
+    "impression_id": "1db56407-9781-4799-8e6e-3ebf305cadac",
+    "revenue": 0.95
+  },
+  {
+    "id": "b71215a4-b083-455f-a402-85fe762dfda4",
+    "impression_id": "be22bf08-d3c1-42f7-8426-1cad1ddb33b4",
+    "revenue": -0.58
+  },
+  {
+    "id": "b84a40a3-f68c-45c8-b8cd-0af55b7a9a4d",
+    "impression_id": "237e4dd9-254a-4af6-ac55-9837bde0a2ea",
+    "revenue": 0.48
+  },
+  {
+    "id": "f705072f-f399-45ce-a23b-905e8c662d21",
+    "impression_id": "de168512-ce31-4e49-b141-da94c645072e",
+    "revenue": 3.32
+  },
+  {
+    "id": "1c4989d1-578d-4607-9835-e5cde63bbb62",
+    "impression_id": "44b18c22-2ba4-40be-953a-1199619b23ed",
+    "revenue": 1.74
+  },
+  {
+    "id": "4e477ba0-0116-4cf4-9977-8c3d29b61699",
+    "impression_id": "58f94b44-39c2-4707-960c-45734581b183",
+    "revenue": 1.41
+  },
+  {
+    "id": "d4786f84-c265-4107-85f7-86a499003dac",
+    "impression_id": "4a071207-0f62-4325-9dc5-dcad8dfda577",
+    "revenue": 3.35
+  },
+  {
+    "id": "0c574554-823d-4155-8642-61bf1f83f5e9",
+    "impression_id": "13a7b43b-b713-4cda-b7d3-baaf5c9ec0d9",
+    "revenue": 2.4
+  },
+  {
+    "id": "d5a2ee64-384a-40c1-b79c-aca96d488451",
+    "impression_id": "0f66d7d3-71c6-4a51-9646-d442aca0d69a",
+    "revenue": 0.04
+  },
+  {
+    "id": "366e2c32-dd36-4a87-8423-b94ce844f4ff",
+    "impression_id": "bf2cffb6-290a-4b50-890b-efbaaf2186cf",
+    "revenue": 2.17
+  },
+  {
+    "id": "b53c5178-dd68-45b4-812e-d159acce30f1",
+    "impression_id": "9c27f844-e3d6-407e-9006-1818c9dba7b8",
+    "revenue": 0.93
+  },
+  {
+    "id": "d87aff03-e9bb-4540-ae55-6dcdf6f108cd",
+    "impression_id": "1487f038-86f6-4337-8a13-c6ad5afda185",
+    "revenue": 2.74
+  },
+  {
+    "id": "12604a75-931c-4970-b871-b3d176bff132",
+    "impression_id": "8c069ce5-b885-4b82-ab9b-0551194b927c",
+    "revenue": 2.99
+  },
+  {
+    "id": "18f613d2-cf39-44ca-b301-bca04b1cf0f6",
+    "impression_id": "e1806496-3340-4a17-992a-a32ddc9d7ed7",
+    "revenue": 0.97
+  },
+  {
+    "id": "efd04faa-bfc2-4375-9157-8ec9e034557b",
+    "impression_id": "0a40001a-43a4-4cdb-bfa9-11932f679cc8",
+    "revenue": 3.03
+  },
+  {
+    "id": "ca52893a-cdfb-49a4-9889-8b915a32b0dc",
+    "impression_id": "e395c9c0-89c0-4d3c-a9a9-3bf2d543361b",
+    "revenue": 0.78
+  },
+  {
+    "id": "599c2a20-47d8-423a-9862-30f1c76d46f7",
+    "impression_id": "6fc48f84-9a35-4c9b-814f-74294478e69d",
+    "revenue": 0.39
+  },
+  {
+    "id": "439c8a6f-2dd1-446b-850a-6f77b39ce3ab",
+    "impression_id": "d62f835b-a2bf-4b57-9297-66b1099d54a7",
+    "revenue": 3.13
+  },
+  {
+    "id": "50feff9b-83bd-4084-bd06-98fd6340524f",
+    "impression_id": "4e474687-bffa-43ea-b116-2c0f775a046c",
+    "revenue": 1.01
+  },
+  {
+    "id": "d48945f1-d579-40d4-ba43-e72e681894de",
+    "impression_id": "d2afd817-3e08-441d-bde5-ad5fd2e1af9f",
+    "revenue": 1.72
+  },
+  {
+    "id": "5849f6dd-8aff-4a49-994d-6df088caa27b",
+    "impression_id": "4dde3c58-c800-469c-bfd0-237351a4db7b",
+    "revenue": 2.7
+  },
+  {
+    "id": "4d5e87b4-c77c-4333-8732-3b579badda0b",
+    "impression_id": "bafb3bda-0227-487d-b2c0-0a9438ec5033",
+    "revenue": 2.07
+  },
+  {
+    "id": "efb97378-96d5-40ea-a4bb-83d41f13a8cc",
+    "impression_id": "740098b9-f95d-4612-a625-b55ef700d588",
+    "revenue": 0.31
+  },
+  {
+    "id": "f29f5533-4ea3-472a-8489-e8c67cb433b0",
+    "impression_id": "917c349b-59fe-4358-bfc4-934c28cec089",
+    "revenue": 3.39
+  },
+  {
+    "id": "79fcfdc1-d546-4b8f-be56-43fa56a1cfcd",
+    "impression_id": "caa31243-5ea7-43d1-83f2-f09c69d00048",
+    "revenue": 0.35
+  },
+  {
+    "id": "7c359f51-41bd-4248-9c50-3ba8581b498f",
+    "impression_id": "efb5f84f-5ad5-4079-bd1e-7bcb58b68f24",
+    "revenue": 2.67
+  },
+  {
+    "id": "c7b941bd-487a-40f5-9a9e-95e340275424",
+    "impression_id": "068888c3-36c7-4edd-9b04-fabf3eb4e505",
+    "revenue": 2.49
+  },
+  {
+    "id": "68a86d5e-ce7b-44e0-8e36-79fd6d671241",
+    "impression_id": "5d60821a-f5cb-49e3-9ecd-6858fb4c866a",
+    "revenue": 1.22
+  },
+  {
+    "id": "be3b6185-3d51-40c4-aa28-a57eda341a82",
+    "impression_id": "57b0f3ad-8ca8-45f7-8521-a5178f4b3d34",
+    "revenue": 1.7
+  },
+  {
+    "id": "7f787421-255f-4986-aff9-392bd65cb6e3",
+    "impression_id": "b0a0f7b9-f229-474f-8a36-ff7289a2b741",
+    "revenue": 0.97
+  },
+  {
+    "id": "057c6ac1-4183-4e61-b9b9-5d9035dfb98c",
+    "impression_id": "46888fea-752a-4deb-b0c1-e5804891661a",
+    "revenue": 3.4
+  },
+  {
+    "id": "93be3d79-8df2-4fe2-a242-9e8cab73fb47",
+    "impression_id": "bae3c300-cd11-4d42-a686-518fc933cc63",
+    "revenue": 1.8
+  },
+  {
+    "id": "992f2519-b7cd-4a61-8e15-302c1f767964",
+    "impression_id": "06c3070f-9660-4a2d-b92f-32e4e20ea25d",
+    "revenue": 1.37
+  },
+  {
+    "id": "71c57aab-8555-44dd-9216-d2572c125bb8",
+    "impression_id": "ad645187-8795-4f9e-8ce3-01b48eb71351",
+    "revenue": -0.36
+  },
+  {
+    "id": "23ef167f-b387-47da-a63e-c6dc447f6668",
+    "impression_id": "ab41fc31-5e8e-47e7-abae-2b26b6361d1a",
+    "revenue": 0.91
+  },
+  {
+    "id": "f5094d6d-da52-4ce1-be98-9bbd9cdb4337",
+    "impression_id": "9f4f6130-0476-4af2-a2ec-5e5882f956ca",
+    "revenue": 0.79
+  },
+  {
+    "id": "c62f49b0-d2b6-4a18-9b46-6188747abfd0",
+    "impression_id": "085436e2-a27c-48d8-b651-8084732b9ea6",
+    "revenue": 0.98
+  },
+  {
+    "id": "7eb3dc8a-a325-44de-be19-3790100b9b5a",
+    "impression_id": "be051c9c-d9c8-40b4-8f22-ebcb9eb79a6b",
+    "revenue": 3.46
+  },
+  {
+    "id": "b961185d-06f7-4a09-8b2b-7a6db5589aed",
+    "impression_id": "79321f68-37cf-446b-841f-595e2b782fed",
+    "revenue": 3.4
+  },
+  {
+    "id": "e89daf33-41fe-4d10-a789-b6b79767b318",
+    "impression_id": "3b19d7d4-6f6d-454e-9630-90a2e9ff2665",
+    "revenue": 0.48
+  },
+  {
+    "id": "a21c020c-c37a-4229-bbe8-0cf81ac58d63",
+    "impression_id": "47914a5d-15d9-42aa-a371-7849b38f985c",
+    "revenue": 0.05
+  },
+  {
+    "id": "1b93bd4c-e4d7-436b-9b3e-ef41bfbb3b61",
+    "impression_id": "e6b343e2-301a-45c6-a9cb-fe88ce45de35",
+    "revenue": 0.06
+  },
+  {
+    "id": "33b0761b-8f07-453d-92cd-2988e66bf586",
+    "impression_id": "52674877-069b-4c14-81d8-619074cc0770",
+    "revenue": 2.53
+  },
+  {
+    "id": "9d318121-e420-48d3-999a-e4c19d51f534",
+    "impression_id": "dde3374c-3b6a-45b6-9fc6-4ee9e08f91dc",
+    "revenue": 2.12
+  },
+  {
+    "id": "78a7c044-9cc3-42ff-8204-1d350190f527",
+    "impression_id": "3c900863-115c-43c7-bb25-605fa4472be2",
+    "revenue": 2.21
+  },
+  {
+    "id": "cad22d2f-52b2-49a9-8491-37153785995a",
+    "impression_id": "2cda3e53-86f4-4cca-b2ce-e8d4f3ea27ab",
+    "revenue": 1.52
+  },
+  {
+    "id": "6e3e31b9-1226-4087-9e46-9d400a7f8204",
+    "impression_id": "78d8c2c7-f227-40a8-91f5-7bd2137dd645",
+    "revenue": 2.86
+  },
+  {
+    "id": "575062e2-c9e4-43ff-841f-9c14b616f074",
+    "impression_id": "dccd08a3-3114-409f-a37f-36cdbdd7f780",
+    "revenue": 0.99
+  },
+  {
+    "id": "892b133f-6b3e-4b2c-b5a5-52458e8ab6f0",
+    "impression_id": "5107ee10-14e0-4163-8744-16054ab8a33d",
+    "revenue": 0.67
+  },
+  {
+    "id": "e97be19e-2735-4977-9f8d-305fc2af4a37",
+    "impression_id": "ff24b04f-8896-4edd-8c8d-ba8949ced234",
+    "revenue": 1.41
+  },
+  {
+    "id": "11e37b2b-2bac-4eff-b146-d60fb8d609a9",
+    "impression_id": "30e35cc2-add1-4d86-8bca-58e5a99e1f4c",
+    "revenue": 0.36
+  },
+  {
+    "id": "2dc70ebc-0407-4dda-84ba-2c18a1ebd442",
+    "impression_id": "721b4d15-87ab-4e5c-95ae-787bff05956e",
+    "revenue": 3.27
+  },
+  {
+    "id": "4d303b7b-fd43-444e-9d3d-d15f32e70d8f",
+    "impression_id": "58052cb8-8eb6-4fb9-8834-1062b9403a7d",
+    "revenue": 2.1
+  },
+  {
+    "id": "3437c009-0fbb-4827-84bc-587488a8b8e7",
+    "impression_id": "e052f14f-ed84-49bc-8e43-822c02b99c14",
+    "revenue": 2.87
+  },
+  {
+    "id": "2c1e69d8-a8d7-452d-87e5-f942414f921a",
+    "impression_id": "67800069-3ce4-41e8-8f8c-1748f5dfc981",
+    "revenue": 3.12
+  },
+  {
+    "id": "af10c4b8-6f50-4dbe-af78-8fd2573a426e",
+    "impression_id": "eac5849c-2c1e-403e-a5ad-745fe5175c74",
+    "revenue": 1.91
+  },
+  {
+    "id": "b2fd2fd5-8313-4112-b76c-dd8a6f9d776c",
+    "impression_id": "548b5df3-98a1-4632-8473-ad76276b7bab",
+    "revenue": 1.91
+  },
+  {
+    "id": "b2fd2fd5-8313-4112-b76c-dd8a6f9d776c",
+    "impression_id": "548b5df3-98a1-4632-8473-ad76276b7bab",
+    "revenue": 1.91
+  },
+  {
+    "id": "b2fd2fd5-8313-4112-b76c-dd8a6f9d776c",
+    "impression_id": "548b5df3-98a1-4632-8473-ad76276b7bab",
+    "revenue": 1.91
+  },
+  {
+    "id": "f018db9c-ab8d-4540-bf13-7cadae95b62d",
+    "impression_id": "511d95a4-a10a-4493-9bec-2346de5927c8",
+    "revenue": 0.09
+  },
+  {
+    "id": "874a0896-d063-44b6-b6a9-ac0c700d985b",
+    "impression_id": "f1c71036-6421-4ac5-b7aa-e295f9fcdbf8",
+    "revenue": 3.08
+  },
+  {
+    "id": "d1cc24ec-2c3f-41b7-a0eb-94150a9b030f",
+    "impression_id": "e03c21b1-78c3-42b3-b45c-e6eb8981715a",
+    "revenue": 0.6
+  },
+  {
+    "id": "1b15069b-2904-4e80-89a8-caf3c535509e",
+    "impression_id": "97265589-769d-4342-8998-7813ea7a36dc",
+    "revenue": 2.16
+  },
+  {
+    "id": "2c8ed315-e1e3-4d40-8642-9c9f9c482213",
+    "impression_id": "4e227952-390e-4e44-8d91-4aa5d25987e2",
+    "revenue": 2.12
+  },
+  {
+    "id": "f6838e16-5b66-4310-9b36-46a55a0e13d8",
+    "impression_id": "40cd343e-3535-411b-aa4d-5b5f4ab95af7",
+    "revenue": 0.53
+  },
+  {
+    "id": "0ad99764-15ca-46dd-aed9-b9144259d4cf",
+    "impression_id": "015b383e-ef24-40f9-b878-45e8224f0660",
+    "revenue": 0.37
+  },
+  {
+    "id": "1cd15432-5029-479e-b41a-1ab7ea7b9ae4",
+    "impression_id": "f0bbb271-7afa-40ef-9700-f28b905d84da",
+    "revenue": 2.49
+  },
+  {
+    "id": "fa4516c8-0d2f-4bfd-972c-7e97a60268aa",
+    "impression_id": "070c6b24-e643-4903-bf51-6f7887050a9a",
+    "revenue": 2.3
+  },
+  {
+    "id": "547d25c6-c1c2-46c7-9390-14603211b175",
+    "impression_id": "9ccdb19b-69e3-4a87-8057-62cbd4458053",
+    "revenue": 1.68
+  },
+  {
+    "id": "75597fd7-7f6d-48df-901a-8e34c9374542",
+    "impression_id": "f3892591-32c3-443a-b58d-7ec9e5eb84b1",
+    "revenue": 0.33
+  },
+  {
+    "id": "267fbb92-a9b9-447d-8627-4a41f3ff8ea1",
+    "impression_id": "6229f08d-8032-4d36-921a-c4d4f995457a",
+    "revenue": 1.49
+  },
+  {
+    "id": "c4a1dd28-4ef6-4f05-8fbb-8139e8eaca64",
+    "impression_id": "91bad778-afe7-46b4-bbec-03d9dc58e45c",
+    "revenue": 2.81
+  },
+  {
+    "id": "de00352d-0d8a-42b3-b3f1-706471ec23ba",
+    "impression_id": "4d460288-6698-42e2-9c95-9ddd44879ecd",
+    "revenue": 1.87
+  },
+  {
+    "id": "265f062c-c5e0-48cb-be2c-025933168bc8",
+    "impression_id": "b45299db-05a2-4782-8dfa-980901186cb3",
+    "revenue": 1.48
+  },
+  {
+    "id": "79f4dbdb-d2f0-47c8-b8f2-2a39296f855e",
+    "impression_id": "cf369058-502d-4a28-9d6b-786fde5ee38e",
+    "revenue": -0.03
+  },
+  {
+    "id": "31af021f-bfde-466a-8c00-adc24a0d020b",
+    "impression_id": "9009ecb0-1637-4c45-8b60-34abbaf501fc",
+    "revenue": 3.22
+  },
+  {
+    "id": "087d9371-97f0-4c93-9426-ee67bca41830",
+    "impression_id": "58c2d36c-29a2-4127-9b8c-3cb7e62ce867",
+    "revenue": 2.87
+  },
+  {
+    "id": "cd46f1cb-19b2-4150-9aa7-5151ec93735e",
+    "impression_id": "d688f40c-3338-4d55-8402-3ff57210fa9c",
+    "revenue": 3.2
+  },
+  {
+    "id": "59637990-8bdd-4a95-b554-65ef03130647",
+    "impression_id": "cfe194f0-f895-4398-b6b1-de4612dcc304",
+    "revenue": 3.37
+  },
+  {
+    "id": "7cc3b07a-9b0a-49ae-9832-5d30eb2c71da",
+    "impression_id": "37fd2914-0337-498d-aae5-c1eb40e4b5b7",
+    "revenue": 1.31
+  },
+  {
+    "id": "22618cfd-eb31-4c62-ba0c-9cd842223019",
+    "impression_id": "0a04fbad-c505-44cb-832e-6e4ffe4b8c61",
+    "revenue": 3.05
+  },
+  {
+    "id": "f61e2738-1b77-4d13-9d3f-411c5062ac03",
+    "impression_id": "30761571-efc2-4c70-b023-9c629b0baea5",
+    "revenue": 2.0
+  },
+  {
+    "id": "53947427-5873-4f55-b469-c505bfc42739",
+    "impression_id": "03a46e57-a41e-4a8e-bc9a-17289debd83f",
+    "revenue": 2.62
+  },
+  {
+    "id": "44bde2f2-af1f-41f4-87bb-edccb1428b68",
+    "impression_id": "5331ad1e-2734-47ac-965e-75bbe18deef4",
+    "revenue": 2.74
+  },
+  {
+    "id": "e08390eb-cbc5-4f1f-81a2-48f49d46552b",
+    "impression_id": "55856772-5f89-470f-b890-346255d49f7f",
+    "revenue": 0.12
+  },
+  {
+    "id": "a8ac0601-2257-4902-a7f4-ad1ee0726e98",
+    "impression_id": "cc8788ad-c26e-4044-923f-29940fe2d25e",
+    "revenue": 2.38
+  },
+  {
+    "id": "7d7c78b9-7f9e-4569-a5ef-9c62897779ad",
+    "impression_id": "b598ec59-7080-4531-8d7d-49f0808575c5",
+    "revenue": 1.76
+  },
+  {
+    "id": "5cc049d4-65ea-46e1-9674-2d121cf316c7",
+    "impression_id": "2aa48df3-322b-4881-93be-19e21dedf713",
+    "revenue": 1.83
+  },
+  {
+    "id": "502151fb-9a0b-44fa-8199-b8266595299a",
+    "impression_id": "0c15efc6-f778-42f9-ba4c-93ae30190f69",
+    "revenue": 0.77
+  },
+  {
+    "id": "c2a70097-2acb-4ae6-bd51-4a4eb8c0ef38",
+    "impression_id": "8ba95e9a-9221-4900-aa2d-8e1629eacae0",
+    "revenue": 2.86
+  },
+  {
+    "id": "4ab677c8-5cab-4fb0-b0ab-5a8b0f311f0a",
+    "impression_id": "cab8c2f7-764d-48fc-8bea-cf20b8b7fde3",
+    "revenue": 0.59
+  },
+  {
+    "id": "0bf44939-3b41-4f30-a0e3-a47d5fce7670",
+    "impression_id": "13ec432a-65dc-4ef4-9091-58c9cf0ac03f",
+    "revenue": 0.28
+  },
+  {
+    "id": "89513d12-9ff8-4a13-b6a1-c480073ddbaf",
+    "impression_id": "ddd8408c-02fb-4b19-a671-a8d2957a4a03",
+    "revenue": 1.9
+  },
+  {
+    "id": "8d069a4b-be0c-4eed-9580-e35c26e24677",
+    "impression_id": "afb8a43a-8102-490a-8797-3714ae27d12b",
+    "revenue": 1.94
+  },
+  {
+    "id": "b2635035-049c-4614-8079-19ae31ac1cc3",
+    "impression_id": "c662c9e3-3ed2-4910-98fc-f6dd3d890075",
+    "revenue": 1.98
+  },
+  {
+    "id": "c1d10471-f7e3-45d6-bfd7-8d291ff6de6e",
+    "impression_id": "139d5132-b43f-48e0-91a4-a36984951321",
+    "revenue": -3.22
+  },
+  {
+    "id": "72bee617-d43e-47a2-982a-89477fb42b4f",
+    "impression_id": "a49904db-e0fa-4d1e-81ad-04a5c6c5ac15",
+    "revenue": 2.63
+  },
+  {
+    "id": "198c9c08-91c1-4174-a71b-80f966d90cbc",
+    "impression_id": "d1eb6cea-be93-4595-a206-5e7bcb0b06c4",
+    "revenue": 1.43
+  },
+  {
+    "id": "8a0e4fb8-28fa-4d07-81dc-52a13613ba2c",
+    "impression_id": "048c1433-5c39-4138-9f98-021424011fa8",
+    "revenue": 2.06
+  },
+  {
+    "id": "c0bd0768-bc50-4e4a-b5c2-1cfa9816c315",
+    "impression_id": "009bee0a-31fa-450d-951e-068deb2f15b4",
+    "revenue": 0.54
+  },
+  {
+    "id": "2f9a78fa-90df-48e2-a988-42b8e49a4d4e",
+    "impression_id": "2b49152b-4e5c-466a-a8d3-1e1da3fd8be0",
+    "revenue": 3.1
+  },
+  {
+    "id": "e2d53d70-f917-4c42-b326-1f6927be7941",
+    "impression_id": "b6016a52-0670-4ed5-9694-cc888dcaf4ed",
+    "revenue": 3.37
+  },
+  {
+    "id": "442bd089-7164-4ccd-a9ac-ef198dacbbbc",
+    "impression_id": "655f644e-7b6d-4cca-8e0b-a1c75e17df44",
+    "revenue": 1.2
+  },
+  {
+    "id": "6a5ebf8a-e1c2-4b3c-823a-2913c0b71082",
+    "impression_id": "705c0292-6a17-4904-a6b7-fed7a58db867",
+    "revenue": 1.51
+  },
+  {
+    "id": "2f3469f6-4c0d-4cd8-92dd-01f389ef4701",
+    "impression_id": "1d41d8b7-445b-49b8-872d-b5aa6cf799d4",
+    "revenue": 2.14
+  },
+  {
+    "id": "a16817ec-fef4-4bb7-9dd0-510404eae402",
+    "impression_id": "65df8427-1174-43fc-a0ac-2dfc363ec511",
+    "revenue": 2.82
+  },
+  {
+    "id": "da13a2a9-2dc0-47c4-85c9-2c19ea2b6bd0",
+    "impression_id": "d608021e-926c-49d3-bfcd-3706eca75b7b",
+    "revenue": 2.74
+  },
+  {
+    "id": "9077c501-20ae-46a2-babd-750944561e23",
+    "impression_id": "c2bcd846-2168-4308-bbba-ae5e1c2bd062",
+    "revenue": 0.57
+  },
+  {
+    "id": "c95c15d5-ee26-41eb-83d0-0388cd37e496",
+    "impression_id": "6237376e-d2e3-4968-bb94-96c9e61fa28e",
+    "revenue": 2.7
+  },
+  {
+    "id": "d7835c2b-e0ab-4721-ae67-39b50e90d226",
+    "impression_id": "be1497ad-6088-43f8-b7f3-34cb005bc46c",
+    "revenue": 2.28
+  },
+  {
+    "id": "8fe1d7f5-c6a8-4f82-8900-6f6f59e0be17",
+    "impression_id": "466288ad-f1ad-42d4-974d-940286759f03",
+    "revenue": 3.01
+  },
+  {
+    "id": "64f57f20-00f9-4d23-ac45-aa0792ad6642",
+    "impression_id": "4a9276ca-8853-4bc6-871f-efb4abaa43b9",
+    "revenue": 1.29
+  },
+  {
+    "id": "138b7a22-50e1-4704-be0c-44a9527c7c74",
+    "impression_id": "2c3029f5-013a-49c8-9923-e444e40ed879",
+    "revenue": 1.78
+  },
+  {
+    "id": "b7859205-0ef1-488c-9a8d-f9220d5a5c69",
+    "impression_id": "8a1977db-a354-4010-9d71-bc9ae4f076d7",
+    "revenue": 2.26
+  },
+  {
+    "id": "58a03564-3b73-40c8-9b19-5fa0ad32ad20",
+    "impression_id": "3cf9084f-aabf-4aa0-8ebc-a0286d7a756a",
+    "revenue": 2.99
+  },
+  {
+    "id": "8f9dbf6a-7134-4b8c-8109-30f4a49ab800",
+    "impression_id": "9190669f-dff3-4ff5-9a03-0de306590a65",
+    "revenue": 1.36
+  },
+  {
+    "id": "03c74b6b-c8b5-4dce-9c1a-ba2f4cafa227",
+    "impression_id": "4d5ad226-ed1f-4ed0-8eb8-c5730072710e",
+    "revenue": 3.15
+  },
+  {
+    "id": "fced68e7-3d9a-47b7-94a0-dc95793b354e",
+    "impression_id": "e4093053-7d84-4c10-a9d3-6a5fb63f7b0e",
+    "revenue": 3.23
+  },
+  {
+    "id": "efe5fda4-7aa7-4caa-8377-b95ce7cfbe01",
+    "impression_id": "fb18a2da-782e-4b10-9d89-c3459895e777",
+    "revenue": 3.49
+  },
+  {
+    "id": "47032c70-3540-464c-9d2b-a56ace183d00",
+    "impression_id": "8185a6b0-d7b3-4dd9-9505-94f3c035bf18",
+    "revenue": 0.14
+  },
+  {
+    "id": "75ec8b79-0c5b-4ac0-bd69-a28d635928f8",
+    "impression_id": "89a6d245-166f-4ce9-a9bf-ae2bd80b0ca6",
+    "revenue": 0.12
+  },
+  {
+    "id": "a58b2b86-fcbf-45cf-bf1d-964c2c4f40e0",
+    "impression_id": "9361c952-3062-4086-960d-b589170ea61d",
+    "revenue": 1.51
+  },
+  {
+    "id": "8a27c5bf-10c8-4e09-83f5-909a252cb8de",
+    "impression_id": "4c05990a-9a25-4726-8b83-6e93fda3092f",
+    "revenue": 2.4
+  },
+  {
+    "id": "a2ab3a64-19ad-4425-bfbb-134b25b13bcd",
+    "impression_id": "2a0d5778-58bc-4a26-8812-a38a61e31395",
+    "revenue": 1.42
+  },
+  {
+    "id": "1900360f-26b0-4f9d-91f5-84cb7b09dfcb",
+    "impression_id": "af614ca2-fd44-490d-8e4a-43d515ac57f5",
+    "revenue": 2.35
+  },
+  {
+    "id": "be85e576-deee-45d3-bedc-c9d63350ffd3",
+    "impression_id": "80a987dd-da6c-47d6-afde-8f7863323f2c",
+    "revenue": 1.2
+  },
+  {
+    "id": "f310712f-9426-4ac1-b4c5-ce0335a741e1",
+    "impression_id": "f0c1d704-8a68-47b4-819f-c82ce7ed3d3a",
+    "revenue": 1.67
+  },
+  {
+    "id": "e7f78fa4-0443-4556-a6e4-620d250acade",
+    "impression_id": "a358e758-ae1e-4d52-9d39-251f1735c5ac",
+    "revenue": 2.43
+  },
+  {
+    "id": "6d45cdab-a111-4632-8a93-86044b059920",
+    "impression_id": "8cdb697e-caa1-4486-900d-1ae0434881fb",
+    "revenue": 0.28
+  },
+  {
+    "id": "0ec7ecc9-a59a-4a3c-b846-9860f6aeb889",
+    "impression_id": "8a23f887-6262-4229-80de-fcbacc73a4ce",
+    "revenue": 3.29
+  },
+  {
+    "id": "668b60a1-484f-42ae-9be3-f6967fd23598",
+    "impression_id": "494ca27e-542e-4e74-b1c2-c14fbd955f82",
+    "revenue": 1.61
+  },
+  {
+    "id": "82b23ae9-5379-40ca-8222-f0be9b7493c0",
+    "impression_id": "52db3d55-cd63-4212-930a-bce457dbafc5",
+    "revenue": 1.43
+  },
+  {
+    "id": "361f9fc1-33d5-48fe-8faf-dd3313e0a535",
+    "impression_id": "6653311e-7a58-47a6-b90a-2493afef62b7",
+    "revenue": 0.45
+  },
+  {
+    "id": "7bc87297-f6ca-4db0-b4b3-1e11057eb623",
+    "impression_id": "7bd50d29-4195-4def-bbe6-158ebc011031",
+    "revenue": 3.43
+  },
+  {
+    "id": "a963651a-f53e-4838-a817-c9272e80fcdd",
+    "impression_id": "8d9ee2c4-ef41-4cf7-a3c9-5653b8d907fa",
+    "revenue": 1.22
+  },
+  {
+    "id": "a4dac9f5-a55b-4478-b336-60315c2de7dc",
+    "impression_id": "afede458-b55f-4a6a-85d0-4186144ccbed",
+    "revenue": 2.85
+  },
+  {
+    "id": "6645ffe6-cf6a-4ce1-870f-1ac7b9d01245",
+    "impression_id": "0cff3f14-555c-4ac6-ab79-c85743623f4b",
+    "revenue": 2.45
+  },
+  {
+    "id": "2432e516-f068-4063-bf88-fd50529c7192",
+    "impression_id": "6297723a-71e7-4991-805d-51663d4e2d48",
+    "revenue": 1.9
+  },
+  {
+    "id": "bbf3c48e-3158-4c21-a910-24e4938c0a9c",
+    "impression_id": "e4e7181f-2219-4ede-8347-792007f9e0bb",
+    "revenue": 1.51
+  },
+  {
+    "id": "0f17c326-096a-4d36-838a-465985e9f6b4",
+    "impression_id": "6db7f78d-5b13-473b-a497-32872bd6aa1b",
+    "revenue": 2.96
+  },
+  {
+    "id": "13ab488a-8824-428c-aabf-e68480500ebe",
+    "impression_id": "f97eb599-a7a9-4dd5-aacd-eae22748c54b",
+    "revenue": 3.24
+  },
+  {
+    "id": "b25e58a8-faa4-4686-9775-abbfbbaf0cf5",
+    "impression_id": "a2e79768-044f-4d31-84b0-8ccb38c79750",
+    "revenue": 2.28
+  },
+  {
+    "id": "11a8ed0d-fdcf-4a7b-b5c0-edb59db0a74d",
+    "impression_id": "f03e996e-ec08-4d5f-bc67-7fa016bd178e",
+    "revenue": 3.25
+  },
+  {
+    "id": "cca12089-5b82-4364-ac7b-a01ac839f9cc",
+    "impression_id": "b39a0fb3-107d-494c-987f-caf4c3ef3454",
+    "revenue": 1.02
+  },
+  {
+    "id": "ec80a6b8-e375-4a4a-997e-2fadee52a609",
+    "impression_id": "f6b20ca8-c2a3-46ed-85d1-ee44f67f8bd0",
+    "revenue": 0.69
+  },
+  {
+    "id": "916eceb4-80a8-4fb4-b310-29049ab6278c",
+    "impression_id": "30fe88a5-ecbc-455b-a1fb-cc267024bb2b",
+    "revenue": 1.45
+  },
+  {
+    "id": "e506a469-db7c-4842-8725-ee80b5846fb7",
+    "impression_id": "e275e760-150a-4209-b93e-3965baf5f7b8",
+    "revenue": 1.32
+  },
+  {
+    "id": "dc1920b4-5d45-48a7-8249-f6c16311a22e",
+    "impression_id": "d6aaf8fd-7b92-43b3-954e-caa97aa0ee81",
+    "revenue": 2.94
+  },
+  {
+    "id": "ae38a051-953f-4024-b643-b0580151da2b",
+    "impression_id": "406f0bd4-d9cf-423a-a8fd-4da2636ef7cb",
+    "revenue": 1.46
+  },
+  {
+    "id": "ff1c774d-79e0-42a1-bdff-81ca35ed4d45",
+    "impression_id": "6cab3c2f-47fb-459d-b74d-95938e39a677",
+    "revenue": 2.87
+  },
+  {
+    "id": "d9c0b308-ce84-471e-9ae3-8598800858da",
+    "impression_id": "cd23294d-e2d1-48ea-af70-fd5e0171680e",
+    "revenue": 0.85
+  },
+  {
+    "id": "862391c3-6a95-4f3e-8627-2fbb1640c0ec",
+    "impression_id": "454b44b1-f873-4ea6-bb37-5f558b33d16e",
+    "revenue": 2.81
+  },
+  {
+    "id": "d2d69da1-df16-4d3e-bbe4-40e68977599e",
+    "impression_id": "e5613df3-49bd-461b-94e7-95332cf64a30",
+    "revenue": 0.62
+  },
+  {
+    "id": "79a7b2ba-48ff-4eae-89b3-f20ed5887bfb",
+    "impression_id": "5c190d50-601f-4017-bbc4-ee69367a3246",
+    "revenue": 2.81
+  },
+  {
+    "id": "1973812d-2044-4625-84ac-cf84ea083c95",
+    "impression_id": "3aad617b-9c43-4717-bd45-74ea27b9fd00",
+    "revenue": 2.2
+  },
+  {
+    "id": "0b68fed8-b9be-497e-9f91-6a83d058bd0c",
+    "impression_id": "7bf959ba-54aa-404d-ae82-309b71f5b66d",
+    "revenue": 0.34
+  },
+  {
+    "id": "c2f049f6-0580-4ee1-b764-8ccdc2537d6c",
+    "impression_id": "e43b6e44-d686-46b9-8629-0f75b6b8d3ea",
+    "revenue": 2.48
+  },
+  {
+    "id": "39361d3b-560b-4f9d-9dcd-0092980763fa",
+    "impression_id": "049120e1-92cc-4b5f-8df5-4f0dd21f5b76",
+    "revenue": 0.47
+  },
+  {
+    "id": "2626d281-760c-4495-90f2-7852a7fe1a17",
+    "impression_id": "c9e0bb4d-c927-4061-baa1-011cc5c53017",
+    "revenue": 3.14
+  },
+  {
+    "id": "9a03b4c6-f5a6-4da5-b384-40b06f30f8d3",
+    "impression_id": "c553d037-1f26-4d37-a8ce-fb6e6ac1b347",
+    "revenue": 2.75
+  },
+  {
+    "id": "1cdaa195-6a2f-4f5f-814c-92af00cdc548",
+    "impression_id": "38fc9401-956a-40da-928c-280963534390",
+    "revenue": 2.2
+  },
+  {
+    "id": "7e666e69-8805-40b9-b60a-cfe5bf8be083",
+    "impression_id": "7b3ef7d7-fff6-45c4-a2c3-c1af766e3fb2",
+    "revenue": 2.09
+  },
+  {
+    "id": "3da59e6b-735d-4073-a818-10358fd19a48",
+    "impression_id": "8fb6f037-557a-4e19-b0cd-6c4e51763942",
+    "revenue": 1.73
+  },
+  {
+    "id": "65793f7d-63a0-44f5-8c63-b7c37bafc5c2",
+    "impression_id": "625313a1-a7cb-41e0-8333-3111c182840f",
+    "revenue": 0.09
+  },
+  {
+    "id": "a3ab5278-993d-4e37-b517-8ccf2e52fc1f",
+    "impression_id": "2dcf2690-909e-4b6b-8bd4-f1e4378a6707",
+    "revenue": 1.32
+  },
+  {
+    "id": "76f5c4a9-859e-4a5d-8e33-e9c385d1ee2f",
+    "impression_id": "78cc21e2-97c9-4043-85e2-930d7ece7e0f",
+    "revenue": 0.05
+  },
+  {
+    "id": "e93cbf7f-4082-4bc0-ad8f-12c0d9aaa9a8",
+    "impression_id": "8dea7953-8984-48d1-8e25-d694a68619b8",
+    "revenue": 3.42
+  },
+  {
+    "id": "cb1a0ad7-8d10-4d9a-95a9-b6bc9683de39",
+    "impression_id": "dc348d8b-c5a0-4db4-b163-f09ebcfa7b4d",
+    "revenue": 0.56
+  },
+  {
+    "id": "97e4034e-b03d-48b7-8c8f-41895ff901c5",
+    "impression_id": "8ab6f311-9cfa-4d3c-b07a-645e3bf0d4d5",
+    "revenue": 0.09
+  },
+  {
+    "id": "d39e1036-49cd-44a2-82e0-e51d7770888d",
+    "impression_id": "7f4d7b35-c49c-4bc6-9b6e-69f12b21529b",
+    "revenue": 0.77
+  },
+  {
+    "id": "fbd1207f-3e2a-4a18-91ee-84a542689ba6",
+    "impression_id": "bfc7dd16-c52a-49ee-8664-e2237fa8d1ec",
+    "revenue": 0.94
+  },
+  {
+    "id": "67eb7d32-2673-4ec2-9c62-99f2b026d437",
+    "impression_id": "84384c5e-12c8-4ac8-b578-1d7a89d26fd5",
+    "revenue": 1.04
+  },
+  {
+    "id": "799452cf-c994-4785-9ef4-20c5359ca036",
+    "impression_id": "169e596e-4b30-416b-aa24-5127354a574f",
+    "revenue": 0.68
+  },
+  {
+    "id": "a56b1021-b901-4b8f-b125-9d74e3d5fd1a",
+    "impression_id": "3138adef-8f18-460b-aa8a-672ec6e5a2d1",
+    "revenue": 1.38
+  },
+  {
+    "id": "21ca6cf0-71bd-4d82-b693-65988c5049eb",
+    "impression_id": "bd83b667-bff0-49f0-8933-392e98f341bc",
+    "revenue": 3.34
+  },
+  {
+    "id": "53092c32-eb69-447b-bd2d-cf955b38f6fb",
+    "impression_id": "11e5f021-6ac8-48b2-9968-d80864d59177",
+    "revenue": 2.86
+  },
+  {
+    "id": "2d31d8fd-81cc-4ab6-b0be-e16864382767",
+    "impression_id": "c2acc86f-5dfd-4ff9-88c2-7e68cc796ab6",
+    "revenue": 1.32
+  },
+  {
+    "id": "76c4524c-bb86-48f6-ab63-a1e3564321fc",
+    "impression_id": "7349d0bd-2fa9-46a3-8983-163d18d55ceb",
+    "revenue": 1.79
+  },
+  {
+    "id": "d63668fd-44b2-4fdf-94c4-bd9c18c73395",
+    "impression_id": "199620b8-f23d-4a71-9691-bd009dff75c0",
+    "revenue": 3.38
+  },
+  {
+    "id": "c4b3a46a-003d-467a-b351-25e6ecc1777e",
+    "impression_id": "da667d0e-8315-4de9-920b-96fefcbb33f6",
+    "revenue": 2.77
+  },
+  {
+    "id": "b7d50be7-7481-4286-a44e-a914b296d5a4",
+    "impression_id": "8409912a-db88-480c-a7e2-d6e81d75989a",
+    "revenue": 2.73
+  },
+  {
+    "id": "16856e07-195c-4708-8021-2b7a47c9ad3e",
+    "impression_id": "c1c4f5b4-adac-4c96-995a-f04d8d5a0258",
+    "revenue": 1.63
+  },
+  {
+    "id": "bf5eccf9-aa5d-4153-88b3-c40c5437097f",
+    "impression_id": "9f4447fa-c033-47ed-9b39-9ac938ebbb06",
+    "revenue": 2.11
+  },
+  {
+    "id": "18d50e7e-c07f-4ab5-a83a-9a1ce4882a20",
+    "impression_id": "3bfdd1c7-c7f3-4be9-a4aa-e361e0f9677d",
+    "revenue": 3.09
+  },
+  {
+    "id": "5dcc1546-2600-43a6-b00c-68515af27534",
+    "impression_id": "3ca3b4bc-55a9-409e-919a-7b96d4a98254",
+    "revenue": 2.65
+  },
+  {
+    "id": "d7092d55-54fa-432c-b7d2-ea6dff90f450",
+    "impression_id": "95e07c18-cdef-465d-b6ce-92d1b32703bd",
+    "revenue": 1.75
+  },
+  {
+    "id": "df9894db-8d74-49ea-9286-de331c67d637",
+    "impression_id": "793137f6-80f5-4c40-b3d1-ae7a3a2e2c07",
+    "revenue": 1.15
+  },
+  {
+    "id": "2e18d8eb-4f89-4041-ac15-0be447924d9a",
+    "impression_id": "257a6b5d-1373-4e9d-9dc7-c950a77e8254",
+    "revenue": 3.0
+  },
+  {
+    "id": "c7e6b9db-7de8-4088-907c-56155f385686",
+    "impression_id": "954a2726-da64-4122-8e7f-30c23b0dec8a",
+    "revenue": 1.42
+  },
+  {
+    "id": "69fa1727-dbd4-422a-ba02-2da15c329e70",
+    "impression_id": "cc722ee6-32e1-4059-8035-af233779dfcd",
+    "revenue": 0.25
+  },
+  {
+    "id": "f087638e-f23f-42fd-820e-b07c08f80b27",
+    "impression_id": "41b2e248-9679-4093-923d-6dbb51aba93b",
+    "revenue": 2.64
+  },
+  {
+    "id": "e42fa2b8-a4c9-4510-9232-57731bac1b8e",
+    "impression_id": "3412f6a8-6a05-4034-9762-3cdc1fd023b4",
+    "revenue": 1.38
+  },
+  {
+    "id": "e992cb70-f421-47c7-ab11-b2bec8681908",
+    "impression_id": "29733cf3-e425-46a9-9767-6bdcdfb620ca",
+    "revenue": 0.43
+  },
+  {
+    "id": "74ddf584-d610-43e4-9751-84fe66df593f",
+    "impression_id": "f5ff2787-31b4-409e-bbb5-4db4e1996fea",
+    "revenue": 0.05
+  },
+  {
+    "id": "6bded595-7a60-4c11-86c4-8348d5ed4766",
+    "impression_id": "1e2f1429-71cd-48f7-bd33-4b8e39c82575",
+    "revenue": 0.6
+  },
+  {
+    "id": "b226aebe-6452-42dc-9140-8c6b379fd5e3",
+    "impression_id": "e8613fe3-5438-4c4c-8892-910009b004d4",
+    "revenue": 3.46
+  },
+  {
+    "id": "2695decd-cfa9-4116-9f05-25f15b67b271",
+    "impression_id": "5ac986db-91bb-4e9d-a198-e551d921b2c0",
+    "revenue": 0.4
+  },
+  {
+    "id": "a76799d3-e963-422d-8317-20a1ed4c79d1",
+    "impression_id": "878856ff-2a6e-415a-bd64-47a610784036",
+    "revenue": 2.85
+  },
+  {
+    "id": "a05ea2a6-eb39-428b-9af9-930c34794f71",
+    "impression_id": "dbae1a90-c28e-46e5-9ddd-e4449bfa98f4",
+    "revenue": 0.45
+  },
+  {
+    "id": "bdb91c5a-d172-44e1-a576-018bc82037ff",
+    "impression_id": "d7e3f9b5-f162-4b6c-aaec-d0d5accbe264",
+    "revenue": 1.45
+  },
+  {
+    "id": "53f15808-15dd-48b7-b51e-18e6a13fbd3d",
+    "impression_id": "92147b95-e6ce-48cc-af6a-ee4a4ebaf512",
+    "revenue": 2.32
+  },
+  {
+    "id": "b8d6ce25-dc64-4a10-bc2b-b50d1ced64e7",
+    "impression_id": "4c7e5b6b-ffbe-4453-9f69-0e257be1ce18",
+    "revenue": 0.93
+  },
+  {
+    "id": "7a72d79d-f034-437a-a20e-a870eab9e309",
+    "impression_id": "727f4a0b-0585-4160-bc87-fe0403a64256",
+    "revenue": 2.31
+  },
+  {
+    "id": "e1c5292a-7a44-4047-8566-431405f320f7",
+    "impression_id": "e391b553-c354-4364-94b0-8536ece3c633",
+    "revenue": 0.22
+  },
+  {
+    "id": "b169d9ec-3ffc-47f9-bc9b-aa562ea81665",
+    "impression_id": "99efa1fb-3bb7-4b76-96bf-f55922718490",
+    "revenue": 0.37
+  },
+  {
+    "id": "c7e167a8-c093-4d92-8433-e58594cb94a1",
+    "impression_id": "db8ea606-48d0-4f8f-baef-540a7095aca0",
+    "revenue": 2.66
+  },
+  {
+    "id": "3e6cfaec-bfaf-4596-8a8f-7ebac431cf14",
+    "impression_id": "7c608319-fcbb-499b-bb1f-735ff9427d96",
+    "revenue": 3.2
+  },
+  {
+    "id": "94e475ef-7a7f-46e3-961e-7cbf69d36b95",
+    "impression_id": "fb42a34d-903e-4ca1-b8a1-2958133667ef",
+    "revenue": 1.8
+  },
+  {
+    "id": "bb1015c7-3bc5-4ca5-9e20-11c30ca7b496",
+    "impression_id": "69d3683e-ec4a-43a2-b468-f226750b7236",
+    "revenue": 1.08
+  },
+  {
+    "id": "dca41613-e286-41c6-bae7-83502eb5b043",
+    "impression_id": "0f97cf2d-d67f-45d7-a246-550dd679c959",
+    "revenue": 2.61
+  },
+  {
+    "id": "6d55f9f8-5ba1-48fe-9368-865fdc01de2e",
+    "impression_id": "3c6fea52-d79d-4608-97e4-64b1ca9f4556",
+    "revenue": 2.32
+  },
+  {
+    "id": "dba4ea46-0a07-4f0f-9d6f-b2ecfdc449c9",
+    "impression_id": "35edea3c-36a4-4575-8911-9b899e57b3f7",
+    "revenue": 1.52
+  },
+  {
+    "id": "c9218cc7-7c38-4975-87f2-68ebcfee45d9",
+    "impression_id": "c16fdc96-3250-4bbb-9038-ec8bdae7bdb9",
+    "revenue": 0.96
+  },
+  {
+    "id": "7de31e1d-d944-4928-b2dd-45c74eaffe0e",
+    "impression_id": "31cc76aa-fcec-42cd-b400-1e9b16b050a3",
+    "revenue": 1.04
+  },
+  {
+    "id": "c58fccdc-8cb3-4f03-8790-9acd34685bb6",
+    "impression_id": "1a571a02-b79f-4875-b2cd-63ede0cd1eec",
+    "revenue": 1.52
+  },
+  {
+    "id": "78e0a52e-e91f-4078-a295-47dd6a1c1370",
+    "impression_id": "335a8425-c582-4146-bcd2-6898f2b6b978",
+    "revenue": 0.2
+  },
+  {
+    "id": "a173c500-6a8a-4423-afbd-91f2526bb482",
+    "impression_id": "71541536-c76d-4d5b-bd88-a52270841273",
+    "revenue": 0.8
+  },
+  {
+    "id": "0f149dab-3b8f-40eb-b257-732483f68626",
+    "impression_id": "e9ed5f98-4f95-4397-924c-4bf262455c99",
+    "revenue": 2.57
+  },
+  {
+    "id": "e211f99e-9d5a-48f0-81eb-6c925c5bc611",
+    "impression_id": "54287cc0-5f45-460b-bc6b-5a2734d6713b",
+    "revenue": 1.22
+  },
+  {
+    "id": "84ba67e3-8da6-4051-b24d-0d29f25972ca",
+    "impression_id": "07df3eb9-cdd9-49be-9b2a-d060e3e0da53",
+    "revenue": 1.77
+  },
+  {
+    "id": "cdae0278-469a-46e1-8015-bad80b0101d7",
+    "impression_id": "69181252-c6fc-42d3-9291-23502204e3e5",
+    "revenue": 0.84
+  },
+  {
+    "id": "66d16873-ffd7-41d5-93e6-6dd4002e8c46",
+    "impression_id": "29581c75-be86-4047-80d5-161f7381235b",
+    "revenue": 0.5
+  },
+  {
+    "id": "fe8b2dc6-380d-429e-a9c3-5a42870a0e37",
+    "impression_id": "6d94e46e-07b1-4509-b8c8-32ea38cfa2dc",
+    "revenue": 0.93
+  },
+  {
+    "id": "8bd2c566-3552-46bc-b35d-6f180c805ff5",
+    "impression_id": "1c85e57e-d548-48ed-97fa-24d28892a22c",
+    "revenue": 3.39
+  },
+  {
+    "id": "2fc2d172-7bfb-4cd7-99ff-732432971224",
+    "impression_id": "02401f0e-e6c7-44fe-9e45-6a6ed6aa39a6",
+    "revenue": 2.87
+  },
+  {
+    "id": "757ad5b7-9568-49a9-84a9-885e3040301a",
+    "impression_id": "aab22dec-0f71-4cb8-a165-ba18da1d01b0",
+    "revenue": 0.59
+  },
+  {
+    "id": "f36c3831-1d4b-41bc-a313-45e71914d49c",
+    "impression_id": "f7da2769-1bb5-4cbf-8930-c150fb2e521d",
+    "revenue": 1.59
+  },
+  {
+    "id": "4c152940-f9cc-4d29-b905-f771d6919617",
+    "impression_id": "a5314b67-cc10-41bc-8d2e-2af39e16146f",
+    "revenue": 1.28
+  },
+  {
+    "id": "dc16e986-2cbc-476b-b521-0d6c3ea71ee9",
+    "impression_id": "56ad8675-0d5c-4f8b-9fb8-78bcf7685729",
+    "revenue": 2.71
+  },
+  {
+    "id": "e4b4e45d-41eb-4f15-92c0-7ac0fa4402a3",
+    "impression_id": "805d4556-41b0-420a-b081-6ad3315c8962",
+    "revenue": 2.4
+  },
+  {
+    "id": "6b425e6c-c50c-4441-bb73-58d602c00994",
+    "impression_id": "875daf84-0acb-497d-b032-9bcbb5cc7700",
+    "revenue": 2.31
+  },
+  {
+    "id": "b1a00df5-c1ea-48c6-88ec-f1fc9ce829fe",
+    "impression_id": "53263b36-da17-4d14-a24d-50b57ebeafc8",
+    "revenue": 3.41
+  },
+  {
+    "id": "4e9709fc-8c40-433a-891f-5c9866f4015c",
+    "impression_id": "a41a3406-cdcc-47ec-abe0-a01cdcc96aba",
+    "revenue": 2.24
+  },
+  {
+    "id": "dcb0ce66-5d8a-4f5d-851b-bea40e225c2e",
+    "impression_id": "dd3d2961-13cc-4b1a-91c1-17aa2c8213ff",
+    "revenue": 1.58
+  },
+  {
+    "id": "ba8d94bf-fd03-43e1-9107-4cfd3addec32",
+    "impression_id": "71551b88-036c-46b7-84fe-802a43d3fa75",
+    "revenue": 3.11
+  },
+  {
+    "id": "d680788d-08db-4be3-9dfb-6add89e40d2c",
+    "impression_id": "f7094e43-d049-4bdc-ac63-50c6e26c2d56",
+    "revenue": 0.15
+  },
+  {
+    "id": "d65706f7-b20c-4779-b07c-dda48b2ba04a",
+    "impression_id": "2544c720-9d6f-46a1-acd1-6589db1d416f",
+    "revenue": 1.6
+  },
+  {
+    "id": "ec9ac8b4-6855-4657-bcbb-23f9103b8bc4",
+    "impression_id": "1337c971-b6c4-4e9d-9a93-83e0860fb513",
+    "revenue": 1.75
+  },
+  {
+    "id": "41e0ac71-b359-47a0-a8b4-0eb39623fcab",
+    "impression_id": "2b68453b-0d5c-4ed5-b552-ea92b010c41a",
+    "revenue": 2.19
+  },
+  {
+    "id": "7584e970-3a22-4920-b312-48c0f13ac8bb",
+    "impression_id": "a8bee510-97c4-4174-a765-af3412f54cf7",
+    "revenue": 0.06
+  },
+  {
+    "id": "2b27b79e-af3e-44a8-8987-fc63b1c8322e",
+    "impression_id": "83947ded-2d10-4694-b65e-8eb7ba5a7254",
+    "revenue": null
+  },
+  {
+    "id": "c150e476-916a-4c2c-9d86-54f2dad7847a",
+    "impression_id": "5eadb135-a06b-4551-bdf6-1f4874e7806d",
+    "revenue": 1.23
+  },
+  {
+    "id": "1eb36b9f-a15d-44c3-b3e8-b0c3a6ea8eab",
+    "impression_id": "bb0ad9f8-7531-480a-b103-d65bd0e97573",
+    "revenue": 0.55
+  },
+  {
+    "id": "7ebdcc8b-d0a1-412a-b6d8-57bc0d3fe695",
+    "impression_id": "c8654392-d3f8-4d5b-a5dc-347ab2202f80",
+    "revenue": 2.05
+  },
+  {
+    "id": "a68d4f28-b7a9-4bf8-b7f4-d32e27762081",
+    "impression_id": "879f0b75-43ee-40dd-b86a-ca49360bda5d",
+    "revenue": 2.84
+  },
+  {
+    "id": "b6ed0930-6207-43f8-a769-c3b9143a605b",
+    "impression_id": "6dfbad39-95bf-4954-9554-3e0180ef6f2d",
+    "revenue": 0.92
+  },
+  {
+    "id": "40ae8b4c-b5d6-4367-a544-65388f35c715",
+    "impression_id": "2c5238f7-9731-4ee6-ba76-1df9754c7128",
+    "revenue": 1.14
+  },
+  {
+    "id": "98e2e917-a851-4a57-b5d7-561eb927b970",
+    "impression_id": "d2a9f131-e432-462a-8721-7ba2792533a1",
+    "revenue": 1.94
+  },
+  {
+    "id": "c9db7bf1-4170-4b4b-9817-f1331cfc697c",
+    "impression_id": "a066c9fb-af04-4727-906b-af8e29ee798e",
+    "revenue": 1.91
+  },
+  {
+    "id": "ddb3d8a3-8806-4d56-939c-f32b8c633195",
+    "impression_id": "60a47fce-1e2d-4a7c-92d6-741ce23a9932",
+    "revenue": 1.55
+  },
+  {
+    "id": "4dff980b-fc50-4b38-8dbc-900954c5448e",
+    "impression_id": "0fac14ac-25bf-4294-a64d-18bfac24ef24",
+    "revenue": 1.5
+  },
+  {
+    "id": "68ff0056-5dad-4245-b47d-9b819b5ffcd3",
+    "impression_id": "c4bcf450-5935-4d49-88d1-cfd697b37195",
+    "revenue": 3.35
+  },
+  {
+    "id": "8ed92950-8fde-4ba6-b750-437b96aa6a3c",
+    "impression_id": "ea714a40-f1a4-4593-a6f3-6ce1d240278c",
+    "revenue": 0.86
+  },
+  {
+    "id": "f6c8f9f3-a852-4889-b8d5-0e07abaf983f",
+    "impression_id": "3c9e7bf5-3476-4e93-b7a5-097c8a6723fa",
+    "revenue": 1.03
+  },
+  {
+    "id": "5a04c6b9-3cb0-4742-a7fe-42dc675f9300",
+    "impression_id": "b5a52602-de47-4f45-9f99-86263342d6bf",
+    "revenue": 2.83
+  },
+  {
+    "id": "0ad63506-9875-4558-b304-75c098ffb932",
+    "impression_id": "dee97b28-ad31-478b-9f12-a5846edd7d2e",
+    "revenue": 2.91
+  },
+  {
+    "id": "1c507feb-b511-45aa-a4fd-e00700a0fe18",
+    "impression_id": "4580bd02-8a06-4c68-80f1-7e8e6482a415",
+    "revenue": 1.69
+  },
+  {
+    "id": "80ffac1f-dadc-4c02-b74c-50a2b522c732",
+    "impression_id": "8564a088-2565-41db-81d3-5b7ee3a749a7",
+    "revenue": 2.59
+  },
+  {
+    "id": "ffb3af46-c97d-4f49-8806-4bb3bdbf586c",
+    "impression_id": "2a6eee34-be48-482a-ba3e-a31f29865982",
+    "revenue": 1.74
+  },
+  {
+    "id": "5f7f4d83-b710-4baf-a64e-eeb35ae1d5f3",
+    "impression_id": "569cfe98-6047-4a9e-9daf-c727414cac0e",
+    "revenue": 1.1
+  },
+  {
+    "id": "60ff1817-276c-46c2-8bdd-260612322c08",
+    "impression_id": "00e5d7d0-03ab-4943-8d5c-bb360e4bd897",
+    "revenue": -1.98
+  },
+  {
+    "id": "0adcc501-964d-4034-82f3-41f94342fc10",
+    "impression_id": "089bcfc9-bb15-46ce-9cbe-33f8de34929a",
+    "revenue": 1.66
+  },
+  {
+    "id": "9c532e12-2a76-4877-a083-4eafd3820f3a",
+    "impression_id": "c077cd03-64a8-4b7f-8332-e165e01fc5df",
+    "revenue": 1.42
+  },
+  {
+    "id": "0a775b9a-4d0f-442f-b90a-8a288b4a3b18",
+    "impression_id": "8e259902-b567-43c8-a4bf-641d33badbec",
+    "revenue": 2.88
+  },
+  {
+    "id": "02defa32-d1fa-49ba-9ce9-95b609cf2332",
+    "impression_id": "32559e7e-80c4-4aae-a8ed-8f7c06c546d2",
+    "revenue": 2.23
+  },
+  {
+    "id": "db2be1c3-e09c-4003-9d3b-ffcab669ec23",
+    "impression_id": "d0c2e721-b517-493a-9628-cadfec0f9e82",
+    "revenue": 2.6
+  },
+  {
+    "id": "20e7244a-4aff-4354-9d4d-4363332280b1",
+    "impression_id": "74abed9c-ae37-47e4-87bd-a2bcebeeccb3",
+    "revenue": 3.36
+  },
+  {
+    "id": "55dc4c93-7a85-4032-84b2-78b1f20d2555",
+    "impression_id": "2836c451-364e-43c6-8dc3-a8551fe60cf3",
+    "revenue": 0.38
+  },
+  {
+    "id": "e3ca56c9-c288-43ae-b575-f76cc596b4f1",
+    "impression_id": "ad6ce360-b285-4ce4-9b38-8cb99609301e",
+    "revenue": 1.98
+  },
+  {
+    "id": "91258226-c5dd-4fe3-9eba-6448fdcd2a0a",
+    "impression_id": "36f455d6-9785-46d0-abb5-18c5caf15bcd",
+    "revenue": 2.17
+  },
+  {
+    "id": "b4c337c1-c60c-493b-bf40-ef0ff16b5361",
+    "impression_id": "8a148793-d9dc-4919-b1da-15f453aa0012",
+    "revenue": 2.53
+  },
+  {
+    "id": "faeedb38-0db4-49e8-837b-c7c45ff26234",
+    "impression_id": "11721987-31d2-44d7-a477-f675e7d8dcf2",
+    "revenue": 1.77
+  },
+  {
+    "id": "4ebda784-b032-4f3f-9712-d1757c3f5eb2",
+    "impression_id": "b13ad655-5c46-4eaa-989e-0f1426997f9e",
+    "revenue": 2.3
+  },
+  {
+    "id": "ff86b9c6-1dc6-49d2-a4d2-faa3d5212592",
+    "impression_id": "e9ec3bc4-08dd-45ec-8012-4325a4f91985",
+    "revenue": 2.76
+  },
+  {
+    "id": "7824af07-948a-4b7b-af61-c2efb29ca5e9",
+    "impression_id": "130dbca1-d081-4533-87ec-0dd01fed0fa3",
+    "revenue": 3.21
+  },
+  {
+    "id": "bddc02e1-7e60-4c5b-8e09-00c288882f2a",
+    "impression_id": "9156f3a2-a11d-4097-a99e-19fa62e912db",
+    "revenue": 2.02
+  },
+  {
+    "id": "d9a3e0fc-a29f-4883-aa41-883097b12890",
+    "impression_id": "fda59f02-00a5-4125-ba4c-5a4cf209a5bc",
+    "revenue": 1.14
+  },
+  {
+    "id": "7b98f5fb-f547-4380-8870-41ba43aaa432",
+    "impression_id": "ad5c6b30-fbe2-4d2d-a6bd-032813757441",
+    "revenue": 0.17
+  },
+  {
+    "id": "8fd7248b-4bdc-41fe-9153-406018c8e854",
+    "impression_id": "615b8848-0d85-4212-99de-241e2c6cf9ae",
+    "revenue": 3.27
+  },
+  {
+    "id": "2d9b302e-b1c1-41db-9d02-fb5e2ee0e156",
+    "impression_id": "192ec33d-03d1-46be-9490-b7ce7d492539",
+    "revenue": 2.57
+  },
+  {
+    "id": "03b38393-258c-418c-9a35-9f18b80074cb",
+    "impression_id": "599daf03-e930-4e05-9e0b-a458ef6a8a70",
+    "revenue": 2.65
+  },
+  {
+    "id": "57cc53dc-6ba4-4ee5-a21d-0fc6109c2010",
+    "impression_id": "d6d6166c-f445-4c93-86d5-389882203d9c",
+    "revenue": 2.97
+  },
+  {
+    "id": "bc9702e5-52bb-41e3-92a7-320a85094f01",
+    "impression_id": "1e745ab7-d71d-4a5c-b349-6a619c8ca21e",
+    "revenue": 3.23
+  },
+  {
+    "id": "156dfc60-055e-44ea-8f13-b117c1baaa1d",
+    "impression_id": "67450ad2-2b36-42c7-ae8c-c43d5942e7a4",
+    "revenue": 2.01
+  },
+  {
+    "id": "5beb38b7-eb31-4ca8-ab63-dffd84f07017",
+    "impression_id": "fd6f71bf-4f11-4b24-8d67-1c9104b9eb29",
+    "revenue": 0.71
+  },
+  {
+    "id": "45685f4b-43cb-4291-a8ac-14a3f8efb9f3",
+    "impression_id": "b60f1e74-0d70-454f-ad7f-8ca6e41f32cd",
+    "revenue": 2.04
+  },
+  {
+    "id": "1dd85700-8fae-454f-a919-9ad0cfe5af4d",
+    "impression_id": "faec1ccb-fed3-44b6-a742-aa769225e478",
+    "revenue": 3.13
+  },
+  {
+    "id": "fbb4c622-65ef-48b5-af46-64104427fe6a",
+    "impression_id": "33f006e4-ed46-47d1-ae05-21543d2d7f76",
+    "revenue": 0.66
+  },
+  {
+    "id": "8dbca336-39be-47d0-ba74-101a2f2882ab",
+    "impression_id": "8bc7813e-6a05-4ff1-acdc-b96ecb620502",
+    "revenue": 2.92
+  },
+  {
+    "id": "44ded4b5-c663-448b-a133-e6129933ea39",
+    "impression_id": "17eca414-f3f1-4270-b4c0-176956c8d249",
+    "revenue": 1.96
+  },
+  {
+    "id": "ad71034c-a9d2-4899-bd5d-364cfdcabb1c",
+    "impression_id": "ce80b5a8-0f47-4993-a24e-328bdc98a373",
+    "revenue": 0.26
+  },
+  {
+    "id": "5fdd0443-31e4-4dc3-bcc6-4c5810c01f92",
+    "impression_id": "8ab88585-fb39-4f0d-905d-b156d183455f",
+    "revenue": 0.81
+  },
+  {
+    "id": "810c8cd8-cd8f-4066-bc4b-485e1f2b31f8",
+    "impression_id": "2d4acaae-8d0c-41c1-aba7-b2394febda40",
+    "revenue": 3.23
+  },
+  {
+    "id": "18ea799d-7098-4fbd-99ab-d5f25f076f50",
+    "impression_id": "0829be23-37d7-4725-8d0c-3855d2f28192",
+    "revenue": 3.39
+  },
+  {
+    "id": "25b4bbfc-5025-4920-b5dc-3a5c6f001a55",
+    "impression_id": "8ebcaffb-832a-489a-9b57-4de95fb2b905",
+    "revenue": 1.76
+  },
+  {
+    "id": "9725e61a-2e32-4b25-91ff-ef0dda6546eb",
+    "impression_id": "73145d1b-bf46-47bf-bb7f-487e145e80fc",
+    "revenue": 1.65
+  },
+  {
+    "id": "77d48bae-c4aa-41c6-9af8-3014e2429197",
+    "impression_id": "5f632d23-f11c-4af6-83a3-81cb218bbd38",
+    "revenue": 0.92
+  },
+  {
+    "id": "76bdf55a-b1a7-4627-b023-9a9fec4dfacb",
+    "impression_id": "8e8f4453-93f9-4090-864f-e66785ad2eb6",
+    "revenue": 2.57
+  },
+  {
+    "id": "0dd9c7ac-d230-4683-aab8-18e995436d8b",
+    "impression_id": "9633aa28-6237-45f7-81f5-5e5f286f7c1b",
+    "revenue": 0.26
+  },
+  {
+    "id": "fb593185-39ac-4e34-a24a-3e08f0c11235",
+    "impression_id": "6e2b7482-03dd-4bd2-b2fb-a4f435124ec9",
+    "revenue": 0.13
+  },
+  {
+    "id": "7eafd949-b1ba-46e5-aa8e-353317650479",
+    "impression_id": "271ef256-0ba0-4ee3-afc1-7f7e41cb655b",
+    "revenue": 0.29
+  },
+  {
+    "id": "f4d4807a-a922-4aee-aa51-ad4dab9eb956",
+    "impression_id": "6487fe04-808c-4ee2-a958-fb6c820e9f57",
+    "revenue": 0.13
+  },
+  {
+    "id": "6272ba13-cc39-46d3-80a1-51832e4fa80b",
+    "impression_id": "3db106f7-6ad8-46ef-9bbf-0bdf3d7bc0b1",
+    "revenue": 2.98
+  },
+  {
+    "id": "a07a4332-803d-4754-a6ca-dcc7dfc28653",
+    "impression_id": "83fd01d6-a558-4262-be41-d984df938d33",
+    "revenue": 2.84
+  },
+  {
+    "id": "b7c73afd-e784-4574-9e83-362a8e1ddcce",
+    "impression_id": "8caf48cc-5e27-4cd5-abae-7d812676acc5",
+    "revenue": 1.94
+  },
+  {
+    "id": "35f5b2d0-9817-4a42-b577-5694ae1851e6",
+    "impression_id": "9656c604-38e9-4695-a994-83e1752c5d0b",
+    "revenue": 1.5
+  },
+  {
+    "id": "0e68c3e9-5a5b-4348-bc72-e414d85e355c",
+    "impression_id": "bcf102f8-33c4-4e1e-a000-20e94a42ea45",
+    "revenue": 1.29
+  },
+  {
+    "id": "d79d4e7b-5469-47fe-9c6a-347fde99301d",
+    "impression_id": "47cee8a4-48cf-4d6f-97ca-92ee3e3c9f02",
+    "revenue": 2.06
+  },
+  {
+    "id": "6666812b-c74f-4667-a0d1-c9b77a23cb2d",
+    "impression_id": "08a50ebd-9f57-4183-b7e7-3bef82ba6fce",
+    "revenue": 1.99
+  },
+  {
+    "id": "f7a6d8eb-7d36-444d-8fc4-793b765b2f3d",
+    "impression_id": "908654b6-51d2-4148-9a90-e0736fa33c03",
+    "revenue": 0.28
+  },
+  {
+    "id": "92caa83a-c56a-436f-b99c-fd3718acb40e",
+    "impression_id": "8b255485-96ff-4828-9ab1-ca0d1cfcc9e6",
+    "revenue": 2.3
+  },
+  {
+    "id": "07ccadbe-9bea-4dcf-8c2a-5ca6de53523b",
+    "impression_id": "b9f53131-5931-44d6-bcd5-146c3675b345",
+    "revenue": 0.44
+  },
+  {
+    "id": "7a0c2313-359b-4d6f-abec-2b8765aba601",
+    "impression_id": "ea835126-202f-42ca-b71f-f3a49713f44f",
+    "revenue": 2.58
+  },
+  {
+    "id": "2aa64dc2-36fb-409e-b375-ead9ba64daaf",
+    "impression_id": "4785bbb5-ff11-44c9-979a-440aa0196b58",
+    "revenue": 3.3
+  },
+  {
+    "id": "86059c8d-98c8-4990-8ef8-9b9f30444254",
+    "impression_id": "3983dea2-9127-4250-b591-ad9684444632",
+    "revenue": 0.94
+  },
+  {
+    "id": "38c9fa33-0fba-4699-8e9e-5d2d209a82b3",
+    "impression_id": "4166f477-ff84-449f-9a97-e341dbe8c821",
+    "revenue": 2.47
+  },
+  {
+    "id": "ea096365-3c3b-4274-aa29-8b45d3ca3f65",
+    "impression_id": "f72b9271-6602-4068-8e23-cc4a8790c7a1",
+    "revenue": 3.42
+  },
+  {
+    "id": "4254e347-3001-4acd-a4bf-a1f0c7323087",
+    "impression_id": "d4030dd6-27f3-420b-9c49-d8a187788d9d",
+    "revenue": 2.86
+  },
+  {
+    "id": "92d33e91-b6e9-4800-a77d-8920b6f740c5",
+    "impression_id": "a0d5b7a6-a50e-4b07-8434-081cd486494e",
+    "revenue": 1.59
+  },
+  {
+    "id": "b567a491-e773-4e1f-ad5d-b940adc1dabf",
+    "impression_id": "9ad7a12a-e214-4e8f-ad7e-49158a038e48",
+    "revenue": 1.35
+  },
+  {
+    "id": "9c4e627b-6901-476c-b5d9-d4925943d262",
+    "impression_id": "2e203f93-fc39-442c-9244-91b564c0d567",
+    "revenue": 1.74
+  },
+  {
+    "id": "f6541ae6-99d8-4b95-a390-96e13a40440a",
+    "impression_id": "01fb44e3-233f-4c89-a8eb-3d29d5af25d0",
+    "revenue": 0.65
+  },
+  {
+    "id": "91d9f359-eb02-4644-beca-4f30197eeedc",
+    "impression_id": "cefbbcc0-73df-45fe-ab7e-ff7bdd46bb7c",
+    "revenue": 1.22
+  },
+  {
+    "id": "6ebd77ae-886c-4658-b0a2-7b4b6afe8b4b",
+    "impression_id": "7e339492-17b7-40ba-ae64-510c26d58323",
+    "revenue": 3.18
+  },
+  {
+    "id": "906d31e9-7bb4-474e-b0bb-6ea946b74fb8",
+    "impression_id": "4e8da9aa-8fda-4f79-816d-f42efb17fd37",
+    "revenue": 2.9
+  },
+  {
+    "id": "0576fee1-44c4-4292-a398-8226d98d12a0",
+    "impression_id": "d91b5354-6773-4c9f-8c02-a3f106aec2e2",
+    "revenue": 0.21
+  },
+  {
+    "id": "04a131ee-b9bc-43ce-884d-5bfdb98c9043",
+    "impression_id": "560ec941-dcb4-4fb6-8baa-8c64730d27fd",
+    "revenue": 3.01
+  },
+  {
+    "id": "291495ce-5c5f-4fe3-9df6-ef3568cf1991",
+    "impression_id": "274c3c28-2259-4eeb-99d9-4a73c8c4cb1c",
+    "revenue": 1.82
+  },
+  {
+    "id": "7210363a-cc11-4d53-8e1c-eee7c4e3f127",
+    "impression_id": "f55663cf-8b27-4aca-92fd-6b3f977962d8",
+    "revenue": 0.47
+  },
+  {
+    "id": "9b58a202-b2cd-4c54-b5ee-20a08836e8b5",
+    "impression_id": "3fb1ed42-1c03-47d4-a802-cead575c336e",
+    "revenue": 0.88
+  },
+  {
+    "id": "fe7bab71-9104-4feb-8fb3-f04c815e2354",
+    "impression_id": "2933fb3c-12f8-485c-b951-20e5ca1c198e",
+    "revenue": 1.27
+  },
+  {
+    "id": "29bfbec7-d08d-4f6c-9b18-44413e4e71c6",
+    "impression_id": "a1915807-1f2f-4c71-990c-975ea2f90d01",
+    "revenue": 0.44
+  },
+  {
+    "id": "78a22222-bbd9-4e8e-8d89-eddce242c263",
+    "impression_id": "e7e2f45b-4f1a-4e89-bdd9-138cf774485c",
+    "revenue": 1.62
+  },
+  {
+    "id": "e2964f07-a103-4682-85cf-6eec2bd72c39",
+    "impression_id": "54482cfa-5a35-444d-b2ad-11d4c0d88c7d",
+    "revenue": 2.96
+  },
+  {
+    "id": "101b5630-a728-4710-a31d-ab69ce91cf1e",
+    "impression_id": "8c810baa-50a8-411c-8689-0ff098576165",
+    "revenue": 2.14
+  },
+  {
+    "id": "5ff4c9f3-2a98-4dd9-a70b-ef23023b5c4a",
+    "impression_id": "d9f2cd70-8ecb-49e7-9001-18dd12edc827",
+    "revenue": 0.97
+  },
+  {
+    "id": "8fc5068e-00d4-4adb-9004-e6c7cd7226af",
+    "impression_id": "86ab6465-98d2-424a-98d5-ef7d5cc61765",
+    "revenue": 2.17
+  },
+  {
+    "id": "33a6de74-38ca-4a73-b898-d564453f601a",
+    "impression_id": "21d32c5d-8607-42a5-b72c-3eeaebb96b83",
+    "revenue": 3.01
+  },
+  {
+    "id": "52cddfee-5d91-47cd-96e3-403dcb8c216a",
+    "impression_id": "e3f42bfa-e1ae-4d68-bbf0-f96c7f4c4493",
+    "revenue": 2.5
+  },
+  {
+    "id": "c5285a6f-d01f-42c0-998f-0fb4e4b9d1fe",
+    "impression_id": "e7eae681-7263-42e2-97fd-f6e939c57a25",
+    "revenue": 1.24
+  },
+  {
+    "id": "206b1cae-a9c8-4bb7-aec3-2619bea62036",
+    "impression_id": "8bf4d457-5e3f-4858-8294-31f926a78b7e",
+    "revenue": 1.56
+  },
+  {
+    "id": "3ceadb8f-f6a1-45ec-aa37-ddd356bc7737",
+    "impression_id": "5ffc216b-84eb-4c7d-a8ea-b76821efcbf4",
+    "revenue": 2.88
+  },
+  {
+    "id": "47cbde33-820e-4c84-b9b7-e1a7041d5e0c",
+    "impression_id": "7ab5d1d5-295b-432f-9650-aaac462e8696",
+    "revenue": 1.15
+  },
+  {
+    "id": "75418c5d-7fa8-4a83-b8bd-d926ec5146fa",
+    "impression_id": "e39882fa-0ece-4d30-a73e-60f99c1abc08",
+    "revenue": 1.65
+  },
+  {
+    "id": "55959a0d-3fc2-49eb-a67b-75bd4a6adb8f",
+    "impression_id": "c6cadab4-6e82-4c0b-ae14-cb120fc64a5d",
+    "revenue": 3.26
+  },
+  {
+    "id": "2bc9a600-47fa-4ff7-a258-a9f029b8e24a",
+    "impression_id": "72028d7f-8bfd-416b-93bd-12cc8e90ec39",
+    "revenue": 1.79
+  },
+  {
+    "id": "5c33be5c-168e-42d2-b984-5145c5006c00",
+    "impression_id": "9d95fe9f-09c8-49b8-8904-138cacab9f71",
+    "revenue": 0.76
+  },
+  {
+    "id": "26812fbf-7d7c-4457-974e-cfa0d3a2d836",
+    "impression_id": "f20f6a62-459e-4fbe-b4b6-76fee97791c1",
+    "revenue": 3.49
+  },
+  {
+    "id": "c6b44431-82f5-4628-8fbe-f852e237775d",
+    "impression_id": "592bc3ed-7bbb-4537-959a-a97fff09be8f",
+    "revenue": 1.77
+  },
+  {
+    "id": "c0bb1ea9-915f-4f93-abf5-5b7c14ed1f60",
+    "impression_id": "d53f8c0d-86c8-4dae-a93f-1c7ffdc15bf6",
+    "revenue": 2.97
+  },
+  {
+    "id": "c788e92f-0935-461e-9158-c1187dd7dda0",
+    "impression_id": "0db743e2-f578-49e8-a56b-1173765e0254",
+    "revenue": 1.55
+  },
+  {
+    "id": "4f5110f2-11f0-4988-bb92-9fef574727e9",
+    "impression_id": "f2a0e926-c464-4414-9f8f-2774addb692d",
+    "revenue": 0.86
+  },
+  {
+    "id": "21b50a62-2718-4620-aab0-c4f95c84ef6a",
+    "impression_id": "5d2de6c5-c160-4e21-a143-19f585e56c6b",
+    "revenue": 0.41
+  },
+  {
+    "id": "fd9b769b-b906-4f6f-968f-d6b65f131ef2",
+    "impression_id": "278ce187-d4fd-49eb-95a7-27bbcb2f1c02",
+    "revenue": 1.24
+  },
+  {
+    "id": "2eb4e409-8f3b-49b7-b023-7307a59b61dc",
+    "impression_id": "cf38683c-6937-4a22-a355-5765cf7775a5",
+    "revenue": 1.58
+  },
+  {
+    "id": "a50ab6dc-b0ec-4d26-a71a-4ad124378fb5",
+    "impression_id": "cf96c02d-8314-4e79-84da-9a0fe41bbbd5",
+    "revenue": 1.89
+  },
+  {
+    "id": "f3624dce-3b32-40da-9713-f2250e68d1fc",
+    "impression_id": "3faee92f-2743-4460-b87e-88babd696ad6",
+    "revenue": 0.92
+  },
+  {
+    "id": "55fbebb6-0af9-4dc2-88fd-ba2ceb9f2541",
+    "impression_id": "d00320b9-ef99-40f1-9490-4c6287297a3f",
+    "revenue": 3.44
+  },
+  {
+    "id": "00f9d61e-379a-42bc-ad25-df45290b03b2",
+    "impression_id": "83c0c630-0d1c-4e0a-ab93-30ddf1496550",
+    "revenue": 3.07
+  },
+  {
+    "id": "8ade085a-b524-4084-83a0-6c42fa4398dc",
+    "impression_id": "667470d1-c4b7-4be9-925e-4059557ba3a3",
+    "revenue": 3.26
+  },
+  {
+    "id": "dd4e1eb7-f639-4cd0-8b64-9de323c51689",
+    "impression_id": "6dfcedaf-595e-44dd-bcb3-7129be22d076",
+    "revenue": 2.42
+  },
+  {
+    "id": "bdb468d0-0100-4745-94c6-21f47291879a",
+    "impression_id": "a0ca14c8-4721-4946-a8ba-a617b1ef57f0",
+    "revenue": 3.17
+  },
+  {
+    "id": "a3f0692d-3865-4ada-a662-adf4813e87a8",
+    "impression_id": "20d6c1b7-1b55-414d-8951-70c42799859f",
+    "revenue": 0.43
+  },
+  {
+    "id": "d030eafb-8f9f-48e0-9315-805c1b6a23f3",
+    "impression_id": "f7b5aa1e-4884-4cb7-bbb1-f96460de09eb",
+    "revenue": 3.48
+  },
+  {
+    "id": "448b62dc-6caa-4beb-a5bf-5996f667b789",
+    "impression_id": "b27f5279-18c6-4d1d-b019-d5db30eb5fa8",
+    "revenue": 1.44
+  },
+  {
+    "id": "8391dfc6-55cb-42f1-bab3-3200122dd9ab",
+    "impression_id": "a7c9eafa-19c2-4ca4-a7ba-a1f390bdb18c",
+    "revenue": 0.48
+  },
+  {
+    "id": "fe8ff98f-203c-478a-b75b-e97c799e336e",
+    "impression_id": "cf87696d-3b81-4712-b90a-d7fbf62eaee0",
+    "revenue": 0.3
+  },
+  {
+    "id": "cfc28638-71b3-4362-9f0d-c0eadf01f63e",
+    "impression_id": "a2f5d1ed-84fb-40e4-88a1-54bcfe8fc863",
+    "revenue": 1.33
+  },
+  {
+    "id": "d119980e-1f22-45e9-8010-6fe8645ab470",
+    "impression_id": "aa4dd978-7513-4766-bf40-332f929da1d1",
+    "revenue": 0.35
+  },
+  {
+    "id": "3759c11b-35bb-49e8-9c07-315ead4ff06a",
+    "impression_id": "f5296374-afb4-4427-8b43-5be3f92dd29a",
+    "revenue": 2.03
+  },
+  {
+    "id": "799d1278-ab5e-40ed-a9b3-396055d731e8",
+    "impression_id": "15406745-93d0-489f-a547-f2feb3953af0",
+    "revenue": 0.63
+  },
+  {
+    "id": "bd90c514-d88a-48bc-895f-b8ff0f34bdb9",
+    "impression_id": "184480de-b9ce-403e-87cf-f8a477e32b82",
+    "revenue": 0.75
+  },
+  {
+    "id": "62db67ba-fe2d-43e2-8c32-a84017499eea",
+    "impression_id": "82d947fa-bd83-46a1-b4f2-6136aff3e833",
+    "revenue": 1.0
+  },
+  {
+    "id": "d9270783-e731-45ed-9ea2-958c891d18de",
+    "impression_id": "30afed84-096a-4d7d-a1b9-c91aa16bf1dd",
+    "revenue": 1.02
+  },
+  {
+    "id": "ae71938e-2348-41d7-80c8-3b6d8e8e75c3",
+    "impression_id": "d649f2b2-2186-437d-8aea-5e6cebcc46d8",
+    "revenue": 2.34
+  },
+  {
+    "id": "9a8b6592-cff5-4ef1-bba8-5d6d2451667f",
+    "impression_id": "00e31fcf-173c-4a5b-82f9-90b9837348fd",
+    "revenue": 0.11
+  },
+  {
+    "id": "801e8415-6646-49c2-b783-825183716ed5",
+    "impression_id": "66a20648-aa28-468b-9dac-402f12febc87",
+    "revenue": 0.03
+  },
+  {
+    "id": "15c0eb1d-7bd1-4210-89dd-8a43fe000c80",
+    "impression_id": "30b947d5-5a59-4cf4-8a7a-77d822f6e371",
+    "revenue": 2.0
+  },
+  {
+    "id": "45ac94ff-57ef-4332-a3be-23a454d4ff9d",
+    "impression_id": "d7af35be-4229-451b-971b-0d3bebf0fe67",
+    "revenue": 0.39
+  },
+  {
+    "id": "36e37a0d-17b6-4b1b-a187-51d5411cd559",
+    "impression_id": "ec1a4fdf-dcef-4113-bd0c-634d519cc858",
+    "revenue": 0.93
+  },
+  {
+    "id": "f40c4200-c09f-4200-b277-a61ee6b6c68a",
+    "impression_id": "faf61e94-b0bd-417d-a56d-062e6f0df8f3",
+    "revenue": 1.24
+  },
+  {
+    "id": "c0393abf-394f-4565-add0-9d22f4092154",
+    "impression_id": "b499c8a5-357a-4992-9823-f22e846dfda0",
+    "revenue": 1.78
+  },
+  {
+    "id": "85f86b2e-b3ed-460d-b08d-989b85389abe",
+    "impression_id": "8b4d3d48-f09e-468f-8885-6786435721a3",
+    "revenue": 2.48
+  },
+  {
+    "id": "1024a2ae-6d42-4a89-b5dd-36152f9e1c78",
+    "impression_id": "98b2105e-0e0a-4b37-adaf-1ca465cc6287",
+    "revenue": 2.78
+  },
+  {
+    "id": "365b1a1d-e21d-432d-bc2c-525a3ba527a2",
+    "impression_id": "65ebf9b3-50fc-466d-bfa3-05170b89e7e5",
+    "revenue": 0.13
+  },
+  {
+    "id": "c168ba9a-ee4f-4281-a6fa-425923ee1899",
+    "impression_id": "8b53a020-1e26-4490-9a63-38f676f18537",
+    "revenue": 3.3
+  },
+  {
+    "id": "3f2b36dc-555e-4bbd-9f32-d061ec15a64b",
+    "impression_id": "0cb329ad-f613-4e8e-8ae6-8e289b51bf35",
+    "revenue": 2.57
+  },
+  {
+    "id": "2ddf360f-637d-4d7d-bf31-bb4d185f88ef",
+    "impression_id": "8074147c-de4e-4b3d-b745-a5853532f4a4",
+    "revenue": 3.0
+  },
+  {
+    "id": "009d855a-2b4c-4dd6-9302-c2b09615cc65",
+    "impression_id": "069beba5-d763-45d7-b486-8ae318623f48",
+    "revenue": 0.74
+  },
+  {
+    "id": "825701f0-3227-4330-8254-552cf1bf1725",
+    "impression_id": "8582a3c9-9a76-4917-99d6-5bc9bd8bde14",
+    "revenue": 2.05
+  },
+  {
+    "id": "312eae9a-5e95-4752-8798-2d6acac28798",
+    "impression_id": "354d7821-373f-4821-8618-08c788397094",
+    "revenue": 1.06
+  },
+  {
+    "id": "9d03b90b-b5e4-462e-a67e-2be56c0f1f98",
+    "impression_id": "0d72a2fd-c030-4364-b21f-561b68ef73d9",
+    "revenue": 1.38
+  },
+  {
+    "id": "b914c9f0-e1c0-473c-a8f8-0c9393ebd4c1",
+    "impression_id": "bbcfa64d-55df-458c-8492-a8fb1355b466",
+    "revenue": 3.08
+  },
+  {
+    "id": "596ab8a2-1ec8-4ca6-9e2b-20f1aa53de35",
+    "impression_id": "58982d0d-919f-44a9-ad66-88b4e93138ea",
+    "revenue": 2.32
+  },
+  {
+    "id": "8ba91c46-9031-410c-a1a0-b713cc789b5a",
+    "impression_id": "540f0fe8-47d5-4e2b-aa6f-e2b88c92ff88",
+    "revenue": 2.44
+  },
+  {
+    "id": "cf3afda1-1acc-4c5f-8c62-b2b5f722b3fc",
+    "impression_id": "161da83f-d23b-40b0-84a1-075ac8e015fa",
+    "revenue": 1.72
+  },
+  {
+    "id": "8405a7cf-ba4d-4c7b-9810-30277dcaf7de",
+    "impression_id": "de8a9df7-1e20-4ecc-955b-1d5a59e782fe",
+    "revenue": 3.12
+  },
+  {
+    "id": "65d0e59e-7e25-40bd-b55e-9bd1509138b2",
+    "impression_id": "206f5174-bfad-4a18-ba40-d9fb9fd03c9a",
+    "revenue": 1.12
+  },
+  {
+    "id": "20ea9d97-1b74-410b-8fe5-c58c0b23f62b",
+    "impression_id": "dabf8cd3-b716-4798-8a3b-8a96f413e92f",
+    "revenue": 0.95
+  },
+  {
+    "id": "4af26f9b-175b-42d8-bbda-8442df363af6",
+    "impression_id": "1555ca8f-e315-4ca8-8654-c1a323cd0467",
+    "revenue": 1.44
+  },
+  {
+    "id": "716aa517-5cf4-4b76-9b16-4dedd9087410",
+    "impression_id": "26551360-2e65-4338-8fc0-c2d09384210b",
+    "revenue": 3.32
+  },
+  {
+    "id": "b5f7d3bc-6159-4618-99e8-ba47b27c11a8",
+    "impression_id": "491852ee-d382-4991-ad26-ffcee0235e96",
+    "revenue": 2.53
+  },
+  {
+    "id": "1f94d7a6-69a5-4160-8070-bc98e49b40a6",
+    "impression_id": "357adf16-e28f-4a4d-8394-40abec213090",
+    "revenue": 2.69
+  },
+  {
+    "id": "064bb1ea-e25e-4198-8469-268214b5853d",
+    "impression_id": "d7beeb08-e1b2-49ec-9519-e846f264e212",
+    "revenue": 0.7
+  },
+  {
+    "id": "b90e1ec8-2cf1-4930-b424-b7378ba85481",
+    "impression_id": "fe6afe1e-785f-483c-bcc6-0f9fcb18dec0",
+    "revenue": 2.81
+  },
+  {
+    "id": "3ce3cb12-f3ea-40a4-b85f-393e32ef6267",
+    "impression_id": "4e282066-ad7a-4839-b227-89f0c3d355d2",
+    "revenue": 3.29
+  },
+  {
+    "id": "ce00f37f-4ec7-4001-b067-ffe22ac81e96",
+    "impression_id": "20587e4b-4aab-4ac0-9edc-b1eb60a32d19",
+    "revenue": 1.4
+  },
+  {
+    "id": "8e08050b-a759-477f-8eb8-81d6d119ce1c",
+    "impression_id": "4dc3e24d-c4cc-4eec-b219-21e39725a108",
+    "revenue": 2.71
+  },
+  {
+    "id": "c0f804f6-d8a1-4305-8abe-7d423dbd6642",
+    "impression_id": "3d973483-ca1f-41f8-b667-0f506db0ffe9",
+    "revenue": 2.3
+  },
+  {
+    "id": "b940d07c-ff3e-4be8-904b-26020f3f0d05",
+    "impression_id": "f872bfd4-e262-49ec-9fca-a99373f2f362",
+    "revenue": 0.27
+  },
+  {
+    "id": "f48dbb50-ddbe-4b1d-beb3-44317de33d76",
+    "impression_id": "9081eb24-5363-48e3-b8da-df88e592f15b",
+    "revenue": 2.91
+  },
+  {
+    "id": "10c83c99-4844-4a76-ba50-45b352b881d5",
+    "impression_id": "093ebbfd-2b1e-41b1-bea4-b0efc4320079",
+    "revenue": 0.69
+  },
+  {
+    "id": "322d753f-ecea-427c-b9ce-42af656c33fe",
+    "impression_id": "848ceacc-a1c1-444e-a837-5917b67bbabf",
+    "revenue": 0.09
+  },
+  {
+    "id": "01a9c602-62e3-4894-8bc0-66466f81613c",
+    "impression_id": "138a3fae-19cc-4040-a941-f4c3666933af",
+    "revenue": 1.66
+  },
+  {
+    "id": "f081c353-7126-47a1-9f8b-b6fa467ea886",
+    "impression_id": "ec203d3b-af9e-42e0-a8c5-024046388485",
+    "revenue": 1.7
+  },
+  {
+    "id": "436226b8-d6c0-4b0c-b66f-b8e0b36163b4",
+    "impression_id": "04690db3-7407-44e1-b3f6-212adbba7bda",
+    "revenue": 1.74
+  },
+  {
+    "id": "d45664e2-e9e1-409f-b71b-98ab89c1f7ee",
+    "impression_id": "12cd6551-fc87-4e0a-b0b3-0c1fc10445ef",
+    "revenue": 0.79
+  },
+  {
+    "id": "3436515d-01a0-49ba-9541-3ba56508c799",
+    "impression_id": "e0bde9b8-19c4-4ff0-9b22-8cebf0329f81",
+    "revenue": 1.98
+  },
+  {
+    "id": "3b33c268-2491-4094-a88d-8e98fbfce410",
+    "impression_id": "d02d9fa6-bd1e-4571-87db-1c4d59eec48f",
+    "revenue": 0.34
+  },
+  {
+    "id": "8503082e-eee1-4f60-8e9e-2b3e8e1aedba",
+    "impression_id": "646d0474-9556-414d-ae3e-b91578a11782",
+    "revenue": 0.5
+  },
+  {
+    "id": "29d07d80-db37-4d88-84a7-4bc69dd2a851",
+    "impression_id": "a9143e7f-6ac6-477c-9edb-92db8dfc1711",
+    "revenue": 0.82
+  },
+  {
+    "id": "a3cf89f8-ad43-4fb3-82ef-e7dae8d648c4",
+    "impression_id": "12cedc1e-4f68-466a-ab01-445251bcedff",
+    "revenue": 0.54
+  },
+  {
+    "id": "fd6a6cdf-2b4b-4835-b76b-e6cbe7fc03c8",
+    "impression_id": "dacb0c1b-5cf4-4b54-a99e-c9fa81e44b22",
+    "revenue": 2.42
+  },
+  {
+    "id": "39fb14d1-cb5c-40bd-a862-68e78a43a69b",
+    "impression_id": "2d7bc926-67e2-4c0e-b276-3021c2105cf7",
+    "revenue": 2.29
+  },
+  {
+    "id": "5484e90a-ec20-4074-b6f7-8747e03507b6",
+    "impression_id": "7175ddea-5281-4922-8f6a-924dd19638eb",
+    "revenue": 3.47
+  },
+  {
+    "id": "3a03baeb-6572-4de8-bd78-788e23a7b350",
+    "impression_id": "a51a6b3e-b90a-40d7-aec7-8e47528e5d91",
+    "revenue": 2.65
+  },
+  {
+    "id": "63fa4b23-1869-478a-a1fb-c86491882ea5",
+    "impression_id": "f5d2c1e8-5ecf-4e4e-960d-d0095d80bc9a",
+    "revenue": 3.4
+  },
+  {
+    "id": "4a02ca14-20b7-4533-801c-fd6a27f197f7",
+    "impression_id": "3fb064b3-80ea-449c-b9b3-d7f6c0688e2e",
+    "revenue": 1.71
+  },
+  {
+    "id": "8f61b28d-0039-4a3f-b4d4-9e47473c7f69",
+    "impression_id": "015210b3-4784-4712-a86a-5dd28da11c3f",
+    "revenue": 1.53
+  },
+  {
+    "id": "f239577d-da55-4d71-8135-1190c94b1c5e",
+    "impression_id": "4b22d6eb-cc6f-448a-b679-ffa7b820c6ba",
+    "revenue": 2.16
+  },
+  {
+    "id": "a36584c4-d467-4a6f-8028-3984c671b1f7",
+    "impression_id": "7760fdcc-89c2-43d2-aa53-aa6df1bb9059",
+    "revenue": 0.72
+  },
+  {
+    "id": "f60a9b79-866f-4e1d-b048-450eb2f54cb8",
+    "impression_id": "98c59970-3f42-4cc1-b5e4-d3d53574673f",
+    "revenue": 1.63
+  },
+  {
+    "id": "6114b5c8-1a95-4f85-9778-fbef6fe5b81b",
+    "impression_id": "4165ce0b-b69f-427b-bc7b-9e29a77af2d7",
+    "revenue": 0.48
+  },
+  {
+    "id": "176a3e35-91b2-4c58-a082-e014fa0117e4",
+    "impression_id": "da8c56bb-75ec-43b4-84a1-5431fd2e99b6",
+    "revenue": 0.53
+  },
+  {
+    "id": "798eddb2-d84c-4ba6-b45c-12cb778e2c53",
+    "impression_id": "ac2f2e71-6442-46a2-808b-2d6fc1863d1b",
+    "revenue": 2.43
+  },
+  {
+    "id": "fd630172-17aa-48ef-9d1f-0bec910d3d6a",
+    "impression_id": "ba35fca4-c3a0-4c54-9cc0-af1790640e24",
+    "revenue": 0.56
+  },
+  {
+    "id": "2d849b8b-8ddc-4ab6-9142-fe7a6a61e08d",
+    "impression_id": "bdbfcb57-d12e-49aa-ad65-a226cb71a430",
+    "revenue": 3.25
+  },
+  {
+    "id": "9f63a7d7-2ce3-45a3-99a5-781f374a5d28",
+    "impression_id": "d16ea0ee-3b56-4ba7-8980-3f07c66b20c8",
+    "revenue": 1.08
+  },
+  {
+    "id": "bf1f158a-a9ed-4883-8dab-739ce311a7b9",
+    "impression_id": "5b6717f5-a989-4e69-8315-0f47414369ae",
+    "revenue": 2.31
+  },
+  {
+    "id": "33164852-8d77-40fb-911d-2276c7f2ac5e",
+    "impression_id": "1d059261-83f5-4777-a02a-096d25d19fbf",
+    "revenue": 0.93
+  },
+  {
+    "id": "8e71bb41-70dc-4eee-b4e5-9aa213ea393d",
+    "impression_id": "8d73ea92-2040-4cf9-84ff-842af22373f8",
+    "revenue": 1.16
+  },
+  {
+    "id": "ae0d5c58-4756-4160-97b0-ade53e72a571",
+    "impression_id": "05564e02-8de2-4d31-93ee-0e3c142b4d66",
+    "revenue": 3.05
+  },
+  {
+    "id": "a649cad6-c3d8-4982-8e9c-c18a479a1ec6",
+    "impression_id": "6228562e-534e-4497-b577-e935340d57a9",
+    "revenue": 3.46
+  },
+  {
+    "id": "6365f36d-1683-4115-af66-c6bdf6e48636",
+    "impression_id": "22d95b14-e70e-4e2e-af50-d99a556678cf",
+    "revenue": 3.06
+  },
+  {
+    "id": "795ad161-a281-4128-80e9-be6f1dd6081f",
+    "impression_id": "b6c9138d-be24-4c2c-b695-1cb87f109c9e",
+    "revenue": 1.54
+  },
+  {
+    "id": "83b2996d-79b3-4822-b6c8-ad2654681992",
+    "impression_id": "951cbb5b-b856-4d3d-bf58-55675b0e411d",
+    "revenue": 1.96
+  },
+  {
+    "id": "bebc2a65-e9d4-47d1-8fa4-f350029fdf6f",
+    "impression_id": "f8d50ed8-8f4f-4187-a825-c22eca9e89eb",
+    "revenue": 1.83
+  },
+  {
+    "id": "30d860e3-35f4-4228-b89e-c6092bc2f5a9",
+    "impression_id": "b24b21ae-c08f-4cd7-a141-69c078c74377",
+    "revenue": 3.31
+  },
+  {
+    "id": "b84da0ba-a34b-4cfa-b12e-8dc5761ec097",
+    "impression_id": "0c865668-39b4-4c9b-9368-b094dc6256c7",
+    "revenue": 1.72
+  },
+  {
+    "id": "917e36df-f90d-484a-badf-7bfc6fb4fbc0",
+    "impression_id": "c75cde85-683f-4a4b-8652-c9589bdbdf3e",
+    "revenue": 1.23
+  },
+  {
+    "id": "fc9cdcc5-1289-4261-84b7-e185cda7a016",
+    "impression_id": "3e5e7242-22e8-4e12-902b-a4c7ce31be54",
+    "revenue": 2.55
+  },
+  {
+    "id": "6faafc1b-cfa6-44f5-9210-ba1fa28c44f3",
+    "impression_id": "612ef36f-ae3b-488d-b7fb-d258f173c1ac",
+    "revenue": 1.34
+  },
+  {
+    "id": "27e31161-a19e-4bcf-9e42-8e7728746ed0",
+    "impression_id": "3e938eba-a33c-433a-9200-2dcf5419c01b",
+    "revenue": -3.45
+  },
+  {
+    "id": "31dc0208-db20-4cef-bdbf-b2143861feba",
+    "impression_id": "f6bea61b-5111-4efc-a654-3387d80ce35d",
+    "revenue": 3.23
+  },
+  {
+    "id": "36357f26-54b5-4939-96ff-37636fb95645",
+    "impression_id": "9a790c2d-e918-41e3-985a-f23420950996",
+    "revenue": 0.16
+  },
+  {
+    "id": "966e7dd3-3952-4653-90cf-9799a3589e07",
+    "impression_id": "a8bf0b32-ae1d-44f1-aac5-2713e1b36f95",
+    "revenue": 2.88
+  },
+  {
+    "id": "1bfb0574-c9e2-4aef-9446-f84cf8dcda80",
+    "impression_id": "09e39fde-b395-4b4c-b267-2985a6816c9a",
+    "revenue": 1.72
+  },
+  {
+    "id": "1a474d38-3e6f-40bf-b1b8-cac3171a6afe",
+    "impression_id": "014eb144-0ec7-4b52-8cc5-604421440c21",
+    "revenue": 0.14
+  },
+  {
+    "id": "f69bd206-7c5d-4c6d-babf-4a8d22668bc1",
+    "impression_id": "f99770fe-76ff-4a98-ab99-edcc111292ac",
+    "revenue": 3.05
+  },
+  {
+    "id": "3bea1b6d-f617-4f39-aa82-1574e637cf32",
+    "impression_id": "71675afe-8c00-4b33-b079-b291ff480dec",
+    "revenue": 2.23
+  },
+  {
+    "id": "e0782edf-6dc5-4ad4-97dd-d2a543b2c35d",
+    "impression_id": "0a38a5f7-e2cf-4421-9bc5-e21a66b984ba",
+    "revenue": 0.69
+  },
+  {
+    "id": "02004c9d-72e9-4bac-8060-5d1289928cab",
+    "impression_id": "5344dd86-b7be-4e03-96a6-a472d3806399",
+    "revenue": 1.11
+  },
+  {
+    "id": "e74d90f8-eaad-45d0-b282-76e21fd4b2ea",
+    "impression_id": "5f1a23c8-15cd-45a7-9b1f-d625872467b1",
+    "revenue": 1.81
+  },
+  {
+    "id": "071f31f3-938f-419f-96c1-9b48ebb8379b",
+    "impression_id": "966c7d75-6008-44f0-8db1-7d2d761ae28f",
+    "revenue": 0.24
+  },
+  {
+    "id": "07904c12-29a6-4c69-8ad3-640581ae09c7",
+    "impression_id": "8f37d94e-66ec-4f75-89ce-bf7f370709d1",
+    "revenue": 1.56
+  },
+  {
+    "id": "dab6ec62-b6e3-4547-9132-2499fdd41b55",
+    "impression_id": "7da968a8-3119-46f4-9a41-641f3bb67c1f",
+    "revenue": 2.62
+  },
+  {
+    "id": "2dee365c-2ef3-48f6-9260-813c2164f6a5",
+    "impression_id": "01c9ce15-22bb-4af1-86c8-41109773cf7b",
+    "revenue": 1.2
+  },
+  {
+    "id": "21fefd27-5660-462d-907a-4ec85d5c12fb",
+    "impression_id": "259dc84c-a42a-4633-a8e9-1960e4895a89",
+    "revenue": 0.42
+  },
+  {
+    "id": "f77b3501-0a3f-4809-9104-32adeba125cb",
+    "impression_id": "66ce5157-d9b1-48b5-af23-b7ab677d0cc3",
+    "revenue": 3.38
+  },
+  {
+    "id": "42364c18-2efa-4116-9d6f-76f7bb20aae1",
+    "impression_id": "cab29832-b8cb-48b2-8ef1-95ee62b06b56",
+    "revenue": 0.29
+  },
+  {
+    "id": "e1109a5b-83d3-42f7-a031-04eb305fc2b0",
+    "impression_id": "fe465c57-1620-4a44-b036-0b5078de8763",
+    "revenue": 3.16
+  },
+  {
+    "id": "110ef660-f928-49c3-a581-9b3fbbe1b35d",
+    "impression_id": "b72fee9d-997f-42a7-990b-ac02423bd5e3",
+    "revenue": 2.47
+  },
+  {
+    "id": "5e6207b0-03e8-45ff-96c4-bb74ede0890e",
+    "impression_id": "b7efc4bf-e03b-49e7-bed4-5a5f756321c2",
+    "revenue": 0.67
+  },
+  {
+    "id": "8a08f824-54ca-4cde-bf42-aa2fec4acaa9",
+    "impression_id": "1da383fc-579b-4e4f-94a2-a1aa396c27df",
+    "revenue": 0.93
+  },
+  {
+    "id": "e6b2d792-f136-4b8b-aa70-917c26309e36",
+    "impression_id": "e7249220-98a2-4477-8a38-dbb03cf9e5f8",
+    "revenue": 1.58
+  },
+  {
+    "id": "e94a24a6-67f8-4bb4-910a-7c9df30646c4",
+    "impression_id": "d71915d4-d608-49e5-ad34-ad6f57b1cc7a",
+    "revenue": 1.36
+  },
+  {
+    "id": "8e4ebf46-81aa-4f02-932c-ced940b4f98d",
+    "impression_id": "d16d78e0-0061-4367-8681-b642e89920af",
+    "revenue": 2.84
+  },
+  {
+    "id": "ca37b96d-4801-473d-9d0c-fcbf2198e0e9",
+    "impression_id": "7a6aaedd-e58f-45c4-96a9-0b66ea928f01",
+    "revenue": 2.91
+  },
+  {
+    "id": "965ac1b9-0e82-40e0-a573-e0974eb1f974",
+    "impression_id": "3306202b-b998-47d8-86f6-5d6622ddb1de",
+    "revenue": 1.64
+  },
+  {
+    "id": "7a9b0388-171f-4060-b467-2ebfaf178f32",
+    "impression_id": "47fcf303-7e79-42b8-b582-85dfeee5f7b0",
+    "revenue": 0.5
+  },
+  {
+    "id": "e02f497d-59e1-41a4-97a4-07c60500b7fb",
+    "impression_id": "acc40933-962b-469f-b314-7759d1c63a61",
+    "revenue": 0.13
+  },
+  {
+    "id": "cb5c0357-2944-4ccd-a0ec-4aa9be11e591",
+    "impression_id": "a4cbdd47-2bd1-499b-b9ae-2c95526ce7de",
+    "revenue": 1.48
+  },
+  {
+    "id": "bed30c4b-d979-4437-a874-c84456259332",
+    "impression_id": "dfa99640-2f24-4781-9d29-2e1638bde2af",
+    "revenue": 1.08
+  },
+  {
+    "id": "eece2ce1-cfbd-489c-849d-59329f85148a",
+    "impression_id": "e36ed953-2f4b-4039-bd21-2552dc1ca526",
+    "revenue": 1.6
+  },
+  {
+    "id": "05f897b4-c490-41ef-809d-3c7d07457cb1",
+    "impression_id": "4b434727-7b5a-44ec-8dbb-a7f651a0102c",
+    "revenue": 0.89
+  },
+  {
+    "id": "da0c3b39-9f94-4e01-9352-e04ac72cc7c7",
+    "impression_id": "efc918a5-211b-4524-8f8f-1902175c2949",
+    "revenue": 3.4
+  },
+  {
+    "id": "256061d1-5e71-4f6d-b681-8d81f00ff8a3",
+    "impression_id": "b29b3e10-5524-413e-afd9-354c095702a6",
+    "revenue": 1.48
+  },
+  {
+    "id": "9b89b3cd-9693-447f-a127-f2be75377f28",
+    "impression_id": "7ec4e467-087b-412d-b5f5-67f60ee3c4cd",
+    "revenue": 1.8
+  },
+  {
+    "id": "63acee15-0390-4926-b80b-f59297fd2439",
+    "impression_id": "ef809727-5b44-4b36-a85c-0cb94bed2003",
+    "revenue": 0.7
+  },
+  {
+    "id": "a3539906-ee28-4d0c-a16e-4b00d382567e",
+    "impression_id": "d5eb2921-a90a-41d7-b262-b000911e0308",
+    "revenue": 3.36
+  },
+  {
+    "id": "1c9ed391-6c82-4a94-a4ae-2f6b132f78d9",
+    "impression_id": "1136c3d5-4066-47e9-ad2f-4c97f55ab43a",
+    "revenue": 1.61
+  },
+  {
+    "id": "e16c5062-0998-46c8-bcd9-6e0576c4da8f",
+    "impression_id": "d23d9f0e-40c6-4b67-b4f7-cb645eae0d94",
+    "revenue": 1.06
+  },
+  {
+    "id": "7c5d394c-6c67-48ef-b80d-d8f21507c3db",
+    "impression_id": "7ba35068-b085-4cd6-bf02-673360736519",
+    "revenue": 0.86
+  },
+  {
+    "id": "774ec45e-4a3c-4d00-9d58-ceb52102336f",
+    "impression_id": "b0f9ff82-7736-4358-847f-0b8d7225f2ed",
+    "revenue": 1.21
+  },
+  {
+    "id": "765caf0f-2937-4f3b-882a-72951b68b032",
+    "impression_id": "b34999dd-1dda-4bc8-9b50-1b2f51face65",
+    "revenue": 2.34
+  },
+  {
+    "id": "e9225895-e8a2-4e37-b383-dcb3842cdb5a",
+    "impression_id": "e88e399d-a615-4604-8f45-61d8f2599975",
+    "revenue": 0.46
+  },
+  {
+    "id": "09474a41-7d38-4c16-86e4-88fc448ff63a",
+    "impression_id": "c5ff64e8-9465-4beb-b326-9bf4cdcebd0e",
+    "revenue": 2.87
+  },
+  {
+    "id": "cbfb2fc8-3113-4905-9e05-53e81330be10",
+    "impression_id": "02e43575-49ee-418d-854a-c06c7a3c866c",
+    "revenue": 1.71
+  },
+  {
+    "id": "0b2267e9-e9e4-4baf-b73b-8eed776ce8dc",
+    "impression_id": "b8663995-4e10-47d8-9561-29fb5cf0b2e6",
+    "revenue": 2.69
+  },
+  {
+    "id": "4f44ab1c-bd72-4228-b4cb-0f2c687920db",
+    "impression_id": "f0291e9d-1aa3-4e23-b1cc-231d4c6cdd2b",
+    "revenue": 2.63
+  },
+  {
+    "id": "d9f2e77c-4418-4d01-8f4e-78f71b132a08",
+    "impression_id": "f528cc57-357b-4b05-af90-802ab221656a",
+    "revenue": 0.75
+  },
+  {
+    "id": "bba075c5-25e4-4fa3-b59f-a9033b2114cd",
+    "impression_id": "753f8163-ef4c-4c87-bf43-4a34c19a8a58",
+    "revenue": 1.0
+  },
+  {
+    "id": "5dcb6e7b-432b-4df5-885a-a07aca4cd152",
+    "impression_id": "a231b176-0547-45cb-bcd8-52fd8aa80197",
+    "revenue": 1.48
+  },
+  {
+    "id": "182b0ece-02d3-4cd4-9491-bd8886ac0c5a",
+    "impression_id": "b140859b-310e-4858-87d5-f56aaf6832b4",
+    "revenue": 0.3
+  },
+  {
+    "id": "4e7a8e45-21ed-42c8-b1ee-b854eb8e934b",
+    "impression_id": "59c867dd-6adf-4594-b72e-58a1454ee1be",
+    "revenue": 0.05
+  },
+  {
+    "id": "67a258e8-2766-42ca-b671-9d20d198de0c",
+    "impression_id": "813f8494-46b8-4348-9a06-423850423c68",
+    "revenue": 1.71
+  },
+  {
+    "id": "991f959b-4018-47bb-8247-c258af4d6169",
+    "impression_id": "4ea8a611-86c7-4db8-8de4-e952bac294fa",
+    "revenue": 0.91
+  },
+  {
+    "id": "b45b7a66-ce23-4ef9-ac84-d389374bb6d7",
+    "impression_id": "8de09aea-af17-47b1-8109-bbf5de0cb573",
+    "revenue": 1.31
+  },
+  {
+    "id": "ce261857-6dd2-49b8-9608-8e960de65099",
+    "impression_id": "ef05e138-16c5-45ab-9a58-eab8c889215b",
+    "revenue": 2.75
+  },
+  {
+    "id": "315cb009-6436-4bc3-aafa-85fd814681f7",
+    "impression_id": "41bd681d-bebb-4151-a432-4605e19b066c",
+    "revenue": 0.53
+  },
+  {
+    "id": "90ec65a3-9f46-471f-94cd-bb4a9fcb3356",
+    "impression_id": "cf96df40-bef0-40e5-862d-ace829b3016d",
+    "revenue": 2.85
+  },
+  {
+    "id": "bd16345a-6fcc-46d9-a9db-9214485a7609",
+    "impression_id": "6077cef3-210f-4c88-b2d9-4a11f9c10bc4",
+    "revenue": 0.43
+  },
+  {
+    "id": "ec0b891d-1de6-4cf2-801f-379fc823ba5d",
+    "impression_id": "70096873-174e-480d-b96b-85d4086d8c57",
+    "revenue": 0.89
+  },
+  {
+    "id": "fdca491e-c250-4bab-bc74-9c25155c8a95",
+    "impression_id": "8605c6f2-bcde-4496-90c0-4947d846a823",
+    "revenue": 0.63
+  },
+  {
+    "id": "232038f0-2f58-4f43-ab27-0ad23f1012d6",
+    "impression_id": "2119ad56-ebb3-461e-9123-c5fddb47a17e",
+    "revenue": 2.09
+  },
+  {
+    "id": "e91c0804-4c64-4382-afce-6b47691f25c7",
+    "impression_id": "ca4feca5-9374-4813-a4f5-5b6b2daa2b63",
+    "revenue": 0.3
+  },
+  {
+    "id": "9c9de6c6-9ba1-4f06-ad49-59db457428e3",
+    "impression_id": "784dac5e-12f8-4f4b-859e-396022173e53",
+    "revenue": 0.97
+  },
+  {
+    "id": "849d2389-167e-4a4b-8277-d0d88efe41c5",
+    "impression_id": "993a809d-bf27-4323-a4cd-888ab877f63a",
+    "revenue": 2.92
+  },
+  {
+    "id": "27d50d6d-faa5-43b7-bfb5-a1b2bfb15e3b",
+    "impression_id": "2d34f640-1beb-4998-94a8-dee8fa5126f6",
+    "revenue": 1.31
+  },
+  {
+    "id": "ac69b32c-cd6f-4b2e-a5cf-fddb3691d6c4",
+    "impression_id": "2002b145-acd3-4b8a-b5eb-8485e31b9def",
+    "revenue": 1.34
+  },
+  {
+    "id": "395b0b0c-ff94-466c-98ae-270f03adae32",
+    "impression_id": "0953b1b4-e516-4bd5-b257-d3f258c54311",
+    "revenue": 1.48
+  },
+  {
+    "id": "221cf74d-52d1-4f0c-84cb-f26d7f74a620",
+    "impression_id": "ecf040f2-14d2-4bbd-8962-2868cf9be880",
+    "revenue": 3.09
+  },
+  {
+    "id": "23acaffb-920a-443d-a741-bdf4acf9e1e4",
+    "impression_id": "e6e108ca-771f-4cdb-857a-728349401c5b",
+    "revenue": 0.92
+  },
+  {
+    "id": "3d9ed73e-36d0-4d73-9778-eb2ced2eae3b",
+    "impression_id": "f0e88719-c061-4371-8701-34b311aec004",
+    "revenue": 2.8
+  },
+  {
+    "id": "a325aeb3-5300-4eb6-841b-82fa0c87aebb",
+    "impression_id": "0a76e923-b9b9-4e80-aaf4-85046a8087c9",
+    "revenue": 2.62
+  },
+  {
+    "id": "9e2ae1f1-31d5-4345-8122-49fd2e818207",
+    "impression_id": "766928c9-6f54-433f-9272-99f7cbd2d138",
+    "revenue": 3.19
+  },
+  {
+    "id": "7172faac-cd4b-4ae4-beba-57798a92bf25",
+    "impression_id": "ad1bcdb8-b4b1-4ed0-af32-fc256128e400",
+    "revenue": 1.46
+  },
+  {
+    "id": "64ce2b76-95ad-45eb-9467-3a16ca7ad1dd",
+    "impression_id": "359e1ae4-3202-4087-a943-5341b6fa2634",
+    "revenue": 1.12
+  },
+  {
+    "id": "4bc620a4-4f47-4bf4-8992-0cffbc07809c",
+    "impression_id": "f4dc9c5d-cf79-4858-b034-597083652ff5",
+    "revenue": 1.01
+  },
+  {
+    "id": "677f73c3-2da0-4236-8764-378391fae3a3",
+    "impression_id": "cb739828-db54-4828-a16d-f84f23fcfae3",
+    "revenue": 1.16
+  },
+  {
+    "id": "18bd02bf-16f8-4363-bb49-332544de767c",
+    "impression_id": "1d1bb9b7-977c-4d7a-843d-3f7b61dd41d2",
+    "revenue": 1.22
+  },
+  {
+    "id": "389615e4-2e41-458e-a471-b3af1c3e243a",
+    "impression_id": "48894b85-09b0-43b4-b5e2-41769807a928",
+    "revenue": 2.45
+  },
+  {
+    "id": "2f9c8e1d-9069-43b1-8680-d579b4d55401",
+    "impression_id": "165258e6-073f-47ec-ba62-99c69868258f",
+    "revenue": 3.39
+  },
+  {
+    "id": "3a47e299-0166-433f-90e6-2c77079e1220",
+    "impression_id": "66ab727c-d9ea-4a37-a1a7-74dcd0bdfb0e",
+    "revenue": 3.45
+  },
+  {
+    "id": "b595f52f-67e7-4f45-8d5e-59a0d4f5601d",
+    "impression_id": "aa364f91-86a8-4bd2-af0b-5f89d3dc81c8",
+    "revenue": 0.11
+  },
+  {
+    "id": "4a4a9c96-211a-444a-8fc6-1f31ae2f3080",
+    "impression_id": "89e6fa58-d2a7-4ef7-a1be-f7df6f664961",
+    "revenue": 3.49
+  },
+  {
+    "id": "6c26136e-17c6-4b93-b48f-a5eeaca7dcd5",
+    "impression_id": "1ea1cb61-7d72-4e88-ae2d-7e7e47b6e4c3",
+    "revenue": 0.83
+  },
+  {
+    "id": "79ed9b40-a02a-4c78-84fe-238d2b402ec3",
+    "impression_id": "b9d16455-68e1-4ab1-a211-a4b92dda3acd",
+    "revenue": 0.35
+  },
+  {
+    "id": "ee7f2aae-2e86-453e-bd4c-d7556e205758",
+    "impression_id": "41fedab2-9cb5-4d11-b995-f57dd1f6b7b8",
+    "revenue": 0.57
+  },
+  {
+    "id": "b904381a-1ce4-4fe0-a1a1-9645354c2875",
+    "impression_id": "df0be8f1-f922-4306-b3bc-76f1c5a1115d",
+    "revenue": 2.63
+  },
+  {
+    "id": "1201a035-b148-4858-b2ad-2e8c9c9668f2",
+    "impression_id": "739679ec-12ed-4cbe-8aff-c60958eae2c6",
+    "revenue": 0.38
+  },
+  {
+    "id": "8aad48b4-9c15-4684-9464-f985d764fa9e",
+    "impression_id": "5d42c2d8-f5e5-457d-8021-012c4666b924",
+    "revenue": 1.88
+  },
+  {
+    "id": "642be23a-1f0a-4442-abe3-df551c755f2d",
+    "impression_id": "22b36f74-4160-4993-a6e8-f0ed9607ce63",
+    "revenue": 2.89
+  },
+  {
+    "id": "12259e4c-6cdc-44e5-8555-801955c3295e",
+    "impression_id": "7f75d084-694b-456e-b1bb-7d60f32ad206",
+    "revenue": 1.87
+  },
+  {
+    "id": "5fbfe095-8cf9-4aa4-a8b7-2c39d597191f",
+    "impression_id": "9d91c28f-dc91-42f8-981c-790852e2017b",
+    "revenue": 1.35
+  },
+  {
+    "id": "a890849a-aa7b-41f2-afcc-8a1340024446",
+    "impression_id": "d7c54b98-40a8-487e-b0d4-2890f3b49e67",
+    "revenue": 2.17
+  },
+  {
+    "id": "f757c9c6-34a3-400d-b485-1cabf50b1afd",
+    "impression_id": "a9431490-684e-46bf-ae47-5fb8bbb24151",
+    "revenue": 2.57
+  },
+  {
+    "id": "7aca74b2-5e8f-4132-9fc2-ae9606e0ce7b",
+    "impression_id": "3ddf1546-aa04-4114-a64e-1b5b7928407b",
+    "revenue": 1.66
+  },
+  {
+    "id": "b9824528-ae84-4aaf-9ed9-a881a825a8ff",
+    "impression_id": "bbb2b4c8-9b0b-45ea-9c34-6f4687333557",
+    "revenue": 2.29
+  },
+  {
+    "id": "6952586b-1e17-4e9c-bd45-5bcfe6050ab9",
+    "impression_id": "cf31e9d4-d49a-4dec-9d37-b03b68fc7191",
+    "revenue": 1.3
+  },
+  {
+    "id": "486a802d-dbf5-407c-9d28-ce33d486b84c",
+    "impression_id": "531ca153-39a4-40a9-9773-9545700db90f",
+    "revenue": 1.14
+  },
+  {
+    "id": "a7b3b6d7-8176-4d01-a850-1792634dcc0c",
+    "impression_id": "797b41da-fc41-46ed-bd9b-5fed67394152",
+    "revenue": 0.87
+  },
+  {
+    "id": "4067bb01-1f7f-400b-902f-ce1efdf4a438",
+    "impression_id": "eff48527-b531-48d7-8770-5298f1443efb",
+    "revenue": 1.76
+  },
+  {
+    "id": "6d76d4ae-f01b-432a-9949-83562d727c8f",
+    "impression_id": "a2cfad30-58c1-464f-b387-bdddd94e47a7",
+    "revenue": 0.57
+  },
+  {
+    "id": "f57613ae-920c-437d-8a4e-88808259a34e",
+    "impression_id": "7d5d7078-f0d2-4143-b24f-e50dc2143690",
+    "revenue": 2.37
+  },
+  {
+    "id": "57aa88ef-f2bb-433a-be3a-35fdbd0dd37b",
+    "impression_id": "b44df605-a214-4396-b339-d853a0039d8e",
+    "revenue": 1.47
+  },
+  {
+    "id": "a62108c7-535c-4cd5-a3ec-f913b9f527af",
+    "impression_id": "95756f24-39e5-46d9-aaaf-419186042bce",
+    "revenue": 2.27
+  },
+  {
+    "id": "1ae02678-1e5f-4ad9-8e2a-b6c4c5d12654",
+    "impression_id": "bf380f83-6430-4770-bae9-b385f1a3a6c2",
+    "revenue": 1.03
+  },
+  {
+    "id": "bd5185e4-136b-404a-b89c-a9fe6bb34d50",
+    "impression_id": "2c2155f8-1046-4359-b02c-5ca8be04c212",
+    "revenue": 2.51
+  },
+  {
+    "id": "1d2e92cf-c6b3-40ab-adf6-32c0549c28af",
+    "impression_id": "38342c47-7c12-431b-96c8-635da5d57e22",
+    "revenue": 0.52
+  },
+  {
+    "id": "e9695b07-11ef-4146-9406-3ba5b9fd18df",
+    "impression_id": "a430ebef-fe6a-49c1-b24a-42c0d4cb9cf1",
+    "revenue": 0.6
+  },
+  {
+    "id": "d6f03fd7-9782-4d07-8b7c-aef82f1d71fd",
+    "impression_id": "5d88cea7-d9cb-4328-8ee5-01c5591e6ee5",
+    "revenue": 0.74
+  },
+  {
+    "id": "194b4334-1700-49be-9af8-42bfac519aac",
+    "impression_id": "1f7251ea-6380-4e65-ae02-5522af6a3bf2",
+    "revenue": 1.73
+  },
+  {
+    "id": "db81f865-d0c7-4c3c-9021-0b8f5d36d45b",
+    "impression_id": "dcda01be-93b1-46a2-a553-ee5aa1cefcd5",
+    "revenue": 2.76
+  },
+  {
+    "id": "1fcef2f1-de52-4faa-8544-afcf7abf3472",
+    "impression_id": "6cddc65b-5f70-4003-9750-31aaa67d5991",
+    "revenue": 0.53
+  },
+  {
+    "id": "f5569d7e-3042-428b-8799-9aa1a2dffb68",
+    "impression_id": "9aeec7a5-be5f-4f72-bbe1-21f2e3abbeb2",
+    "revenue": 1.03
+  },
+  {
+    "id": "79c3aedd-24f0-41b6-9a79-d247f8985fc9",
+    "impression_id": "b1551cc1-ee3f-4f98-812d-263fea421ea1",
+    "revenue": 1.55
+  },
+  {
+    "id": "08246314-68c4-4fb7-953e-7b6b857a0472",
+    "impression_id": "3cb1e8c0-d71e-4bc2-a1a6-a52cf2bd73b1",
+    "revenue": 1.03
+  },
+  {
+    "id": "ce2484a2-b089-48c7-be39-0dbf051038f7",
+    "impression_id": "950a2387-cee5-4c1a-92da-38aeac2968c5",
+    "revenue": 1.07
+  },
+  {
+    "id": "bcf3842c-6d5a-44af-8996-3fe4c96d91a8",
+    "impression_id": "12f0a4a2-3fb0-4c60-b776-88ea961d9fa4",
+    "revenue": 3.49
+  },
+  {
+    "id": "fce46cba-d549-424d-be12-172ab94b0eea",
+    "impression_id": "d1ac5d94-c583-4ed5-ac6f-21cffdcda1f8",
+    "revenue": 0.55
+  },
+  {
+    "id": "4eec2967-00db-48ba-8e04-dfc9776797dd",
+    "impression_id": "8fa369c7-8c79-4440-889a-fbc4bcb2fe68",
+    "revenue": 1.7
+  },
+  {
+    "id": "4e3bbb68-213c-45a5-aa7e-ac3f66158217",
+    "impression_id": "b7132651-59fd-4384-8445-80bbaa34450f",
+    "revenue": 0.06
+  },
+  {
+    "id": "ea67fbf7-8867-4c3b-9e01-9de7a001ebed",
+    "impression_id": "94d0bac6-0ac5-49e9-88da-abcbba2fc724",
+    "revenue": 0.98
+  },
+  {
+    "id": "360a8285-b2cc-4f9f-b87c-d060d0f7bdf5",
+    "impression_id": "06c3f9ec-782e-4d13-9c1d-e09b37795199",
+    "revenue": 1.61
+  },
+  {
+    "id": "4e63c62a-be1f-499a-9465-f3208e7ed487",
+    "impression_id": "ec60d2b1-7d6a-49c7-af07-8fcae389c8b1",
+    "revenue": 2.74
+  },
+  {
+    "id": "7102a8eb-ad7a-415a-b16c-d2b89298db50",
+    "impression_id": "d904b37a-67b9-4ff4-bdb4-b73e380f6490",
+    "revenue": 1.4
+  },
+  {
+    "id": "88ca0bae-3151-45e3-a3a9-88485d9be7e7",
+    "impression_id": "57857446-3bee-43a1-90e8-7975c89d2718",
+    "revenue": 1.88
+  },
+  {
+    "id": "283d09b2-bcd5-453a-a891-381e20cf9029",
+    "impression_id": "fc4bcf85-222c-43a9-886c-74d8c49d9b1d",
+    "revenue": 1.99
+  },
+  {
+    "id": "097f90bc-a445-4018-b0ed-e1088a56aa5b",
+    "impression_id": "207c283f-e960-4fdb-8079-8d87c73f84f8",
+    "revenue": 2.28
+  },
+  {
+    "id": "da6a2f9f-ed5d-48e8-8f6d-fa8be386b314",
+    "impression_id": "20680b4c-38ca-48d5-adee-2892273feaf0",
+    "revenue": 2.14
+  },
+  {
+    "id": "d454a941-666a-4126-85bb-129389165e31",
+    "impression_id": "e28a785d-08c8-45e7-a1ae-0bab994044f2",
+    "revenue": 0.23
+  },
+  {
+    "id": "1c8a3255-6fc6-425a-a3a8-40bde4fcd3cc",
+    "impression_id": "0ba46333-0304-455c-974e-785a98fcb327",
+    "revenue": 2.05
+  },
+  {
+    "id": "cb1c44ac-8819-4ad7-bca9-1dc1cc541a25",
+    "impression_id": "21c16db7-9e6d-43e4-988e-7499c0c0ea1a",
+    "revenue": 1.12
+  },
+  {
+    "id": "8e6c765d-df9f-4910-91cb-71837366caee",
+    "impression_id": "0d7729d1-d453-4a55-a8a1-b47806212da7",
+    "revenue": 0.7
+  },
+  {
+    "id": "3d7c3c03-fa4b-4c6f-8ab6-1470dffa703e",
+    "impression_id": "d192088b-d6ac-4933-80bf-407511924a8e",
+    "revenue": 2.04
+  },
+  {
+    "id": "2add46d1-e846-4566-a4f4-4b99f596a75b",
+    "impression_id": "974f9aeb-e6cd-4d36-af9c-5e1624efcfb0",
+    "revenue": 0.69
+  },
+  {
+    "id": "2add46d1-e846-4566-a4f4-4b99f596a75b",
+    "impression_id": "974f9aeb-e6cd-4d36-af9c-5e1624efcfb0",
+    "revenue": 0.69
+  },
+  {
+    "id": "2add46d1-e846-4566-a4f4-4b99f596a75b",
+    "impression_id": "974f9aeb-e6cd-4d36-af9c-5e1624efcfb0",
+    "revenue": 0.69
+  },
+  {
+    "id": "2add46d1-e846-4566-a4f4-4b99f596a75b",
+    "impression_id": "974f9aeb-e6cd-4d36-af9c-5e1624efcfb0",
+    "revenue": 0.69
+  },
+  {
+    "id": "26d9bc30-92a7-412c-99a4-0040df879c39",
+    "impression_id": "f0240164-1fb6-48bb-9439-a855603c4835",
+    "revenue": 2.11
+  },
+  {
+    "id": "e447d8e4-2dd9-4024-8e06-f0db5cac44e0",
+    "impression_id": "7a3f572d-415f-4e7c-b64d-a3d5d0ed5c1f",
+    "revenue": 3.33
+  },
+  {
+    "id": "5e159c73-beaa-413f-b7cb-9ea6a66a5c7c",
+    "impression_id": "03d57304-9747-4fc4-babb-36a64285f71e",
+    "revenue": 1.97
+  },
+  {
+    "id": "d03ad590-48d3-4f8c-b662-f024908626b2",
+    "impression_id": "e03f75a7-8a18-4147-860a-e502bba4fdcc",
+    "revenue": 1.71
+  },
+  {
+    "id": "0537ccbb-15b4-47bc-92c9-a6ea6733ac08",
+    "impression_id": "467c7bb4-3f7e-4e16-8ecd-0253b2a91a02",
+    "revenue": 0.24
+  },
+  {
+    "id": "bd022b16-470e-4724-9366-4f7c6d50fb1d",
+    "impression_id": "69b60d30-bef3-4ee7-beb8-d074da429453",
+    "revenue": 2.24
+  },
+  {
+    "id": "92b9c04e-a4dc-4b05-9a93-863aa83a8e56",
+    "impression_id": "836d4b8e-8ebd-45eb-beca-630bd8139e94",
+    "revenue": 0.75
+  },
+  {
+    "id": "f8675b4a-66b4-40e4-8016-aa661038cee8",
+    "impression_id": "78b7c8b4-342d-4883-896b-47bae11e2801",
+    "revenue": 1.06
+  },
+  {
+    "id": "339d7728-0486-4035-aa81-848bca0daab9",
+    "impression_id": "5927e941-9813-41d7-9678-2a3d5d3a0462",
+    "revenue": 2.68
+  },
+  {
+    "id": "4697de94-fdcc-4bfd-95bf-286b1307c20c",
+    "impression_id": "45e21ca3-48b8-4f72-95dc-7c6ca245a707",
+    "revenue": 3.35
+  },
+  {
+    "id": "d389f3f3-8d61-4f48-938d-525f5c8eb185",
+    "impression_id": "3b9e5091-e719-41aa-9ea7-0927252dfcd0",
+    "revenue": 0.95
+  },
+  {
+    "id": "aee653b7-6a38-42ad-b62d-d2e375083a04",
+    "impression_id": "f0ce7bee-892e-4de1-bccc-209420eb920e",
+    "revenue": 0.52
+  },
+  {
+    "id": "26eea826-e45a-4fa4-9502-ab2d7b3d6fd1",
+    "impression_id": "db9318c0-408f-48b8-b919-eadfc5d98010",
+    "revenue": 1.49
+  },
+  {
+    "id": "1caa39cc-8024-4e29-bc35-ce40c205f182",
+    "impression_id": "b8613dbc-1579-4d5f-bfec-24bc87f8c162",
+    "revenue": 3.39
+  },
+  {
+    "id": "69c446c7-2b49-4023-be74-5a0be818eef5",
+    "impression_id": "c65e3a66-3c4f-4adc-bf1a-ac4d2e65f1be",
+    "revenue": 0.08
+  },
+  {
+    "id": "cfdf7483-72e3-46fc-a024-3a37905a6321",
+    "impression_id": "28c3bb21-078c-47f5-b1c2-d4bdbf9e95c2",
+    "revenue": 1.31
+  },
+  {
+    "id": "56617802-f01f-4b86-8604-50a01bdc2d44",
+    "impression_id": "a90e3e42-1cc2-47d1-bece-f28f48d3db0e",
+    "revenue": 0.71
+  },
+  {
+    "id": "02859ef0-4613-4207-9e08-67e5f9039ced",
+    "impression_id": "5f989b7f-46d4-4625-bab3-b0d659428c35",
+    "revenue": 0.86
+  },
+  {
+    "id": "02c50748-0ccc-4050-a895-45f5e89c1af5",
+    "impression_id": "90c74c68-fffd-4ae8-9ff3-84ee78b450bf",
+    "revenue": 3.4
+  },
+  {
+    "id": "5b734ed0-8e67-49ca-8b2d-b9388e8fe63a",
+    "impression_id": "b8d75b24-65bf-48e7-a904-e31e40fcbd8e",
+    "revenue": 1.71
+  },
+  {
+    "id": "2ac5a2a1-68a0-436e-bbe7-668a7ae23c14",
+    "impression_id": "1ebc4d02-390c-4090-9ddc-f74095f1a517",
+    "revenue": 2.24
+  },
+  {
+    "id": "2adc39c5-ddb6-41e1-9efb-b255266e8bff",
+    "impression_id": "7374bfd5-46f8-4834-b7d8-f7c411347ae3",
+    "revenue": 0.48
+  },
+  {
+    "id": "1699dd51-d2d9-4d0f-a427-78032d0c0417",
+    "impression_id": "2d7c0a98-3f88-4702-b920-5a5d7a61da90",
+    "revenue": 0.54
+  },
+  {
+    "id": "dfc3f297-de97-49d5-8926-2eaba353f49f",
+    "impression_id": "bd1376d8-2756-4e4a-bce0-2276a0e62f0d",
+    "revenue": 0.87
+  },
+  {
+    "id": "01ab0c85-3146-48be-a77c-efbbebf5b0ac",
+    "impression_id": "0c72eda5-3935-46d8-aaee-1cbcb8b5b6be",
+    "revenue": 1.03
+  },
+  {
+    "id": "1ae33b0a-5df0-4d10-9a8b-6b61703cf3f9",
+    "impression_id": "3ac1455d-9aad-46b8-b093-c765afc47e35",
+    "revenue": 2.49
+  },
+  {
+    "id": "02714a9e-34d3-4d7e-b344-b99033267f7c",
+    "impression_id": "f628766c-010a-4681-86c3-d6f793154ba9",
+    "revenue": 3.1
+  },
+  {
+    "id": "b30fefec-dc99-4cd3-873e-ed37293faffd",
+    "impression_id": "2e625df0-f3e6-436a-90d7-3d5ccbf91f90",
+    "revenue": 2.38
+  },
+  {
+    "id": "357ccc3f-95f0-4a26-8843-8f3f5790c980",
+    "impression_id": "b6ecb527-85ea-4bb2-b302-3e80553e0eb7",
+    "revenue": 0.43
+  },
+  {
+    "id": "82f8185a-d034-4e12-90d8-7d520573660e",
+    "impression_id": "053c83fa-8f41-4658-8ee7-0cc136d61358",
+    "revenue": 1.85
+  },
+  {
+    "id": "cf1c3f30-95cf-4373-a88a-47a8874ecdda",
+    "impression_id": "fff20e5a-3748-43c3-a69c-892f860ccd1d",
+    "revenue": 0.12
+  },
+  {
+    "id": "fbbf246e-5231-4374-a401-1e78f44601ea",
+    "impression_id": "210ab995-f916-4ab0-a506-13aef1abe28c",
+    "revenue": 2.02
+  },
+  {
+    "id": "c25a5efe-754c-4cd7-93bd-92048a8c78a1",
+    "impression_id": "f54bb320-90f5-4fb4-9e39-a1fb6d248373",
+    "revenue": 2.73
+  },
+  {
+    "id": "4bd5d93e-c661-42a4-8673-cee3175983e3",
+    "impression_id": "f1103903-467a-4749-b83f-4e030d684636",
+    "revenue": 3.23
+  },
+  {
+    "id": "570ae393-d063-42b9-9531-fee46b097466",
+    "impression_id": "3be49bf0-3628-4a4f-8085-69a610cdc6d2",
+    "revenue": 1.51
+  },
+  {
+    "id": "c778b59f-8f32-41fe-8c43-9f0a62bbbe10",
+    "impression_id": "0964a9ac-90a7-4d0b-a444-43d68c9bbb77",
+    "revenue": 2.28
+  },
+  {
+    "id": "295a3a26-5323-4860-8fbd-7a6ef051b6be",
+    "impression_id": "530d2259-c100-4493-a7b0-7048e7aef4e8",
+    "revenue": 2.43
+  },
+  {
+    "id": "4c6c73d5-8fc6-4c68-94fc-ea214401b370",
+    "impression_id": "36adfe5f-e0b3-4f9f-8953-8e6d0a80dc05",
+    "revenue": 0.03
+  },
+  {
+    "id": "f74ada26-004d-4e59-b7cf-4b62acc6f978",
+    "impression_id": "a1e04a87-04ee-4cd2-a97b-d04660f73ea7",
+    "revenue": 0.91
+  },
+  {
+    "id": "b10e082d-7dc4-403a-b365-e13c23fcb106",
+    "impression_id": "ebb67fdb-07f0-44b1-bdf9-e5d85a3ddc25",
+    "revenue": 2.33
+  },
+  {
+    "id": "f9c0170c-fc74-4c79-923a-66964c4544a1",
+    "impression_id": "80e668cf-4a30-4e75-8d13-28dcdbdbdc64",
+    "revenue": 3.04
+  },
+  {
+    "id": "8f9f6bb0-ba7d-49e9-b28e-7c6dc51bd295",
+    "impression_id": "ea7c57cd-a8c9-4cee-ac75-61a479c98e26",
+    "revenue": 0.1
+  },
+  {
+    "id": "a94be7c1-cfd5-4276-a8a9-005d254e1946",
+    "impression_id": "71fc4af0-56e4-48bf-9024-0aee497658a4",
+    "revenue": 3.34
+  },
+  {
+    "id": "dea8c417-c7fe-4131-bf6d-896ed585bace",
+    "impression_id": "81dbd887-7aca-4586-a0ac-2cbcadac6d1c",
+    "revenue": 1.07
+  },
+  {
+    "id": "355e3a86-4b19-41e8-ae17-abef9cfcab60",
+    "impression_id": "d6977279-e730-4943-896b-64790c972403",
+    "revenue": 1.25
+  },
+  {
+    "id": "99fe2301-83b9-4291-9aed-e0b87498526b",
+    "impression_id": "c9c18034-a767-4a51-9366-70d858d4f5d3",
+    "revenue": 1.32
+  },
+  {
+    "id": "edc0b132-b8e4-410d-8a18-ee5b167d0b8d",
+    "impression_id": "ca13582b-7257-4581-b51b-4eb553d8c155",
+    "revenue": 1.57
+  },
+  {
+    "id": "66b3dc7a-d30f-447d-baf0-898b3565dfc2",
+    "impression_id": "a69d52f9-a406-42b8-aae9-f57a7786156d",
+    "revenue": 0.33
+  },
+  {
+    "id": "7b380997-59de-460f-b16e-24bb93ea4da1",
+    "impression_id": "cb51ddb3-009c-4459-91d5-0b1530643a8a",
+    "revenue": 2.65
+  },
+  {
+    "id": "c8d6ab7c-e902-4bcb-b0bd-94ec7bcf8faa",
+    "impression_id": "13303b2c-3d45-40f0-a138-882557e59d32",
+    "revenue": 1.12
+  },
+  {
+    "id": "14454d9f-e075-4855-86fa-b16726ca7be3",
+    "impression_id": "91eae335-b42f-4ee3-a4a4-a156fee89c23",
+    "revenue": 0.9
+  },
+  {
+    "id": "64180a15-c163-4e6e-94c4-30b4e7062455",
+    "impression_id": "4940df1d-e383-4e3a-adce-7f3a919f414e",
+    "revenue": 1.41
+  },
+  {
+    "id": "267f3e2e-a7f4-4cca-8f20-709124485822",
+    "impression_id": "5810e339-2ec6-405b-8c1f-29b73115c27c",
+    "revenue": 1.53
+  },
+  {
+    "id": "0a141994-8f2b-49d5-979d-bfa6dfa4e627",
+    "impression_id": "55091f0c-1efe-43ae-8615-a50469cc7218",
+    "revenue": 2.26
+  },
+  {
+    "id": "f455cf6e-ece5-467c-ab3e-c60d6385688b",
+    "impression_id": "cf4a13b4-9bc5-4e42-92db-0de4ea4a2579",
+    "revenue": 2.27
+  },
+  {
+    "id": "56fc8b53-8737-4a16-a4d0-c7835a609229",
+    "impression_id": "3aed6f97-fd8c-4c1e-9bbc-7e0582752e04",
+    "revenue": 0.46
+  },
+  {
+    "id": "8c024905-77fc-420e-b8fb-ccc4d38251b8",
+    "impression_id": "d6ddf937-576e-4fc2-97f9-4195bd96dbd3",
+    "revenue": 2.81
+  },
+  {
+    "id": "d11bbcaa-f13a-4a1b-9bf3-055ae78e2455",
+    "impression_id": "592530ef-0278-472b-ab15-17dfee72b501",
+    "revenue": 0.56
+  },
+  {
+    "id": "db4601a1-8a8b-4e21-894f-1ee6eca78f07",
+    "impression_id": "b8da06c4-025f-452b-9d1d-a7f6fc83f2b8",
+    "revenue": 2.84
+  },
+  {
+    "id": "4d145bf6-9cdc-42f6-bd2c-243114fa35fb",
+    "impression_id": "8de2f196-8349-4025-a507-329ac2e356e3",
+    "revenue": 1.75
+  },
+  {
+    "id": "4ac6f908-e227-4473-9e73-6c4da51b53d0",
+    "impression_id": "6cf40c24-3d9a-44ec-8e63-0d860b33451f",
+    "revenue": 1.13
+  },
+  {
+    "id": "43411814-6d81-4268-8210-45b638e1ce51",
+    "impression_id": "2af92935-065b-4557-93cc-4c99ec2a808d",
+    "revenue": 3.05
+  },
+  {
+    "id": "b39b55b3-59a6-437c-b1cd-29fcae5e4df3",
+    "impression_id": "9ff9f862-aa19-4dee-85ce-1e414b064112",
+    "revenue": 1.84
+  },
+  {
+    "id": "cecfe757-214b-489a-b85f-910aab408707",
+    "impression_id": "ca68ca05-a207-4a66-b1d0-93ce9dbe8a8d",
+    "revenue": 3.46
+  },
+  {
+    "id": "df0d36c6-74e8-43dd-a77d-5104e4be2625",
+    "impression_id": "fc88d8c6-c03e-44a2-bcfe-7a05deb7bd83",
+    "revenue": 1.88
+  },
+  {
+    "id": "e11b9de8-e12e-4d5f-9980-cb4c924b55c9",
+    "impression_id": "0c6cccfc-555e-4c39-bd5f-22651d810b75",
+    "revenue": 1.65
+  },
+  {
+    "id": "055eb60a-a36e-498e-91d6-3d42738d6b08",
+    "impression_id": "42930aab-1fe3-417a-b6b1-90267eaf30fd",
+    "revenue": 2.15
+  },
+  {
+    "id": "9f102b25-7660-4900-a38a-b1e653ab631e",
+    "impression_id": "ecfd63f0-5491-4674-ac51-9fdfd9de51e0",
+    "revenue": 0.7
+  },
+  {
+    "id": "8d570277-019d-4ba2-b385-bd95cd8807a0",
+    "impression_id": "2bdd6575-7172-49bb-81ba-0cf5ffd398e4",
+    "revenue": 0.3
+  },
+  {
+    "id": "054d88e2-d4d2-47f4-9a7d-86f2239c2403",
+    "impression_id": "9b5cb90a-740d-4896-b8c3-f989fabeb8c4",
+    "revenue": 0.8
+  },
+  {
+    "id": "e4155f2b-c6e0-4e9a-bf6f-0d5122341050",
+    "impression_id": "f6234b58-9e8c-44f9-b7bf-278151e09bbe",
+    "revenue": 2.34
+  },
+  {
+    "id": "bc2910cf-4ab0-41a4-8a0f-b6e672f87d9e",
+    "impression_id": "554f5ff3-da44-454e-b35d-80f65b87717e",
+    "revenue": 0.47
+  },
+  {
+    "id": "8ade82b4-21c7-460f-a5ef-bb6338a55615",
+    "impression_id": "6ebb2559-7f7a-4e20-8e45-14b94149d3cc",
+    "revenue": 0.13
+  },
+  {
+    "id": "669b97f7-1324-4f70-9856-2a94966ccf4f",
+    "impression_id": "3d47fb1c-e4a7-4b3f-a8be-2373b9e5e2cd",
+    "revenue": 0.65
+  },
+  {
+    "id": "3a07622b-1667-4f84-b81f-54f7f6868a4a",
+    "impression_id": "106e735a-98f2-4df7-8fb5-43ab7f81365f",
+    "revenue": 1.14
+  },
+  {
+    "id": "beb7af42-bdbc-4182-aaf6-4071f801896d",
+    "impression_id": "5e12e6c6-7165-44f2-bada-c3c3c148c972",
+    "revenue": 2.86
+  }
+]
