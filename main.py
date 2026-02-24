@@ -66,7 +66,7 @@ def run(options, impressions_path, clicks_path):
             # Data has been deduplicated and is clean
             # Create the key for clicks and impressions to perform the Join on impression_id
             keyed_clean_impressions = clean_impressions | 'Key Clean Imp' >> beam.Map(lambda x: (x['id'], x))
-            keyed_clean_clicks = clean_clicks | 'Key Clean Clicks' >> beam.Map(lambda x: (x['impression_id'], x))
+            keyed_clean_clicks = clean_clicks | 'Key Clean Clicks' >> beam.Map(lambda x: (x.get('impression_id', ''), x))
 
             joined_data = (
                 {'impressions': keyed_clean_impressions, 'clicks': keyed_clean_clicks}
@@ -86,7 +86,7 @@ def run(options, impressions_path, clicks_path):
             # ========================================================
             (
                 clean_flat_enriched_data
-                | 'G1: Key Data' >> beam.Map(lambda x: ((x['app_id'], x['country_code']), x))
+                | 'G1: Key Data' >> beam.Map(lambda x: ((x.get('app_id', ''), x.get('country_code', '')), x))
                 | 'G1: Group' >> beam.GroupByKey()
                 | 'G1: Aggregate' >> beam.ParDo(AggregateMetricsFn())
                 | 'G1: To List' >> beam.combiners.ToList()
@@ -98,7 +98,7 @@ def run(options, impressions_path, clicks_path):
             # ========================================================
             (
                 clean_flat_enriched_data
-                | 'G2: Key Data' >> beam.Map(lambda x: ((x['app_id'], x['country_code'], x['advertiser_id']), x))
+                | 'G2: Key Data' >> beam.Map(lambda x: ((x.get('app_id', ''), x.get('country_code', ''), x.get('advertiser_id', '')), x))
                 | 'G2: Group By Adv' >> beam.GroupByKey()
                 | 'G2: Filter & Calc RPM' >> beam.ParDo(AggregateAdvertiserMetricsFn())
                 | 'G2: Group By App/Country' >> beam.GroupByKey()
@@ -112,7 +112,7 @@ def run(options, impressions_path, clicks_path):
             # ========================================================
             (
                 clean_flat_enriched_data
-                | 'G3: Key Data' >> beam.Map(lambda x: ((x['country_code'], x['user_id']), x['revenue']))
+                | 'G3: Key Data' >> beam.Map(lambda x: ((x.get('country_code', ''), x.get('user_id', '')), x.get('revenue', 0)))
                 | 'G3: Group By User' >> beam.GroupByKey()
                 | 'G3: Sum Spend' >> beam.ParDo(AggregateUserSpendFn())
                 | 'G3: Group By Country' >> beam.GroupByKey()
