@@ -122,26 +122,18 @@ def run(options, impressions_path, clicks_path):
             # ========================================================
             # BRANCH 4: SIDE PIPELINE: Save Duplicates
             # ========================================================
-            # Turn both duplicate PCollections into lists so we can write them into one file
-            imp_dups_list = impressions_dups | 'Imp Dups to List' >> beam.combiners.ToList()
-            click_dups_list = clicks_dups | 'Click Dups to List' >> beam.combiners.ToList()
 
             (
-                pipeline 
-                | 'Trigger Duplicates Write' >> beam.Create([None])
-                | 'Write Duplicates JSON' >> beam.Map(
-                    lambda _, c_dups, i_dups: json.dump(
-                        {'click_duplicates': c_dups, 'impression_duplicates': i_dups}, 
-                        open('dlq/duplicates_report.json', 'w'), indent=2
-                    ),
-                    c_dups=beam.pvalue.AsSingleton(click_dups_list),
-                    i_dups=beam.pvalue.AsSingleton(imp_dups_list)
-                )
+                clicks_dups
+                | 'Write Duplicate Clicks from File' >> beam.ParDo(WriteToJsonFn('dlq/duplicate_clicks.json'))
+            )
+            (
+                impressions_dups
+                | 'Write Duplicate Impressions from File' >> beam.ParDo(WriteToJsonFn('dlq/duplicate_impressions.json'))
             )
             # ========================================================
             # BRANCH 5: SIDE PIPELINE: Save Invalid Data
             # ========================================================
-            # Turn both invalid PCollections into lists so we can write them into one file
             
             # Write invalid data to separate files
             (

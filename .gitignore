@@ -4,3 +4,7 @@ dlq/invalid_clicks_missing_imp.json
 output/median_spend.json
 output/top_advertisers.json
 output/output_metrics.json
+my_custom_transforms.egg-info/dependency_links.txt
+my_custom_transforms.egg-info/PKG-INFO
+my_custom_transforms.egg-info/SOURCES.txt
+my_custom_transforms.egg-info/top_level.txt
