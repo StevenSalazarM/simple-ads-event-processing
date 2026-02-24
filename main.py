@@ -154,9 +154,6 @@ if __name__ == '__main__':
     
     parser = argparse.ArgumentParser(description="This apache beam job accept three parameters: json impressions path, json clicks path and run mode")
     parser.add_argument(
-        "--run_mode", type=str, default="local", help="Run type", choices=["cloud", "local"], required=False
-    )
-    parser.add_argument(
         "--impressions_json_path", type=str, default="impressions.json", help="Impressions Path", required=False
     )
     parser.add_argument(
