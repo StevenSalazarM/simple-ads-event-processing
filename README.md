@@ -125,6 +125,8 @@ Write the output to a JSON file using the following format:
 
 8. If any of the required fields for the analysis is missing, a empty string will be used. For example if a element in impressions doesn't have the property country_code, an empty string will be used.
 
+9. In case of any unexcepted behaviour, the transformations will still handle the exceptions by just skipping those elements. However, in a real world scenario those should be labeled as unprocessed data and processed in a different step
+
 ## How to run
 
 1. create a virtual environment with python 3.11 (other versions may work but not all are compatible with Apache beam 2.69.0)
