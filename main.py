@@ -39,6 +39,7 @@ def run(options, impressions_path, clicks_path):
             impressions_split = (
                 pipeline 
                 | 'Create Impressions' >> beam.Create(impressions_data)
+                | 'Filter only impressions with id' >> beam.Filter(lambda x: 'id' in x)
                 | 'Map Imp ID' >> beam.Map(lambda x: (x['id'], x))
                 | 'Group Imp by ID' >> beam.GroupByKey()
                 | 'Split Imp Duplicates' >> beam.ParDo(DetectAndSplitDuplicatesFn()).with_outputs('duplicates', 'invalid', main='clean')
@@ -52,6 +53,7 @@ def run(options, impressions_path, clicks_path):
             clicks_split = (
                 pipeline 
                 | 'Create Clicks' >> beam.Create(clicks_data)
+                | 'Filter only clicks with id' >> beam.Filter(lambda x: 'id' in x)
                 | 'Map Click ID' >> beam.Map(lambda x: (x['id'], x))
                 | 'Group Clicks by ID' >> beam.GroupByKey()
                 | 'Split Click Duplicates' >> beam.ParDo(DetectAndSplitDuplicatesFn()).with_outputs('duplicates', 'invalid', main='clean')
@@ -64,7 +66,7 @@ def run(options, impressions_path, clicks_path):
             # Data has been deduplicated and is clean
             # Create the key for clicks and impressions to perform the Join on impression_id
             keyed_clean_impressions = clean_impressions | 'Key Clean Imp' >> beam.Map(lambda x: (x['id'], x))
-            keyed_clean_clicks = clean_clicks | 'Key Clean Clicks' >> beam.Map(lambda x: (x['impression_id'], x))
+            keyed_clean_clicks = clean_clicks | 'Key Clean Clicks' >> beam.Map(lambda x: (x.get('impression_id', ''), x))
 
             joined_data = (
                 {'impressions': keyed_clean_impressions, 'clicks': keyed_clean_clicks}
@@ -79,10 +81,12 @@ def run(options, impressions_path, clicks_path):
             clean_flat_enriched_data = flat_enriched_data.clean
             invalid_clicks_from_join = flat_enriched_data.invalid_clicks
 
-            # Goal 1: Calculate how applications perform by country (total impressions, clicks, and revenue) and save the results in a JSON file.
+            # ========================================================
+            # BRANCH 1: Calculate how applications perform by country (total impressions, clicks, and revenue) and save the results in a JSON file (Goal 1)
+            # ========================================================
             (
                 clean_flat_enriched_data
-                | 'G1: Key Data' >> beam.Map(lambda x: ((x['app_id'], x['country_code']), x))
+                | 'G1: Key Data' >> beam.Map(lambda x: ((x.get('app_id', ''), x.get('country_code', '')), x))
                 | 'G1: Group' >> beam.GroupByKey()
                 | 'G1: Aggregate' >> beam.ParDo(AggregateMetricsFn())
                 | 'G1: To List' >> beam.combiners.ToList()
@@ -90,11 +94,11 @@ def run(options, impressions_path, clicks_path):
             )
 
             # ========================================================
-            # BRANCH 2: Top Advertisers (Goal 2)
+            # BRANCH 2: Top 5 Advertisers for each app/country (Goal 2)
             # ========================================================
             (
                 clean_flat_enriched_data
-                | 'G2: Key Data' >> beam.Map(lambda x: ((x['app_id'], x['country_code'], x['advertiser_id']), x))
+                | 'G2: Key Data' >> beam.Map(lambda x: ((x.get('app_id', ''), x.get('country_code', ''), x.get('advertiser_id', '')), x))
                 | 'G2: Group By Adv' >> beam.GroupByKey()
                 | 'G2: Filter & Calc RPM' >> beam.ParDo(AggregateAdvertiserMetricsFn())
                 | 'G2: Group By App/Country' >> beam.GroupByKey()
@@ -108,7 +112,7 @@ def run(options, impressions_path, clicks_path):
             # ========================================================
             (
                 clean_flat_enriched_data
-                | 'G3: Key Data' >> beam.Map(lambda x: ((x['country_code'], x['user_id']), x['revenue']))
+                | 'G3: Key Data' >> beam.Map(lambda x: ((x.get('country_code', ''), x.get('user_id', '')), x.get('revenue', 0)))
                 | 'G3: Group By User' >> beam.GroupByKey()
                 | 'G3: Sum Spend' >> beam.ParDo(AggregateUserSpendFn())
                 | 'G3: Group By Country' >> beam.GroupByKey()
@@ -120,41 +124,31 @@ def run(options, impressions_path, clicks_path):
             # ========================================================
             # BRANCH 4: SIDE PIPELINE: Save Duplicates
             # ========================================================
-            # Turn both duplicate PCollections into lists so we can write them into one file
-            imp_dups_list = impressions_dups | 'Imp Dups to List' >> beam.combiners.ToList()
-            click_dups_list = clicks_dups | 'Click Dups to List' >> beam.combiners.ToList()
 
             (
-                pipeline 
-                | 'Trigger Duplicates Write' >> beam.Create([None])
-                | 'Write Duplicates JSON' >> beam.Map(
-                    lambda _, c_dups, i_dups: json.dump(
-                        {'click_duplicates': c_dups, 'impression_duplicates': i_dups}, 
-                        open('dql/duplicates_report.json', 'w'), indent=2
-                    ),
-                    c_dups=beam.pvalue.AsSingleton(click_dups_list),
-                    i_dups=beam.pvalue.AsSingleton(imp_dups_list)
-                )
+                clicks_dups
+                | 'Write Duplicate Clicks from File' >> beam.ParDo(WriteToJsonFn('dlq/duplicate_clicks.json'))
+            )
+            (
+                impressions_dups
+                | 'Write Duplicate Impressions from File' >> beam.ParDo(WriteToJsonFn('dlq/duplicate_impressions.json'))
             )
             # ========================================================
             # BRANCH 5: SIDE PIPELINE: Save Invalid Data
             # ========================================================
-            # Turn both invalid PCollections into lists so we can write them into one file
-            invalid_imps_list = invalid_impressions | 'Invalid Imps to List' >> beam.combiners.ToList()
-            invalid_clicks_list = invalid_clicks | 'Invalid Clicks to List' >> beam.combiners.ToList()  
             
             # Write invalid data to separate files
             (
                 invalid_clicks_from_join
-                | 'Write Invalid Clicks from Join' >> beam.ParDo(WriteToJsonFn('dql/invalid_clicks_missing_imp.json'))
+                | 'Write Invalid Clicks from Join' >> beam.ParDo(WriteToJsonFn('dlq/invalid_clicks_missing_imp.json'))
             )
             (
                 invalid_clicks
-                | 'Write Invalid Clicks from File' >> beam.ParDo(WriteToJsonFn('dql/invalid_clicks.json'))
+                | 'Write Invalid Clicks from File' >> beam.ParDo(WriteToJsonFn('dlq/invalid_clicks.json'))
             )
             (
                 invalid_impressions
-                | 'Write Invalid Impressions from File' >> beam.ParDo(WriteToJsonFn('dql/invalid_impressions.json'))
+                | 'Write Invalid Impressions from File' >> beam.ParDo(WriteToJsonFn('dlq/invalid_impressions.json'))
             )
 
 if __name__ == '__main__':
@@ -162,13 +156,10 @@ if __name__ == '__main__':
     
     parser = argparse.ArgumentParser(description="This apache beam job accept three parameters: json impressions path, json clicks path and run mode")
     parser.add_argument(
-        "--run_mode", type=str, default="local", help="Run type", choices=["cloud", "local"], required=False
+        "--impressions_json_path", type=str, default="input/impressions.json", help="Impressions Path", required=False
     )
     parser.add_argument(
-        "--impressions_json_path", type=str, default="impressions.json", help="Impressions Path", required=False
-    )
-    parser.add_argument(
-        "--clicks_json_path", type=str, default="clicks.json", help="Clicks Path", required=False
+        "--clicks_json_path", type=str, default="input/clicks.json", help="Clicks Path", required=False
     )
 
     args, pipeline_args = parser.parse_known_args()

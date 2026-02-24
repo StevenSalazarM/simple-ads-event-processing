@@ -1,1 +1,11 @@
 *.pyc
+dlq/*.json
+output/*.json
+my_custom_transforms.egg-info/dependency_links.txt
+my_custom_transforms.egg-info/PKG-INFO
+my_custom_transforms.egg-info/SOURCES.txt
+my_custom_transforms.egg-info/top_level.txt
+myenv/*
+myenv*
+.venv/*
+dlq*

@@ -1,10 +1,10 @@
 {
-  "impression_id": "3d49e4ac-522e-4d30-8e71-e40479b8bbe4",
+  "impression_id": "569cfe98-6047-4a9e-9daf-c727414cac0e",
   "clicks": [
     {
-      "id": "4a49ab1e-773a-4066-99b5-e5161ba5abe3",
-      "impression_id": "3d49e4ac-522e-4d30-8e71-e40479b8bbe4",
-      "revenue": 1.44
+      "id": "5f7f4d83-b710-4baf-a64e-eeb35ae1d5f3",
+      "impression_id": "569cfe98-6047-4a9e-9daf-c727414cac0e",
+      "revenue": 1.1
     }
   ],
   "error": "Click(s) without corresponding impression"
