@@ -79,7 +79,9 @@ def run(options, impressions_path, clicks_path):
             clean_flat_enriched_data = flat_enriched_data.clean
             invalid_clicks_from_join = flat_enriched_data.invalid_clicks
 
-            # Goal 1: Calculate how applications perform by country (total impressions, clicks, and revenue) and save the results in a JSON file.
+            # ========================================================
+            # BRANCH 1: Calculate how applications perform by country (total impressions, clicks, and revenue) and save the results in a JSON file (Goal 1)
+            # ========================================================
             (
                 clean_flat_enriched_data
                 | 'G1: Key Data' >> beam.Map(lambda x: ((x['app_id'], x['country_code']), x))
@@ -90,7 +92,7 @@ def run(options, impressions_path, clicks_path):
             )
 
             # ========================================================
-            # BRANCH 2: Top Advertisers (Goal 2)
+            # BRANCH 2: Top 5 Advertisers for each app/country (Goal 2)
             # ========================================================
             (
                 clean_flat_enriched_data
@@ -130,7 +132,7 @@ def run(options, impressions_path, clicks_path):
                 | 'Write Duplicates JSON' >> beam.Map(
                     lambda _, c_dups, i_dups: json.dump(
                         {'click_duplicates': c_dups, 'impression_duplicates': i_dups}, 
-                        open('dql/duplicates_report.json', 'w'), indent=2
+                        open('dlq/duplicates_report.json', 'w'), indent=2
                     ),
                     c_dups=beam.pvalue.AsSingleton(click_dups_list),
                     i_dups=beam.pvalue.AsSingleton(imp_dups_list)
@@ -140,21 +142,19 @@ def run(options, impressions_path, clicks_path):
             # BRANCH 5: SIDE PIPELINE: Save Invalid Data
             # ========================================================
             # Turn both invalid PCollections into lists so we can write them into one file
-            invalid_imps_list = invalid_impressions | 'Invalid Imps to List' >> beam.combiners.ToList()
-            invalid_clicks_list = invalid_clicks | 'Invalid Clicks to List' >> beam.combiners.ToList()  
             
             # Write invalid data to separate files
             (
                 invalid_clicks_from_join
-                | 'Write Invalid Clicks from Join' >> beam.ParDo(WriteToJsonFn('dql/invalid_clicks_missing_imp.json'))
+                | 'Write Invalid Clicks from Join' >> beam.ParDo(WriteToJsonFn('dlq/invalid_clicks_missing_imp.json'))
             )
             (
                 invalid_clicks
-                | 'Write Invalid Clicks from File' >> beam.ParDo(WriteToJsonFn('dql/invalid_clicks.json'))
+                | 'Write Invalid Clicks from File' >> beam.ParDo(WriteToJsonFn('dlq/invalid_clicks.json'))
             )
             (
                 invalid_impressions
-                | 'Write Invalid Impressions from File' >> beam.ParDo(WriteToJsonFn('dql/invalid_impressions.json'))
+                | 'Write Invalid Impressions from File' >> beam.ParDo(WriteToJsonFn('dlq/invalid_impressions.json'))
             )
 
 if __name__ == '__main__':

@@ -2,27 +2,7 @@ import apache_beam as beam
 import json
 
 # --- 1. SHARED TRANSFORMS ---
-class ValidateAndKeyFn(beam.DoFn):
-    """
-    Validates that a dictionary contains all required fields.
-    If valid, yields a tuple of (key, element) for downstream grouping.
-    If invalid, diverts the raw dictionary to a 'malformed' side output.
-    """
-    def __init__(self, required_fields, key_field):
-        self.required_fields = required_fields
-        self.key_field = key_field
-
-    def process(self, element):
-        # Check if ALL required fields are present and not None
-        is_valid = all(field in element and element[field] is not None for field in self.required_fields)
-        
-        if is_valid:
-            # Safe to extract the key
-            yield (element[self.key_field], element)
-        else:
-            # Divert to Dead Letter Queue (DLQ)
-            yield beam.pvalue.TaggedOutput('malformed', element)
-            
+           
 class DetectAndSplitDuplicatesFn(beam.DoFn):
     def process(self, element):
         record_id, records_iterable = element
@@ -122,23 +102,28 @@ class AggregateAdvertiserMetricsFn(beam.DoFn):
         total_impressions = sum(m['impressions'] for m in metrics)
         total_revenue = sum(m['revenue'] for m in metrics)
         
-        if total_impressions >= 5:
-            rpm = total_revenue / total_impressions
-            yield ((app_id, country_code), {
+        #if total_impressions >= 5:
+        rpm = total_revenue / total_impressions if total_impressions > 0 else 0
+        yield ((app_id, country_code), {
                 'advertiser_id': advertiser_id,
-                'rpm': rpm
-            })
+                'rpm': rpm,
+                'total_impressions': total_impressions,
+        })
 
 class GetTopAdvertisersFn(beam.DoFn):
     def process(self, element):
         (app_id, country_code), advertisers = element
-        sorted_advs = sorted(list(advertisers), key=lambda x: x['rpm'], reverse=True)
-        
-        yield {
-            'app_id': app_id,
-            'country_code': country_code,
-            'recommended_advertiser_ids': [x['advertiser_id'] for x in sorted_advs[:5]]
-        }
+        # Only keep advertisers with >= 5 impressions
+        valid_advertisers = [adv for adv in advertisers if adv['total_impressions'] >= 5]
+        # sort by RPM and get top 5
+        sorted_advs = sorted(list(valid_advertisers), key=lambda x: x['rpm'], reverse=True)
+        top_5_ids = [x['advertiser_id'] for x in sorted_advs[:5]]
+        if len(top_5_ids) > 0:
+            yield {
+                'app_id': app_id,
+                'country_code': country_code,
+                'recommended_advertiser_ids': top_5_ids
+            }
 
 
 # --- 4. GOAL 3: MEDIAN SPEND ---

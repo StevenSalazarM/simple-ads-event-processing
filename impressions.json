@@ -7263,6 +7263,93 @@
     "user_id": "8c0f023e-451c-4336-a620-eb66e4a0d3c9",
     "app_id": 2,
     "country_code": "US",
-    "advertiser_id": 20
-  }
+    "advertiser_id": 6
+  },
+  {
+    "id": "f0000100-0000-4000-8000-000000000001", "user_id": "u0000000-0000-0000-0000-000000000001", "app_id": 1, "country_code": "US", "advertiser_id": 100
+  },
+  {
+    "id": "f0000100-0000-4000-8000-000000000002", "user_id": "u0000000-0000-0000-0000-000000000001", "app_id": 1, "country_code": "US", "advertiser_id": 100
+  },
+  {
+    "id": "f0000100-0000-4000-8000-000000000003", "user_id": "u0000000-0000-0000-0000-000000000002", "app_id": 1, "country_code": "US", "advertiser_id": 100
+  },
+  {
+    "id": "f0000100-0000-4000-8000-000000000004", "user_id": "u0000000-0000-0000-0000-000000000002", "app_id": 1, "country_code": "US", "advertiser_id": 100
+  },
+  {
+    "id": "f0000100-0000-4000-8000-000000000005", "user_id": "u0000000-0000-0000-0000-000000000003", "app_id": 1, "country_code": "US", "advertiser_id": 100
+  },
+  {
+    "id": "f0000100-0000-4000-8000-000000000006", "user_id": "u0000000-0000-0000-0000-000000000003", "app_id": 1, "country_code": "US", "advertiser_id": 100
+  },
+  {
+    "id": "f0000101-0000-4000-8000-000000000001", "user_id": "u0000000-0000-0000-0000-000000000004", "app_id": 1, "country_code": "US", "advertiser_id": 101
+  },
+  {
+    "id": "f0000101-0000-4000-8000-000000000002", "user_id": "u0000000-0000-0000-0000-000000000004", "app_id": 1, "country_code": "US", "advertiser_id": 101
+  },
+  {
+    "id": "f0000101-0000-4000-8000-000000000003", "user_id": "u0000000-0000-0000-0000-000000000005", "app_id": 1, "country_code": "US", "advertiser_id": 101
+  },
+  {
+    "id": "f0000101-0000-4000-8000-000000000004", "user_id": "u0000000-0000-0000-0000-000000000005", "app_id": 1, "country_code": "US", "advertiser_id": 101
+  },
+  {
+    "id": "f0000101-0000-4000-8000-000000000005", "user_id": "u0000000-0000-0000-0000-000000000006", "app_id": 1, "country_code": "US", "advertiser_id": 101
+  },
+  {
+    "id": "f0000102-0000-4000-8000-000000000001", "user_id": "u0000000-0000-0000-0000-000000000007", "app_id": 1, "country_code": "US", "advertiser_id": 102
+  },
+  {
+    "id": "f0000102-0000-4000-8000-000000000002", "user_id": "u0000000-0000-0000-0000-000000000007", "app_id": 1, "country_code": "US", "advertiser_id": 102
+  },
+  {
+    "id": "f0000102-0000-4000-8000-000000000003", "user_id": "u0000000-0000-0000-0000-000000000008", "app_id": 1, "country_code": "US", "advertiser_id": 102
+  },
+  {
+    "id": "f0000102-0000-4000-8000-000000000004", "user_id": "u0000000-0000-0000-0000-000000000008", "app_id": 1, "country_code": "US", "advertiser_id": 102
+  },
+  {
+    "id": "f0000102-0000-4000-8000-000000000005", "user_id": "u0000000-0000-0000-0000-000000000009", "app_id": 1, "country_code": "US", "advertiser_id": 102
+  },
+  {
+    "id": "f0000103-0000-4000-8000-000000000001", "user_id": "u0000000-0000-0000-0000-000000000010", "app_id": 1, "country_code": "US", "advertiser_id": 103
+  },
+  {
+    "id": "f0000103-0000-4000-8000-000000000002", "user_id": "u0000000-0000-0000-0000-000000000010", "app_id": 1, "country_code": "US", "advertiser_id": 103
+  },
+  {
+    "id": "f0000103-0000-4000-8000-000000000003", "user_id": "u0000000-0000-0000-0000-000000000011", "app_id": 1, "country_code": "US", "advertiser_id": 103
+  },
+  { "id": "imp_app3_300_1", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 300 },
+  { "id": "imp_app3_300_2", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 300 },
+  { "id": "imp_app3_300_3", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 300 },
+  { "id": "imp_app3_300_4", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 300 },
+  { "id": "imp_app3_300_5", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 300 },
+  { "id": "imp_app3_301_1", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 301 },
+  { "id": "imp_app3_301_2", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 301 },
+  { "id": "imp_app3_301_3", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 301 },
+  { "id": "imp_app3_301_4", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 301 },
+  { "id": "imp_app3_301_5", "user_id": "user_app3", "app_id": 3, "country_code": "UK", "advertiser_id": 301 },
+  { "id": "imp_app4_400_1", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 400 },
+  { "id": "imp_app4_400_2", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 400 },
+  { "id": "imp_app4_400_3", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 400 },
+  { "id": "imp_app4_400_4", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 400 },
+  { "id": "imp_app4_400_5", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 400 },
+  { "id": "imp_app4_401_1", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 401 },
+  { "id": "imp_app4_401_2", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 401 },
+  { "id": "imp_app4_401_3", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 401 },
+  { "id": "imp_app4_401_4", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 401 },
+  { "id": "imp_app4_401_5", "user_id": "user_app4", "app_id": 4, "country_code": "DE", "advertiser_id": 401 },
+  { "id": "imp_app5_500_1", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 500 },
+  { "id": "imp_app5_500_2", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 500 },
+  { "id": "imp_app5_500_3", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 500 },
+  { "id": "imp_app5_500_4", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 500 },
+  { "id": "imp_app5_500_5", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 500 },
+  { "id": "imp_app5_501_1", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 501 },
+  { "id": "imp_app5_501_2", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 501 },
+  { "id": "imp_app5_501_3", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 501 },
+  { "id": "imp_app5_501_4", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 501 },
+  { "id": "imp_app5_501_5", "user_id": "user_app5", "app_id": 5, "country_code": "FR", "advertiser_id": 501 }
 ]

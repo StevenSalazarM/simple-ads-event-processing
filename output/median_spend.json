@@ -1,51 +1,11 @@
 [
   {
-    "country_code": "BR",
-    "median_spend": 1.88
-  },
-  {
-    "country_code": "DE",
-    "median_spend": 0.81
-  },
-  {
-    "country_code": "MX",
-    "median_spend": 1.44
-  },
-  {
-    "country_code": "XX",
-    "median_spend": 0
-  },
-  {
-    "country_code": "AU",
-    "median_spend": 1.595
-  },
-  {
     "country_code": null,
     "median_spend": 0.86
   },
   {
-    "country_code": "FR",
-    "median_spend": 0.79
-  },
-  {
     "country_code": "CA",
     "median_spend": 1.22
-  },
-  {
-    "country_code": "??",
-    "median_spend": 0.945
-  },
-  {
-    "country_code": "JP",
-    "median_spend": 1.58
-  },
-  {
-    "country_code": "US",
-    "median_spend": 1.54
-  },
-  {
-    "country_code": "ZZZ",
-    "median_spend": 1.48
   },
   {
     "country_code": "GB",
@@ -54,5 +14,49 @@
   {
     "country_code": "IN",
     "median_spend": 0.79
+  },
+  {
+    "country_code": "BR",
+    "median_spend": 1.88
+  },
+  {
+    "country_code": "XX",
+    "median_spend": 0
+  },
+  {
+    "country_code": "UK",
+    "median_spend": 17.0
+  },
+  {
+    "country_code": "MX",
+    "median_spend": 1.44
+  },
+  {
+    "country_code": "US",
+    "median_spend": 1.48
+  },
+  {
+    "country_code": "ZZZ",
+    "median_spend": 1.48
+  },
+  {
+    "country_code": "JP",
+    "median_spend": 1.58
+  },
+  {
+    "country_code": "FR",
+    "median_spend": 0.815
+  },
+  {
+    "country_code": "DE",
+    "median_spend": 0.83
+  },
+  {
+    "country_code": "AU",
+    "median_spend": 1.595
+  },
+  {
+    "country_code": "??",
+    "median_spend": 0.945
   }
 ]
