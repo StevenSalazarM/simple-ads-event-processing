@@ -136,6 +136,6 @@ Write the output to a JSON file using the following format:
 
 2. Once the requirements have been installed, simply run the following command
     ```bash
-    python main.py --impressions_json_path=original_impressions.json --clicks_json_path=original_clicks.json
+    python main.py --impressions_json_path=input/original_impressions.json --clicks_json_path=input/original_clicks.json
     ```
 impressions_json_path and clicks_json_path are optional and if missing they will pick the two files clicks.json and impressions.json from the root directory.
