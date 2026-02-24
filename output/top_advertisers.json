@@ -1,0 +1,50 @@
+[
+  {
+    "app_id": 2,
+    "country_code": "US",
+    "recommended_advertiser_ids": [
+      15,
+      14,
+      3,
+      5,
+      2
+    ]
+  },
+  {
+    "app_id": 2,
+    "country_code": "CA",
+    "recommended_advertiser_ids": [
+      20
+    ]
+  },
+  {
+    "app_id": 1,
+    "country_code": "CA",
+    "recommended_advertiser_ids": [
+      2,
+      14,
+      16,
+      11,
+      15
+    ]
+  },
+  {
+    "app_id": 3,
+    "country_code": "US",
+    "recommended_advertiser_ids": [
+      13,
+      18
+    ]
+  },
+  {
+    "app_id": 1,
+    "country_code": "US",
+    "recommended_advertiser_ids": [
+      8,
+      18,
+      10,
+      20,
+      17
+    ]
+  }
+]

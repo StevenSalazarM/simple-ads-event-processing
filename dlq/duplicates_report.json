@@ -1,0 +1,74 @@
+{
+  "click_duplicates": [
+    {
+      "id": "2add46d1-e846-4566-a4f4-4b99f596a75b",
+      "duplicate_count": 4
+    },
+    {
+      "id": "b2fd2fd5-8313-4112-b76c-dd8a6f9d776c",
+      "duplicate_count": 3
+    }
+  ],
+  "impression_duplicates": [
+    {
+      "id": "053c83fa-8f41-4658-8ee7-0cc136d61358",
+      "duplicate_count": 4
+    },
+    {
+      "id": "5344dd86-b7be-4e03-96a6-a472d3806399",
+      "duplicate_count": 3
+    },
+    {
+      "id": "ac3e49f2-2dca-431c-bbf9-6a4d4bb35cf9",
+      "duplicate_count": 4
+    },
+    {
+      "id": "504a9c68-6344-4a89-9c00-fe01a4f890e6",
+      "duplicate_count": 4
+    },
+    {
+      "id": "69ff98b0-9ec3-4823-9309-fcdeaa21e6fa",
+      "duplicate_count": 4
+    },
+    {
+      "id": "8de09aea-af17-47b1-8109-bbf5de0cb573",
+      "duplicate_count": 3
+    },
+    {
+      "id": "0d72a2fd-c030-4364-b21f-561b68ef73d9",
+      "duplicate_count": 4
+    },
+    {
+      "id": "d192088b-d6ac-4933-80bf-407511924a8e",
+      "duplicate_count": 3
+    },
+    {
+      "id": "6653311e-7a58-47a6-b90a-2493afef62b7",
+      "duplicate_count": 3
+    },
+    {
+      "id": "844b28f2-6d66-4536-9669-f7212cba9349",
+      "duplicate_count": 4
+    },
+    {
+      "id": "2c697b11-9a4d-4b53-8fa9-579cae75acc5",
+      "duplicate_count": 3
+    },
+    {
+      "id": "161da83f-d23b-40b0-84a1-075ac8e015fa",
+      "duplicate_count": 3
+    },
+    {
+      "id": "ecfd63f0-5491-4674-ac51-9fdfd9de51e0",
+      "duplicate_count": 4
+    },
+    {
+      "id": "34c273e1-b343-4974-94ec-54963ff11a76",
+      "duplicate_count": 4
+    },
+    {
+      "id": "bec49620-a93f-48b2-a6ca-c081e86ae98d",
+      "duplicate_count": 3
+    }
+  ]
+}

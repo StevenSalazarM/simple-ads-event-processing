@@ -1,0 +1,11 @@
+{
+  "id": 123,
+  "record": [
+    {
+      "id": 123,
+      "impression_id": "c1a3d0eb-b35f-4212-81ed-0b38696eff2b",
+      "revenue": 2.38
+    }
+  ],
+  "error": "Invalid or missing ID"
+}

@@ -86,7 +86,7 @@ def run(options, impressions_path, clicks_path):
                 | 'G1: Group' >> beam.GroupByKey()
                 | 'G1: Aggregate' >> beam.ParDo(AggregateMetricsFn())
                 | 'G1: To List' >> beam.combiners.ToList()
-                | 'G1: Write JSON' >> beam.ParDo(WriteToJsonFn('output_metrics.json'))
+                | 'G1: Write JSON' >> beam.ParDo(WriteToJsonFn('output/output_metrics.json'))
             )
 
             # ========================================================
@@ -100,7 +100,7 @@ def run(options, impressions_path, clicks_path):
                 | 'G2: Group By App/Country' >> beam.GroupByKey()
                 | 'G2: Top 5' >> beam.ParDo(GetTopAdvertisersFn())
                 | 'G2: To List' >> beam.combiners.ToList()
-                | 'G2: Write JSON' >> beam.ParDo(WriteToJsonFn('top_advertisers.json'))
+                | 'G2: Write JSON' >> beam.ParDo(WriteToJsonFn('output/top_advertisers.json'))
             )
 
             # ========================================================
@@ -114,7 +114,7 @@ def run(options, impressions_path, clicks_path):
                 | 'G3: Group By Country' >> beam.GroupByKey()
                 | 'G3: Calc Median' >> beam.ParDo(CalculateMedianSpendFn())
                 | 'G3: To List' >> beam.combiners.ToList()
-                | 'G3: Write JSON' >> beam.ParDo(WriteToJsonFn('median_spend.json'))
+                | 'G3: Write JSON' >> beam.ParDo(WriteToJsonFn('output/median_spend.json'))
             )
 
             # ========================================================
@@ -130,7 +130,7 @@ def run(options, impressions_path, clicks_path):
                 | 'Write Duplicates JSON' >> beam.Map(
                     lambda _, c_dups, i_dups: json.dump(
                         {'click_duplicates': c_dups, 'impression_duplicates': i_dups}, 
-                        open('duplicates_report.json', 'w'), indent=2
+                        open('dql/duplicates_report.json', 'w'), indent=2
                     ),
                     c_dups=beam.pvalue.AsSingleton(click_dups_list),
                     i_dups=beam.pvalue.AsSingleton(imp_dups_list)
@@ -146,15 +146,15 @@ def run(options, impressions_path, clicks_path):
             # Write invalid data to separate files
             (
                 invalid_clicks_from_join
-                | 'Write Invalid Clicks from Join' >> beam.ParDo(WriteToJsonFn('invalid_clicks_missing_imp.json'))
+                | 'Write Invalid Clicks from Join' >> beam.ParDo(WriteToJsonFn('dql/invalid_clicks_missing_imp.json'))
             )
             (
                 invalid_clicks
-                | 'Write Invalid Clicks from File' >> beam.ParDo(WriteToJsonFn('invalid_clicks.json'))
+                | 'Write Invalid Clicks from File' >> beam.ParDo(WriteToJsonFn('dql/invalid_clicks.json'))
             )
             (
                 invalid_impressions
-                | 'Write Invalid Impressions from File' >> beam.ParDo(WriteToJsonFn('invalid_impressions.json'))
+                | 'Write Invalid Impressions from File' >> beam.ParDo(WriteToJsonFn('dql/invalid_impressions.json'))
             )
 
 if __name__ == '__main__':
