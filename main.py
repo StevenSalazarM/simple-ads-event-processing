@@ -127,10 +127,12 @@ def run(options, impressions_path, clicks_path):
 
             (
                 clicks_dups
+                | 'Aggregate clicks duplicates to List' >> beam.combiners.ToList()
                 | 'Write Duplicate Clicks from File' >> beam.ParDo(WriteToJsonFn('dlq/duplicate_clicks.json'))
             )
             (
                 impressions_dups
+                | 'Aggregate impressions duplicates to List' >> beam.combiners.ToList()
                 | 'Write Duplicate Impressions from File' >> beam.ParDo(WriteToJsonFn('dlq/duplicate_impressions.json'))
             )
             # ========================================================
